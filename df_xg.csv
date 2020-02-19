@@ -1,0 +1,1825 @@
+,Wk,Day,Date,Home,xG,xG.1,Away,Attendance,Venue,Referee,league,home_goals,away_goals
+0,1.0,Fri,8/10/18,Manchester Utd,1.6,1.1,Leicester City,74439.0,Old Trafford,Andre Marriner,epl,2,1
+1,1.0,Sat,8/11/18,Newcastle Utd,0.9,1.9,Tottenham,51749.0,St. James' Park,Martin Atkinson,epl,1,2
+2,1.0,Sat,8/11/18,Huddersfield,0.5,1.9,Chelsea,24121.0,The John Smith's Stadium,Chris Kavanagh,epl,0,3
+3,1.0,Sat,8/11/18,Fulham,0.6,0.9,Crystal Palace,24821.0,Craven Cottage,Mike Dean,epl,0,2
+4,1.0,Sat,8/11/18,Watford,1.6,0.3,Brighton,20051.0,Vicarage Road Stadium,Jonathan Moss,epl,2,0
+5,1.0,Sat,8/11/18,Bournemouth,2.3,1.5,Cardiff City,10353.0,Vitality Stadium,Kevin Friend,epl,2,0
+6,1.0,Sat,8/11/18,Wolves,0.7,0.8,Everton,31231.0,Molineux Stadium,Craig Pawson,epl,2,2
+7,1.0,Sun,8/12/18,Southampton,1.0,1.2,Burnley,30784.0,St. Mary's Stadium,Graham Scott,epl,0,0
+8,1.0,Sun,8/12/18,Liverpool,3.7,0.8,West Ham,53235.0,Anfield,Anthony Taylor,epl,4,0
+9,1.0,Sun,8/12/18,Arsenal,0.4,1.8,Manchester City,59934.0,Emirates Stadium,Michael Oliver,epl,0,2
+10,2.0,Sat,8/18/18,Cardiff City,1.0,1.5,Newcastle Utd,30720.0,Cardiff City Stadium,Craig Pawson,epl,0,0
+11,2.0,Sat,8/18/18,West Ham,1.2,1.6,Bournemouth,56888.0,London Stadium,Stuart Attwell,epl,1,2
+12,2.0,Sat,8/18/18,Everton,1.5,1.8,Southampton,38601.0,Goodison Park,Lee Mason,epl,2,1
+13,2.0,Sat,8/18/18,Leicester City,0.2,1.2,Wolves,32043.0,King Power Stadium,Mike Dean,epl,2,0
+14,2.0,Sat,8/18/18,Tottenham,2.9,1.3,Fulham,58297.0,Wembley Stadium,Anthony Taylor,epl,3,1
+15,2.0,Sat,8/18/18,Chelsea,2.3,2.0,Arsenal,40491.0,Stamford Bridge,Martin Atkinson,epl,3,2
+16,2.0,Sun,8/19/18,Burnley,0.4,1.6,Watford,18822.0,Turf Moor,Paul Tierney,epl,1,3
+17,2.0,Sun,8/19/18,Manchester City,3.3,0.8,Huddersfield,54021.0,Etihad Stadium,Andre Marriner,epl,6,1
+18,2.0,Sun,8/19/18,Brighton,1.8,1.4,Manchester Utd,30592.0,The American Express Community Stadium,Kevin Friend,epl,3,2
+19,2.0,Mon,8/20/18,Crystal Palace,0.5,2.5,Liverpool,25750.0,Selhurst Park,Michael Oliver,epl,0,2
+20,3.0,Sat,8/25/18,Wolves,1.0,1.9,Manchester City,31322.0,Molineux Stadium,Martin Atkinson,epl,1,1
+21,3.0,Sat,8/25/18,Arsenal,1.7,1.5,West Ham,59830.0,Emirates Stadium,Graham Scott,epl,3,1
+22,3.0,Sat,8/25/18,Huddersfield,0.3,1.3,Cardiff City,21193.0,The John Smith's Stadium,Michael Oliver,epl,0,0
+23,3.0,Sat,8/25/18,Southampton,0.6,0.6,Leicester City,29925.0,St. Mary's Stadium,Jonathan Moss,epl,1,2
+24,3.0,Sat,8/25/18,Bournemouth,2.7,0.5,Everton,10654.0,Vitality Stadium,Lee Probert,epl,2,2
+25,3.0,Sat,8/25/18,Liverpool,1.5,0.4,Brighton,53294.0,Anfield,Chris Kavanagh,epl,1,0
+26,3.0,Sun,8/26/18,Watford,1.0,1.4,Crystal Palace,20014.0,Vicarage Road Stadium,Anthony Taylor,epl,2,1
+27,3.0,Sun,8/26/18,Newcastle Utd,0.3,1.5,Chelsea,51791.0,St. James' Park,Paul Tierney,epl,1,2
+28,3.0,Sun,8/26/18,Fulham,2.0,1.5,Burnley,23438.0,Craven Cottage,David Coote,epl,4,2
+29,3.0,Mon,8/27/18,Manchester Utd,2.9,1.3,Tottenham,74400.0,Old Trafford,Craig Pawson,epl,0,3
+30,4.0,Sat,9/1/18,Leicester City,1.0,1.0,Liverpool,32149.0,King Power Stadium,Paul Tierney,epl,1,2
+31,4.0,Sat,9/1/18,West Ham,1.2,1.5,Wolves,56947.0,London Stadium,Chris Kavanagh,epl,0,1
+32,4.0,Sat,9/1/18,Everton,0.8,0.7,Huddersfield,38767.0,Goodison Park,Stuart Attwell,epl,1,1
+33,4.0,Sat,9/1/18,Chelsea,1.4,0.9,Bournemouth,40178.0,Stamford Bridge,Lee Mason,epl,2,0
+34,4.0,Sat,9/1/18,Brighton,3.2,1.4,Fulham,30526.0,The American Express Community Stadium,Lee Probert,epl,2,2
+35,4.0,Sat,9/1/18,Crystal Palace,1.9,2.5,Southampton,25495.0,Selhurst Park,Martin Atkinson,epl,0,2
+36,4.0,Sat,9/1/18,Manchester City,2.4,0.5,Newcastle Utd,53946.0,Etihad Stadium,Kevin Friend,epl,2,1
+37,4.0,Sun,9/2/18,Cardiff City,1.6,1.8,Arsenal,32316.0,Cardiff City Stadium,Anthony Taylor,epl,2,3
+38,4.0,Sun,9/2/18,Watford,0.6,0.6,Tottenham,20141.0,Vicarage Road Stadium,Andre Marriner,epl,2,1
+39,4.0,Sun,9/2/18,Burnley,0.8,3.7,Manchester Utd,21525.0,Turf Moor,Jonathan Moss,epl,0,2
+40,5.0,Sat,9/15/18,Tottenham,0.7,2.4,Liverpool,80188.0,Wembley Stadium,Michael Oliver,epl,1,2
+41,5.0,Sat,9/15/18,Bournemouth,1.7,2.1,Leicester City,10543.0,Vitality Stadium,Craig Pawson,epl,4,2
+42,5.0,Sat,9/15/18,Newcastle Utd,0.3,0.7,Arsenal,52165.0,St. James' Park,Lee Probert,epl,1,2
+43,5.0,Sat,9/15/18,Huddersfield,0.9,1.1,Crystal Palace,23696.0,The John Smith's Stadium,Lee Mason,epl,0,1
+44,5.0,Sat,9/15/18,Manchester City,4.5,0.4,Fulham,53307.0,Etihad Stadium,Stuart Attwell,epl,3,0
+45,5.0,Sat,9/15/18,Chelsea,2.5,0.8,Cardiff City,40499.0,Stamford Bridge,Jonathan Moss,epl,4,1
+46,5.0,Sat,9/15/18,Watford,1.1,1.3,Manchester Utd,20537.0,Vicarage Road Stadium,Mike Dean,epl,1,2
+47,5.0,Sun,9/16/18,Wolves,3.1,0.3,Burnley,30406.0,Molineux Stadium,Andre Marriner,epl,1,0
+48,5.0,Sun,9/16/18,Everton,1.4,1.5,West Ham,39161.0,Goodison Park,Martin Atkinson,epl,1,3
+49,5.0,Mon,9/17/18,Southampton,1.7,2.0,Brighton,28811.0,St. Mary's Stadium,Anthony Taylor,epl,2,2
+50,6.0,Sat,9/22/18,Fulham,1.6,1.7,Watford,23418.0,Craven Cottage,Martin Atkinson,epl,1,1
+51,6.0,Sat,9/22/18,Cardiff City,0.1,2.4,Manchester City,32321.0,Cardiff City Stadium,Michael Oliver,epl,0,5
+52,6.0,Sat,9/22/18,Leicester City,1.4,0.7,Huddersfield,31676.0,King Power Stadium,David Coote,epl,3,1
+53,6.0,Sat,9/22/18,Crystal Palace,1.5,0.5,Newcastle Utd,25679.0,Selhurst Park,Andre Marriner,epl,0,0
+54,6.0,Sat,9/22/18,Burnley,1.8,1.2,Bournemouth,18636.0,Turf Moor,Anthony Taylor,epl,4,0
+55,6.0,Sat,9/22/18,Liverpool,2.4,0.3,Southampton,50965.0,Anfield,Paul Tierney,epl,3,0
+56,6.0,Sat,9/22/18,Manchester Utd,0.8,0.8,Wolves,74489.0,Old Trafford,Kevin Friend,epl,1,1
+57,6.0,Sat,9/22/18,Brighton,0.8,2.1,Tottenham,30531.0,The American Express Community Stadium,Chris Kavanagh,epl,1,2
+58,6.0,Sun,9/23/18,West Ham,0.8,1.6,Chelsea,56875.0,London Stadium,Mike Dean,epl,0,0
+59,6.0,Sun,9/23/18,Arsenal,0.9,1.0,Everton,59964.0,Emirates Stadium,Jonathan Moss,epl,2,0
+60,7.0,Sat,9/29/18,West Ham,1.1,0.5,Manchester Utd,56938.0,London Stadium,Michael Oliver,epl,3,1
+61,7.0,Sat,9/29/18,Wolves,1.2,1.1,Southampton,31147.0,Molineux Stadium,Stuart Attwell,epl,2,0
+62,7.0,Sat,9/29/18,Newcastle Utd,0.3,1.4,Leicester City,51523.0,St. James' Park,Simon Hooper,epl,0,2
+63,7.0,Sat,9/29/18,Arsenal,1.4,1.9,Watford,60019.0,Emirates Stadium,Anthony Taylor,epl,2,0
+64,7.0,Sat,9/29/18,Huddersfield,0.4,2.0,Tottenham,23885.0,The John Smith's Stadium,Craig Pawson,epl,0,2
+65,7.0,Sat,9/29/18,Everton,2.2,0.7,Fulham,38788.0,Goodison Park,Roger East,epl,3,0
+66,7.0,Sat,9/29/18,Manchester City,2.7,0.4,Brighton,54152.0,Etihad Stadium,Lee Mason,epl,2,0
+67,7.0,Sat,9/29/18,Chelsea,1.5,1.3,Liverpool,40625.0,Stamford Bridge,Andre Marriner,epl,1,1
+68,7.0,Sun,9/30/18,Cardiff City,1.3,0.3,Burnley,30411.0,Cardiff City Stadium,Martin Atkinson,epl,1,2
+69,7.0,Mon,10/1/18,Bournemouth,1.8,0.5,Crystal Palace,10199.0,Vitality Stadium,Mike Dean,epl,2,1
+70,8.0,Fri,10/5/18,Brighton,1.1,1.2,West Ham,30544.0,The American Express Community Stadium,Kevin Friend,epl,1,0
+71,8.0,Sat,10/6/18,Watford,0.8,2.2,Bournemouth,20139.0,Vicarage Road Stadium,Jonathan Moss,epl,0,4
+72,8.0,Sat,10/6/18,Burnley,0.5,1.4,Huddersfield,20533.0,Turf Moor,Chris Kavanagh,epl,1,1
+73,8.0,Sat,10/6/18,Tottenham,1.9,1.0,Cardiff City,43268.0,Tottenham Hotspur Stadium,Mike Dean,epl,1,0
+74,8.0,Sat,10/6/18,Crystal Palace,0.9,0.9,Wolves,25715.0,Selhurst Park,Michael Oliver,epl,0,1
+75,8.0,Sat,10/6/18,Leicester City,0.9,1.1,Everton,32007.0,King Power Stadium,Andre Marriner,epl,1,2
+76,8.0,Sat,10/6/18,Manchester Utd,2.0,1.8,Newcastle Utd,74519.0,Old Trafford,Anthony Taylor,epl,3,2
+77,8.0,Sun,10/7/18,Fulham,1.3,1.1,Arsenal,25401.0,Craven Cottage,Paul Tierney,epl,1,5
+78,8.0,Sun,10/7/18,Southampton,1.1,2.9,Chelsea,27077.0,St. Mary's Stadium,Craig Pawson,epl,0,3
+79,8.0,Sun,10/7/18,Liverpool,0.6,1.0,Manchester City,52117.0,Anfield,Martin Atkinson,epl,0,0
+80,9.0,Sat,10/20/18,Chelsea,1.8,0.8,Manchester Utd,40721.0,Stamford Bridge,Mike Dean,epl,2,2
+81,9.0,Sat,10/20/18,Newcastle Utd,1.7,0.6,Brighton,50329.0,St. James' Park,Andre Marriner,epl,0,1
+82,9.0,Sat,10/20/18,Wolves,0.7,0.9,Watford,31144.0,Molineux Stadium,Lee Mason,epl,0,2
+83,9.0,Sat,10/20/18,West Ham,1.2,1.1,Tottenham,56921.0,London Stadium,Martin Atkinson,epl,0,1
+84,9.0,Sat,10/20/18,Manchester City,3.6,0.4,Burnley,54094.0,Etihad Stadium,Jonathan Moss,epl,5,0
+85,9.0,Sat,10/20/18,Bournemouth,0.4,0.4,Southampton,10986.0,Vitality Stadium,Lee Probert,epl,0,0
+86,9.0,Sat,10/20/18,Cardiff City,2.0,0.7,Fulham,29681.0,Cardiff City Stadium,Kevin Friend,epl,4,2
+87,9.0,Sat,10/20/18,Huddersfield,0.8,0.7,Liverpool,24263.0,The John Smith's Stadium,Michael Oliver,epl,0,1
+88,9.0,Sun,10/21/18,Everton,1.7,1.2,Crystal Palace,38668.0,Goodison Park,Anthony Taylor,epl,2,0
+89,9.0,Mon,10/22/18,Arsenal,2.9,0.7,Leicester City,59886.0,Emirates Stadium,Chris Kavanagh,epl,3,1
+90,10.0,Sat,10/27/18,Southampton,1.3,0.4,Newcastle Utd,30736.0,St. Mary's Stadium,Chris Kavanagh,epl,0,0
+91,10.0,Sat,10/27/18,Fulham,0.5,2.0,Bournemouth,25071.0,Craven Cottage,Andre Marriner,epl,0,3
+92,10.0,Sat,10/27/18,Brighton,0.5,1.3,Wolves,30654.0,The American Express Community Stadium,Anthony Taylor,epl,1,0
+93,10.0,Sat,10/27/18,Watford,1.8,0.6,Huddersfield,20457.0,Vicarage Road Stadium,Mike Dean,epl,3,0
+94,10.0,Sat,10/27/18,Liverpool,2.0,0.5,Cardiff City,53373.0,Anfield,Stuart Attwell,epl,4,1
+95,10.0,Sat,10/27/18,Leicester City,1.7,1.4,West Ham,31848.0,King Power Stadium,Michael Oliver,epl,1,1
+96,10.0,Sun,10/28/18,Crystal Palace,2.2,0.6,Arsenal,25718.0,Selhurst Park,Martin Atkinson,epl,2,2
+97,10.0,Sun,10/28/18,Burnley,0.6,2.9,Chelsea,21430.0,Turf Moor,Craig Pawson,epl,0,4
+98,10.0,Sun,10/28/18,Manchester Utd,1.9,1.8,Everton,74525.0,Old Trafford,Jonathan Moss,epl,2,1
+99,10.0,Mon,10/29/18,Tottenham,0.6,1.1,Manchester City,56854.0,Tottenham Hotspur Stadium,Kevin Friend,epl,0,1
+100,11.0,Sat,11/3/18,Bournemouth,3.1,3.0,Manchester Utd,10792.0,Vitality Stadium,Paul Tierney,epl,1,2
+101,11.0,Sat,11/3/18,Newcastle Utd,0.8,1.9,Watford,49157.0,St. James' Park,Craig Pawson,epl,1,0
+102,11.0,Sat,11/3/18,Cardiff City,0.8,1.6,Leicester City,30877.0,Cardiff City Stadium,Lee Probert,epl,0,1
+103,11.0,Sat,11/3/18,Everton,2.3,0.3,Brighton,38966.0,Goodison Park,David Coote,epl,3,1
+104,11.0,Sat,11/3/18,West Ham,2.6,0.6,Burnley,56862.0,London Stadium,Roger East,epl,4,2
+105,11.0,Sat,11/3/18,Arsenal,1.5,1.6,Liverpool,59993.0,Emirates Stadium,Andre Marriner,epl,1,1
+106,11.0,Sat,11/3/18,Wolves,2.5,1.2,Tottenham,31185.0,Molineux Stadium,Mike Dean,epl,2,3
+107,11.0,Sun,11/4/18,Manchester City,2.3,1.9,Southampton,53916.0,Etihad Stadium,Lee Mason,epl,6,1
+108,11.0,Sun,11/4/18,Chelsea,1.7,0.6,Crystal Palace,40407.0,Stamford Bridge,Michael Oliver,epl,3,1
+109,11.0,Mon,11/5/18,Huddersfield,0.7,0.6,Fulham,17082.0,The John Smith's Stadium,Anthony Taylor,epl,1,0
+110,12.0,Sat,11/10/18,Cardiff City,1.8,0.6,Brighton,29402.0,Cardiff City Stadium,Martin Atkinson,epl,2,1
+111,12.0,Sat,11/10/18,Southampton,1.0,1.2,Watford,28153.0,St. Mary's Stadium,Simon Hooper,epl,1,1
+112,12.0,Sat,11/10/18,Leicester City,1.5,0.5,Burnley,32184.0,King Power Stadium,Mike Dean,epl,0,0
+113,12.0,Sat,11/10/18,Huddersfield,1.3,2.0,West Ham,24069.0,The John Smith's Stadium,Chris Kavanagh,epl,1,1
+114,12.0,Sat,11/10/18,Newcastle Utd,1.8,1.5,Bournemouth,49266.0,St. James' Park,Lee Probert,epl,2,1
+115,12.0,Sat,11/10/18,Crystal Palace,0.7,0.9,Tottenham,25685.0,Selhurst Park,Jonathan Moss,epl,0,1
+116,12.0,Sun,11/11/18,Liverpool,2.2,0.6,Fulham,53128.0,Anfield,Paul Tierney,epl,2,0
+117,12.0,Sun,11/11/18,Chelsea,1.0,0.3,Everton,40345.0,Stamford Bridge,Kevin Friend,epl,0,0
+118,12.0,Sun,11/11/18,Manchester City,1.6,1.0,Manchester Utd,54316.0,Etihad Stadium,Anthony Taylor,epl,3,1
+119,12.0,Sun,11/11/18,Arsenal,1.2,1.9,Wolves,60030.0,Emirates Stadium,Stuart Attwell,epl,1,1
+121,13.0,Sat,11/24/18,West Ham,0.9,2.4,Manchester City,56886.0,London Stadium,Andre Marriner,epl,0,4
+122,13.0,Sat,11/24/18,Manchester Utd,1.2,1.3,Crystal Palace,74516.0,Old Trafford,Lee Mason,epl,0,0
+123,13.0,Sat,11/24/18,Fulham,1.4,1.8,Southampton,24603.0,Craven Cottage,Michael Oliver,epl,3,2
+124,13.0,Sat,11/24/18,Everton,1.9,0.5,Cardiff City,39139.0,Goodison Park,Paul Tierney,epl,1,0
+125,13.0,Sat,11/24/18,Brighton,1.1,1.0,Leicester City,30553.0,The American Express Community Stadium,Chris Kavanagh,epl,1,1
+126,13.0,Sat,11/24/18,Watford,0.3,1.0,Liverpool,20540.0,Vicarage Road Stadium,Jonathan Moss,epl,0,3
+127,13.0,Sat,11/24/18,Tottenham,2.6,1.1,Chelsea,55465.0,Tottenham Hotspur Stadium,Martin Atkinson,epl,3,1
+128,13.0,Sun,11/25/18,Bournemouth,0.8,1.7,Arsenal,10792.0,Vitality Stadium,Craig Pawson,epl,1,2
+129,13.0,Sun,11/25/18,Wolves,0.8,0.7,Huddersfield,30130.0,Molineux Stadium,Kevin Friend,epl,0,2
+130,13.0,Mon,11/26/18,Burnley,1.4,1.7,Newcastle Utd,20628.0,Turf Moor,Anthony Taylor,epl,1,2
+132,14.0,Fri,11/30/18,Cardiff City,0.6,1.1,Wolves,30213.0,Cardiff City Stadium,Andre Marriner,epl,2,1
+133,14.0,Sat,12/1/18,Leicester City,1.1,1.0,Watford,31353.0,King Power Stadium,Graham Scott,epl,2,0
+134,14.0,Sat,12/1/18,Huddersfield,0.5,1.0,Brighton,22973.0,The John Smith's Stadium,Michael Oliver,epl,1,2
+135,14.0,Sat,12/1/18,Crystal Palace,2.1,0.6,Burnley,25098.0,Selhurst Park,Lee Probert,epl,2,0
+136,14.0,Sat,12/1/18,Manchester City,1.8,0.5,Bournemouth,54409.0,Etihad Stadium,Stuart Attwell,epl,3,1
+137,14.0,Sat,12/1/18,Newcastle Utd,1.1,1.6,West Ham,51853.0,St. James' Park,Paul Tierney,epl,0,3
+138,14.0,Sat,12/1/18,Southampton,0.5,1.2,Manchester Utd,30187.0,St. Mary's Stadium,Kevin Friend,epl,2,2
+139,14.0,Sun,12/2/18,Chelsea,1.4,0.3,Fulham,40551.0,Stamford Bridge,Craig Pawson,epl,2,0
+140,14.0,Sun,12/2/18,Arsenal,2.4,1.2,Tottenham,59973.0,Emirates Stadium,Mike Dean,epl,4,2
+141,14.0,Sun,12/2/18,Liverpool,2.7,1.2,Everton,51756.0,Anfield,Chris Kavanagh,epl,1,0
+143,15.0,Tue,12/4/18,West Ham,1.7,1.8,Cardiff City,56811.0,London Stadium,Graham Scott,epl,3,1
+144,15.0,Tue,12/4/18,Brighton,1.1,1.6,Crystal Palace,29663.0,The American Express Community Stadium,Kevin Friend,epl,3,1
+145,15.0,Tue,12/4/18,Bournemouth,0.8,2.0,Huddersfield,9980.0,Vitality Stadium,Roger East,epl,2,1
+146,15.0,Tue,12/4/18,Watford,1.4,2.3,Manchester City,20389.0,Vicarage Road Stadium,Paul Tierney,epl,1,2
+147,15.0,Wed,12/5/18,Everton,1.8,1.0,Newcastle Utd,39350.0,Goodison Park,Lee Mason,epl,1,1
+148,15.0,Wed,12/5/18,Fulham,1.7,1.8,Leicester City,22881.0,Craven Cottage,David Coote,epl,1,1
+149,15.0,Wed,12/5/18,Wolves,1.1,1.3,Chelsea,31300.0,Molineux Stadium,Jonathan Moss,epl,2,1
+150,15.0,Wed,12/5/18,Burnley,1.2,2.5,Liverpool,21741.0,Turf Moor,Stuart Attwell,epl,1,3
+151,15.0,Wed,12/5/18,Manchester Utd,1.0,1.0,Arsenal,74507.0,Old Trafford,Andre Marriner,epl,2,2
+152,15.0,Wed,12/5/18,Tottenham,1.7,2.1,Southampton,33012.0,Tottenham Hotspur Stadium,Anthony Taylor,epl,3,1
+154,16.0,Sat,12/8/18,Bournemouth,0.6,1.6,Liverpool,10752.0,Vitality Stadium,Lee Mason,epl,0,4
+155,16.0,Sat,12/8/18,Cardiff City,1.6,0.7,Southampton,30067.0,Cardiff City Stadium,Jonathan Moss,epl,1,0
+156,16.0,Sat,12/8/18,Manchester Utd,2.3,1.1,Fulham,74523.0,Old Trafford,Lee Probert,epl,4,1
+157,16.0,Sat,12/8/18,Arsenal,1.5,0.4,Huddersfield,59893.0,Emirates Stadium,Paul Tierney,epl,1,0
+158,16.0,Sat,12/8/18,West Ham,1.6,1.1,Crystal Palace,56995.0,London Stadium,Anthony Taylor,epl,3,2
+159,16.0,Sat,12/8/18,Burnley,1.6,0.8,Brighton,18497.0,Turf Moor,Martin Atkinson,epl,1,0
+160,16.0,Sat,12/8/18,Chelsea,0.6,1.3,Manchester City,40571.0,Stamford Bridge,Michael Oliver,epl,2,0
+161,16.0,Sat,12/8/18,Leicester City,0.3,0.5,Tottenham,31957.0,King Power Stadium,Craig Pawson,epl,0,2
+162,16.0,Sun,12/9/18,Newcastle Utd,0.4,1.9,Wolves,50223.0,St. James' Park,Mike Dean,epl,1,2
+163,16.0,Mon,12/10/18,Everton,1.5,1.3,Watford,38400.0,Goodison Park,Kevin Friend,epl,2,2
+165,17.0,Sat,12/15/18,Manchester City,1.1,0.9,Everton,54173.0,Etihad Stadium,Craig Pawson,epl,3,1
+166,17.0,Sat,12/15/18,Wolves,2.0,0.6,Bournemouth,30997.0,Molineux Stadium,Simon Hooper,epl,2,0
+167,17.0,Sat,12/15/18,Tottenham,1.6,0.3,Burnley,41645.0,Tottenham Hotspur Stadium,Graham Scott,epl,1,0
+168,17.0,Sat,12/15/18,Huddersfield,0.8,1.3,Newcastle Utd,24036.0,The John Smith's Stadium,Anthony Taylor,epl,0,1
+169,17.0,Sat,12/15/18,Crystal Palace,0.4,1.0,Leicester City,24738.0,Selhurst Park,Michael Oliver,epl,1,0
+170,17.0,Sat,12/15/18,Watford,2.2,0.9,Cardiff City,20032.0,Vicarage Road Stadium,Andy Madley,epl,3,2
+171,17.0,Sat,12/15/18,Fulham,1.1,0.8,West Ham,24081.0,Craven Cottage,Mike Dean,epl,0,2
+172,17.0,Sun,12/16/18,Southampton,0.7,1.5,Arsenal,29497.0,St. Mary's Stadium,Chris Kavanagh,epl,3,2
+173,17.0,Sun,12/16/18,Brighton,0.4,1.5,Chelsea,30645.0,The American Express Community Stadium,Stuart Attwell,epl,1,2
+174,17.0,Sun,12/16/18,Liverpool,2.5,0.5,Manchester Utd,52908.0,Anfield,Martin Atkinson,epl,3,1
+176,18.0,Fri,12/21/18,Wolves,1.0,1.6,Liverpool,31358.0,Molineux Stadium,Craig Pawson,epl,0,2
+177,18.0,Sat,12/22/18,Arsenal,1.2,0.9,Burnley,59493.0,Emirates Stadium,Kevin Friend,epl,3,1
+178,18.0,Sat,12/22/18,Newcastle Utd,0.4,0.5,Fulham,51237.0,St. James' Park,Martin Atkinson,epl,0,0
+179,18.0,Sat,12/22/18,Chelsea,1.5,0.7,Leicester City,40558.0,Stamford Bridge,Lee Probert,epl,0,1
+180,18.0,Sat,12/22/18,Bournemouth,0.9,0.7,Brighton,10491.0,Vitality Stadium,Mike Dean,epl,2,0
+181,18.0,Sat,12/22/18,West Ham,2.2,2.4,Watford,56833.0,London Stadium,Lee Mason,epl,0,2
+182,18.0,Sat,12/22/18,Manchester City,1.2,1.0,Crystal Palace,54340.0,Etihad Stadium,Andre Marriner,epl,2,3
+183,18.0,Sat,12/22/18,Huddersfield,0.9,2.5,Southampton,22384.0,The John Smith's Stadium,Stuart Attwell,epl,1,3
+184,18.0,Sat,12/22/18,Cardiff City,1.2,2.3,Manchester Utd,33028.0,Cardiff City Stadium,Michael Oliver,epl,1,5
+185,18.0,Sun,12/23/18,Everton,0.8,2.9,Tottenham,39319.0,Goodison Park,Paul Tierney,epl,2,6
+187,19.0,Wed,12/26/18,Fulham,1.0,1.4,Wolves,24382.0,Craven Cottage,Andre Marriner,epl,1,1
+188,19.0,Wed,12/26/18,Tottenham,1.7,1.5,Bournemouth,45154.0,Tottenham Hotspur Stadium,Chris Kavanagh,epl,5,0
+189,19.0,Wed,12/26/18,Manchester Utd,1.5,1.3,Huddersfield,74523.0,Old Trafford,Jonathan Moss,epl,3,1
+190,19.0,Wed,12/26/18,Burnley,1.5,2.0,Everton,21484.0,Turf Moor,Michael Oliver,epl,1,5
+191,19.0,Wed,12/26/18,Crystal Palace,2.6,0.8,Cardiff City,25206.0,Selhurst Park,Lee Probert,epl,0,0
+192,19.0,Wed,12/26/18,Liverpool,3.0,0.6,Newcastle Utd,53318.0,Anfield,Graham Scott,epl,4,0
+193,19.0,Wed,12/26/18,Leicester City,1.6,1.7,Manchester City,32090.0,King Power Stadium,Mike Dean,epl,2,1
+194,19.0,Wed,12/26/18,Brighton,1.7,0.5,Arsenal,30608.0,The American Express Community Stadium,Anthony Taylor,epl,1,1
+195,19.0,Wed,12/26/18,Watford,0.8,2.5,Chelsea,20415.0,Vicarage Road Stadium,Martin Atkinson,epl,1,2
+196,19.0,Thu,12/27/18,Southampton,1.3,1.4,West Ham,31654.0,St. Mary's Stadium,Craig Pawson,epl,1,2
+198,20.0,Sat,12/29/18,Brighton,1.2,0.7,Everton,30597.0,The American Express Community Stadium,Andy Madley,epl,1,0
+199,20.0,Sat,12/29/18,Watford,1.2,0.5,Newcastle Utd,20336.0,Vicarage Road Stadium,Roger East,epl,1,1
+200,20.0,Sat,12/29/18,Leicester City,1.5,0.7,Cardiff City,32047.0,King Power Stadium,Simon Hooper,epl,0,1
+201,20.0,Sat,12/29/18,Tottenham,0.3,0.8,Wolves,46356.0,Tottenham Hotspur Stadium,Stuart Attwell,epl,1,3
+202,20.0,Sat,12/29/18,Fulham,2.2,0.4,Huddersfield,24423.0,Craven Cottage,Kevin Friend,epl,1,0
+203,20.0,Sat,12/29/18,Liverpool,3.9,1.2,Arsenal,53326.0,Anfield,Michael Oliver,epl,5,1
+204,20.0,Sun,12/30/18,Crystal Palace,0.2,0.6,Chelsea,25781.0,Selhurst Park,Craig Pawson,epl,0,1
+205,20.0,Sun,12/30/18,Southampton,0.4,2.4,Manchester City,31381.0,St. Mary's Stadium,Paul Tierney,epl,1,3
+206,20.0,Sun,12/30/18,Burnley,2.3,0.5,West Ham,20933.0,Turf Moor,David Coote,epl,2,0
+207,20.0,Sun,12/30/18,Manchester Utd,1.9,0.6,Bournemouth,74556.0,Old Trafford,Lee Mason,epl,4,1
+209,21.0,Tue,1/1/19,Everton,0.9,0.6,Leicester City,39052.0,Goodison Park,Martin Atkinson,epl,0,1
+210,21.0,Tue,1/1/19,Arsenal,3.2,1.4,Fulham,59887.0,Emirates Stadium,Graham Scott,epl,4,1
+211,21.0,Tue,1/1/19,Cardiff City,0.6,1.5,Tottenham,32485.0,Cardiff City Stadium,Kevin Friend,epl,0,3
+212,21.0,Wed,1/2/19,Huddersfield,0.8,2.5,Burnley,23715.0,The John Smith's Stadium,Mike Dean,epl,1,2
+213,21.0,Wed,1/2/19,Wolves,0.7,1.8,Crystal Palace,30666.0,Molineux Stadium,Roger East,epl,0,2
+214,21.0,Wed,1/2/19,Bournemouth,2.3,0.6,Watford,10261.0,Vitality Stadium,David Coote,epl,3,3
+215,21.0,Wed,1/2/19,West Ham,1.1,0.6,Brighton,59870.0,London Stadium,Chris Kavanagh,epl,2,2
+216,21.0,Wed,1/2/19,Chelsea,1.0,0.2,Southampton,40668.0,Stamford Bridge,Jonathan Moss,epl,0,0
+217,21.0,Wed,1/2/19,Newcastle Utd,0.8,2.3,Manchester Utd,52217.0,St. James' Park,Andre Marriner,epl,0,2
+218,21.0,Thu,1/3/19,Manchester City,0.8,1.8,Liverpool,54511.0,Etihad Stadium,Anthony Taylor,epl,2,1
+220,22.0,Sat,1/12/19,West Ham,0.8,1.0,Arsenal,59946.0,London Stadium,Jonathan Moss,epl,1,0
+221,22.0,Sat,1/12/19,Burnley,0.5,0.7,Fulham,19316.0,Turf Moor,Martin Atkinson,epl,2,1
+222,22.0,Sat,1/12/19,Cardiff City,0.1,0.6,Huddersfield,30725.0,Cardiff City Stadium,Lee Mason,epl,0,0
+223,22.0,Sat,1/12/19,Crystal Palace,1.3,1.4,Watford,25010.0,Selhurst Park,Paul Tierney,epl,1,2
+224,22.0,Sat,1/12/19,Brighton,0.4,2.0,Liverpool,30682.0,The American Express Community Stadium,Kevin Friend,epl,0,1
+225,22.0,Sat,1/12/19,Leicester City,1.5,1.2,Southampton,31491.0,King Power Stadium,Michael Oliver,epl,1,2
+226,22.0,Sat,1/12/19,Chelsea,1.6,0.5,Newcastle Utd,40491.0,Stamford Bridge,Chris Kavanagh,epl,2,1
+227,22.0,Sun,1/13/19,Everton,1.3,1.4,Bournemouth,38113.0,Goodison Park,Anthony Taylor,epl,2,0
+228,22.0,Sun,1/13/19,Tottenham,2.0,1.1,Manchester Utd,80062.0,Tottenham Hotspur Stadium,Mike Dean,epl,0,1
+229,22.0,Mon,1/14/19,Manchester City,2.7,0.1,Wolves,54171.0,Etihad Stadium,Craig Pawson,epl,3,0
+231,23.0,Sat,1/19/19,Wolves,1.5,1.3,Leicester City,31278.0,Molineux Stadium,Chris Kavanagh,epl,4,3
+232,23.0,Sat,1/19/19,Newcastle Utd,2.1,0.3,Cardiff City,49864.0,St. James' Park,Stuart Attwell,epl,3,0
+233,23.0,Sat,1/19/19,Liverpool,2.4,0.9,Crystal Palace,53171.0,Anfield,Jonathan Moss,epl,4,3
+234,23.0,Sat,1/19/19,Manchester Utd,2.2,0.7,Brighton,74532.0,Old Trafford,Paul Tierney,epl,2,1
+235,23.0,Sat,1/19/19,Watford,0.9,1.4,Burnley,19510.0,Vicarage Road Stadium,Michael Oliver,epl,0,0
+236,23.0,Sat,1/19/19,Bournemouth,1.1,1.0,West Ham,10495.0,Vitality Stadium,Simon Hooper,epl,2,0
+237,23.0,Sat,1/19/19,Southampton,1.1,0.8,Everton,29989.0,St. Mary's Stadium,Graham Scott,epl,2,1
+238,23.0,Sat,1/19/19,Arsenal,1.7,1.0,Chelsea,59979.0,Emirates Stadium,Anthony Taylor,epl,2,0
+239,23.0,Sun,1/20/19,Huddersfield,0.5,2.1,Manchester City,24190.0,The John Smith's Stadium,Andre Marriner,epl,0,3
+240,23.0,Sun,1/20/19,Fulham,1.0,1.1,Tottenham,24807.0,Craven Cottage,Craig Pawson,epl,1,2
+242,24.0,Tue,1/29/19,Arsenal,2.0,1.0,Cardiff City,59933.0,Emirates Stadium,Mike Dean,epl,2,1
+243,24.0,Tue,1/29/19,Fulham,2.0,1.5,Brighton,22008.0,Craven Cottage,Lee Probert,epl,4,2
+244,24.0,Tue,1/29/19,Wolves,2.3,0.2,West Ham,31122.0,Molineux Stadium,David Coote,epl,3,0
+245,24.0,Tue,1/29/19,Huddersfield,0.6,0.9,Everton,23699.0,The John Smith's Stadium,Stuart Attwell,epl,0,1
+246,24.0,Tue,1/29/19,Newcastle Utd,1.0,1.5,Manchester City,50861.0,St. James' Park,Paul Tierney,epl,2,1
+247,24.0,Tue,1/29/19,Manchester Utd,3.2,0.7,Burnley,74529.0,Old Trafford,Jonathan Moss,epl,2,2
+248,24.0,Wed,1/30/19,Bournemouth,1.6,0.7,Chelsea,10227.0,Vitality Stadium,Roger East,epl,4,0
+249,24.0,Wed,1/30/19,Southampton,1.0,1.2,Crystal Palace,28339.0,St. Mary's Stadium,Andre Marriner,epl,1,1
+250,24.0,Wed,1/30/19,Liverpool,0.5,0.8,Leicester City,53092.0,Anfield,Martin Atkinson,epl,1,1
+251,24.0,Wed,1/30/19,Tottenham,1.5,0.6,Watford,29164.0,Tottenham Hotspur Stadium,Graham Scott,epl,2,1
+253,25.0,Sat,2/2/19,Tottenham,2.3,0.6,Newcastle Utd,41219.0,Wembley Stadium,Andre Marriner,epl,1,0
+254,25.0,Sat,2/2/19,Everton,0.8,1.5,Wolves,39380.0,Goodison Park,Lee Mason,epl,1,3
+255,25.0,Sat,2/2/19,Chelsea,2.7,0.3,Huddersfield,40626.0,Stamford Bridge,Paul Tierney,epl,5,0
+256,25.0,Sat,2/2/19,Brighton,1.5,0.3,Watford,30414.0,The American Express Community Stadium,Simon Hooper,epl,0,0
+257,25.0,Sat,2/2/19,Crystal Palace,2.1,0.6,Fulham,25355.0,Selhurst Park,Michael Oliver,epl,2,0
+258,25.0,Sat,2/2/19,Burnley,2.2,0.9,Southampton,19787.0,Turf Moor,Anthony Taylor,epl,1,1
+259,25.0,Sat,2/2/19,Cardiff City,2.1,0.5,Bournemouth,31939.0,Cardiff City Stadium,Jonathan Moss,epl,2,0
+260,25.0,Sun,2/3/19,Leicester City,1.5,1.2,Manchester Utd,32148.0,King Power Stadium,Mike Dean,epl,0,1
+261,25.0,Sun,2/3/19,Manchester City,3.3,0.9,Arsenal,54483.0,Etihad Stadium,Martin Atkinson,epl,3,1
+262,25.0,Mon,2/4/19,West Ham,1.0,1.4,Liverpool,59903.0,London Stadium,Kevin Friend,epl,1,1
+264,27.0,Wed,2/6/19,Everton,0.1,2.3,Manchester City,39322.0,Goodison Park,Craig Pawson,epl,0,2
+266,26.0,Sat,2/9/19,Fulham,1.2,1.9,Manchester Utd,25001.0,Craven Cottage,Paul Tierney,epl,0,3
+267,26.0,Sat,2/9/19,Huddersfield,1.1,1.8,Arsenal,24182.0,The John Smith's Stadium,Jonathan Moss,epl,1,2
+268,26.0,Sat,2/9/19,Southampton,1.7,0.7,Cardiff City,31438.0,St. Mary's Stadium,Martin Atkinson,epl,1,2
+269,26.0,Sat,2/9/19,Watford,1.5,0.7,Everton,20333.0,Vicarage Road Stadium,Lee Probert,epl,1,0
+270,26.0,Sat,2/9/19,Crystal Palace,2.5,1.4,West Ham,25552.0,Selhurst Park,Craig Pawson,epl,1,1
+271,26.0,Sat,2/9/19,Liverpool,1.9,0.4,Bournemouth,53178.0,Anfield,Anthony Taylor,epl,3,0
+272,26.0,Sat,2/9/19,Brighton,1.1,2.1,Burnley,29323.0,The American Express Community Stadium,Stuart Attwell,epl,1,3
+273,26.0,Sun,2/10/19,Tottenham,1.1,2.5,Leicester City,44154.0,Tottenham Hotspur Stadium,Michael Oliver,epl,3,1
+274,26.0,Sun,2/10/19,Manchester City,3.1,0.8,Chelsea,54452.0,Etihad Stadium,Mike Dean,epl,6,0
+275,26.0,Mon,2/11/19,Wolves,2.0,0.7,Newcastle Utd,30687.0,Molineux Stadium,Graham Scott,epl,1,1
+277,27.0,Fri,2/22/19,Cardiff City,1.4,2.5,Watford,30387.0,Cardiff City Stadium,Simon Hooper,epl,1,5
+278,27.0,Fri,2/22/19,West Ham,1.5,1.2,Fulham,59950.0,London Stadium,Lee Mason,epl,3,1
+279,27.0,Sat,2/23/19,Burnley,1.3,0.9,Tottenham,21338.0,Turf Moor,Mike Dean,epl,2,1
+280,27.0,Sat,2/23/19,Bournemouth,2.1,1.5,Wolves,10671.0,Vitality Stadium,Roger East,epl,1,1
+281,27.0,Sat,2/23/19,Newcastle Utd,3.2,0.2,Huddersfield,52174.0,St. James' Park,Kevin Friend,epl,2,0
+282,27.0,Sat,2/23/19,Leicester City,1.0,1.4,Crystal Palace,31778.0,King Power Stadium,Anthony Taylor,epl,1,4
+283,27.0,Sun,2/24/19,Arsenal,1.8,1.0,Southampton,59877.0,Emirates Stadium,Graham Scott,epl,2,0
+284,27.0,Sun,2/24/19,Manchester Utd,0.2,0.4,Liverpool,74519.0,Old Trafford,Michael Oliver,epl,0,0
+286,28.0,Tue,2/26/19,Leicester City,1.8,1.3,Brighton,30558.0,King Power Stadium,Lee Probert,epl,2,1
+287,28.0,Tue,2/26/19,Huddersfield,1.6,0.5,Wolves,22714.0,The John Smith's Stadium,David Coote,epl,1,0
+288,28.0,Tue,2/26/19,Cardiff City,0.3,0.8,Everton,31849.0,Cardiff City Stadium,Kevin Friend,epl,0,3
+289,28.0,Tue,2/26/19,Newcastle Utd,0.7,1.4,Burnley,48323.0,St. James' Park,Craig Pawson,epl,2,0
+290,28.0,Wed,2/27/19,Arsenal,3.1,1.3,Bournemouth,59618.0,Emirates Stadium,Chris Kavanagh,epl,5,1
+291,28.0,Wed,2/27/19,Southampton,1.3,0.7,Fulham,27597.0,St. Mary's Stadium,Anthony Taylor,epl,2,0
+292,28.0,Wed,2/27/19,Manchester City,3.1,0.4,West Ham,53528.0,Etihad Stadium,Stuart Attwell,epl,1,0
+293,28.0,Wed,2/27/19,Chelsea,0.6,0.5,Tottenham,40542.0,Stamford Bridge,Andre Marriner,epl,2,0
+294,28.0,Wed,2/27/19,Liverpool,1.8,1.0,Watford,53316.0,Anfield,Graham Scott,epl,5,0
+295,28.0,Wed,2/27/19,Crystal Palace,1.5,1.2,Manchester Utd,25754.0,Selhurst Park,Martin Atkinson,epl,1,3
+297,29.0,Sat,3/2/19,Tottenham,1.4,2.2,Arsenal,81332.0,Tottenham Hotspur Stadium,Anthony Taylor,epl,1,1
+298,29.0,Sat,3/2/19,Bournemouth,0.0,1.7,Manchester City,10699.0,Vitality Stadium,Kevin Friend,epl,0,1
+299,29.0,Sat,3/2/19,Wolves,2.5,0.5,Cardiff City,31309.0,Molineux Stadium,Andre Marriner,epl,2,0
+300,29.0,Sat,3/2/19,Manchester Utd,2.2,0.5,Southampton,74459.0,Old Trafford,Stuart Attwell,epl,3,2
+301,29.0,Sat,3/2/19,Burnley,1.7,0.7,Crystal Palace,19223.0,Turf Moor,Lee Probert,epl,1,3
+302,29.0,Sat,3/2/19,Brighton,1.1,0.2,Huddersfield,30182.0,The American Express Community Stadium,Mike Dean,epl,1,0
+303,29.0,Sat,3/2/19,West Ham,1.8,1.1,Newcastle Utd,59910.0,London Stadium,Chris Kavanagh,epl,2,0
+304,29.0,Sun,3/3/19,Watford,0.8,1.0,Leicester City,20062.0,Vicarage Road Stadium,Jonathan Moss,epl,2,1
+305,29.0,Sun,3/3/19,Fulham,0.8,1.6,Chelsea,24900.0,Craven Cottage,Graham Scott,epl,1,2
+306,29.0,Sun,3/3/19,Everton,0.4,1.1,Liverpool,39335.0,Goodison Park,Martin Atkinson,epl,0,0
+308,30.0,Sat,3/9/19,Crystal Palace,1.6,0.1,Brighton,24972.0,Selhurst Park,Craig Pawson,epl,1,2
+309,30.0,Sat,3/9/19,Leicester City,1.9,0.2,Fulham,32017.0,King Power Stadium,David Coote,epl,3,1
+310,30.0,Sat,3/9/19,Cardiff City,2.9,0.3,West Ham,32458.0,Cardiff City Stadium,Graham Scott,epl,2,0
+311,30.0,Sat,3/9/19,Newcastle Utd,2.2,1.0,Everton,52242.0,St. James' Park,Lee Mason,epl,3,2
+312,30.0,Sat,3/9/19,Southampton,1.1,1.2,Tottenham,31890.0,St. Mary's Stadium,Kevin Friend,epl,2,1
+313,30.0,Sat,3/9/19,Huddersfield,0.5,2.2,Bournemouth,22304.0,The John Smith's Stadium,Anthony Taylor,epl,0,2
+314,30.0,Sat,3/9/19,Manchester City,3.2,0.5,Watford,54104.0,Etihad Stadium,Paul Tierney,epl,3,1
+315,30.0,Sun,3/10/19,Liverpool,4.5,0.5,Burnley,53310.0,Anfield,Andre Marriner,epl,4,2
+316,30.0,Sun,3/10/19,Chelsea,1.3,0.3,Wolves,40692.0,Stamford Bridge,Michael Oliver,epl,1,1
+317,30.0,Sun,3/10/19,Arsenal,1.6,1.5,Manchester Utd,60000.0,Emirates Stadium,Jonathan Moss,epl,2,0
+319,31.0,Sat,3/16/19,Bournemouth,1.5,1.2,Newcastle Utd,10625.0,Vitality Stadium,Mike Dean,epl,2,2
+320,31.0,Sat,3/16/19,Burnley,1.6,0.7,Leicester City,20719.0,Turf Moor,Michael Oliver,epl,1,2
+321,31.0,Sat,3/16/19,West Ham,2.2,1.5,Huddersfield,59931.0,London Stadium,Jonathan Moss,epl,4,3
+322,31.0,Sun,3/17/19,Fulham,1.1,2.4,Liverpool,25043.0,Craven Cottage,Craig Pawson,epl,1,2
+323,31.0,Sun,3/17/19,Everton,2.0,1.3,Chelsea,39356.0,Goodison Park,Anthony Taylor,epl,2,0
+325,32.0,Sat,3/30/19,Fulham,0.3,2.5,Manchester City,25001.0,Craven Cottage,Kevin Friend,epl,0,2
+326,32.0,Sat,3/30/19,Burnley,0.3,0.5,Wolves,20990.0,Turf Moor,Chris Kavanagh,epl,2,0
+327,32.0,Sat,3/30/19,Brighton,1.0,0.6,Southampton,30636.0,The American Express Community Stadium,Michael Oliver,epl,0,1
+328,32.0,Sat,3/30/19,Crystal Palace,3.1,0.6,Huddersfield,25193.0,Selhurst Park,Lee Probert,epl,2,0
+329,32.0,Sat,3/30/19,Manchester Utd,1.2,1.2,Watford,74543.0,Old Trafford,Stuart Attwell,epl,2,1
+330,32.0,Sat,3/30/19,Leicester City,1.5,0.7,Bournemouth,31530.0,King Power Stadium,Lee Mason,epl,2,0
+331,32.0,Sat,3/30/19,West Ham,0.1,2.1,Everton,59988.0,London Stadium,Paul Tierney,epl,0,2
+332,32.0,Sun,3/31/19,Cardiff City,0.4,1.5,Chelsea,32657.0,Cardiff City Stadium,Craig Pawson,epl,1,2
+333,32.0,Sun,3/31/19,Liverpool,0.9,1.2,Tottenham,53322.0,Anfield,Martin Atkinson,epl,2,1
+334,32.0,Mon,4/1/19,Arsenal,0.7,0.1,Newcastle Utd,59869.0,Emirates Stadium,Anthony Taylor,epl,2,0
+336,33.0,Tue,4/2/19,Watford,1.5,2.1,Fulham,17301.0,Vicarage Road Stadium,Roger East,epl,4,1
+337,33.0,Tue,4/2/19,Wolves,1.5,1.5,Manchester Utd,31302.0,Molineux Stadium,Mike Dean,epl,2,1
+339,27.0,Wed,4/3/19,Chelsea,1.9,0.7,Brighton,38593.0,Stamford Bridge,Graham Scott,epl,3,0
+341,31.0,Wed,4/3/19,Tottenham,2.5,0.6,Crystal Palace,59215.0,Tottenham Hotspur Stadium,Andre Marriner,epl,2,0
+343,33.0,Wed,4/3/19,Manchester City,3.1,0.1,Cardiff City,53559.0,Etihad Stadium,Jonathan Moss,epl,2,0
+344,33.0,Fri,4/5/19,Southampton,0.9,1.7,Liverpool,31797.0,St. Mary's Stadium,Paul Tierney,epl,1,3
+345,33.0,Sat,4/6/19,Bournemouth,1.1,1.0,Burnley,10446.0,Vitality Stadium,Martin Atkinson,epl,1,3
+346,33.0,Sat,4/6/19,Newcastle Utd,1.3,1.4,Crystal Palace,51926.0,St. James' Park,Stuart Attwell,epl,0,1
+347,33.0,Sat,4/6/19,Huddersfield,1.7,3.0,Leicester City,24126.0,The John Smith's Stadium,David Coote,epl,1,4
+348,33.0,Sun,4/7/19,Everton,2.5,0.4,Arsenal,39400.0,Goodison Park,Kevin Friend,epl,1,0
+349,33.0,Mon,4/8/19,Chelsea,1.8,0.6,West Ham,40537.0,Stamford Bridge,Chris Kavanagh,epl,2,0
+351,34.0,Fri,4/12/19,Leicester City,1.2,0.8,Newcastle Utd,32108.0,King Power Stadium,Chris Kavanagh,epl,0,1
+352,34.0,Sat,4/13/19,Tottenham,2.2,0.6,Huddersfield,58308.0,Tottenham Hotspur Stadium,Lee Mason,epl,4,0
+353,34.0,Sat,4/13/19,Southampton,2.7,0.8,Wolves,31708.0,St. Mary's Stadium,Jonathan Moss,epl,3,1
+354,34.0,Sat,4/13/19,Fulham,1.1,0.8,Everton,24971.0,Craven Cottage,Lee Probert,epl,2,0
+355,34.0,Sat,4/13/19,Brighton,0.4,2.0,Bournemouth,30460.0,The American Express Community Stadium,Kevin Friend,epl,0,5
+356,34.0,Sat,4/13/19,Burnley,2.5,0.8,Cardiff City,21480.0,Turf Moor,Mike Dean,epl,2,0
+357,34.0,Sat,4/13/19,Manchester Utd,2.4,1.1,West Ham,74478.0,Old Trafford,Graham Scott,epl,2,1
+358,34.0,Sun,4/14/19,Crystal Palace,0.3,1.9,Manchester City,25721.0,Selhurst Park,Martin Atkinson,epl,1,3
+359,34.0,Sun,4/14/19,Liverpool,1.2,0.9,Chelsea,53279.0,Anfield,Michael Oliver,epl,2,0
+360,34.0,Mon,4/15/19,Watford,0.5,2.1,Arsenal,20480.0,Vicarage Road Stadium,Craig Pawson,epl,0,1
+362,31.0,Tue,4/16/19,Brighton,0.7,0.7,Cardiff City,30226.0,The American Express Community Stadium,Andre Marriner,epl,0,2
+364,35.0,Sat,4/20/19,Manchester City,1.9,1.1,Tottenham,54489.0,Etihad Stadium,Michael Oliver,epl,1,0
+365,35.0,Sat,4/20/19,Wolves,1.7,0.1,Brighton,31096.0,Molineux Stadium,Craig Pawson,epl,0,0
+366,35.0,Sat,4/20/19,West Ham,1.5,1.1,Leicester City,59960.0,London Stadium,Lee Probert,epl,2,2
+367,35.0,Sat,4/20/19,Huddersfield,0.9,1.3,Watford,23957.0,The John Smith's Stadium,Roger East,epl,1,2
+368,35.0,Sat,4/20/19,Bournemouth,2.1,1.9,Fulham,10511.0,Vitality Stadium,David Coote,epl,0,1
+369,35.0,Sat,4/20/19,Newcastle Utd,1.5,0.9,Southampton,52191.0,St. James' Park,Anthony Taylor,epl,3,1
+370,35.0,Sun,4/21/19,Everton,1.3,0.3,Manchester Utd,39395.0,Goodison Park,Paul Tierney,epl,4,0
+371,35.0,Sun,4/21/19,Arsenal,1.3,2.3,Crystal Palace,59929.0,Emirates Stadium,Jonathan Moss,epl,2,3
+372,35.0,Sun,4/21/19,Cardiff City,1.2,3.2,Liverpool,33082.0,Cardiff City Stadium,Martin Atkinson,epl,0,2
+373,35.0,Mon,4/22/19,Chelsea,1.2,0.8,Burnley,40642.0,Stamford Bridge,Kevin Friend,epl,2,2
+375,31.0,Tue,4/23/19,Watford,1.6,1.5,Southampton,19170.0,Vicarage Road Stadium,Mike Dean,epl,1,1
+377,33.0,Tue,4/23/19,Tottenham,1.5,0.2,Brighton,56251.0,Tottenham Hotspur Stadium,Chris Kavanagh,epl,1,0
+379,31.0,Wed,4/24/19,Wolves,1.0,0.7,Arsenal,31436.0,Molineux Stadium,Stuart Attwell,epl,3,1
+380,31.0,Wed,4/24/19,Manchester Utd,0.6,0.5,Manchester City,74431.0,Old Trafford,Andre Marriner,epl,0,2
+382,36.0,Fri,4/26/19,Liverpool,2.4,0.2,Huddersfield,53249.0,Anfield,Kevin Friend,epl,5,0
+383,36.0,Sat,4/27/19,Tottenham,1.2,1.2,West Ham,60043.0,Tottenham Hotspur Stadium,Anthony Taylor,epl,0,1
+384,36.0,Sat,4/27/19,Southampton,2.8,2.1,Bournemouth,31310.0,St. Mary's Stadium,Graham Scott,epl,3,3
+385,36.0,Sat,4/27/19,Crystal Palace,0.3,1.4,Everton,25789.0,Selhurst Park,Lee Mason,epl,0,0
+386,36.0,Sat,4/27/19,Fulham,0.9,1.0,Cardiff City,23822.0,Craven Cottage,Chris Kavanagh,epl,1,0
+387,36.0,Sat,4/27/19,Watford,1.2,1.6,Wolves,20323.0,Vicarage Road Stadium,Simon Hooper,epl,1,2
+388,36.0,Sat,4/27/19,Brighton,1.3,0.4,Newcastle Utd,30587.0,The American Express Community Stadium,Mike Dean,epl,1,1
+389,36.0,Sun,4/28/19,Leicester City,3.2,0.5,Arsenal,32037.0,King Power Stadium,Michael Oliver,epl,3,0
+390,36.0,Sun,4/28/19,Burnley,0.1,2.3,Manchester City,21605.0,Turf Moor,Paul Tierney,epl,0,1
+391,36.0,Sun,4/28/19,Manchester Utd,0.6,1.2,Chelsea,74526.0,Old Trafford,Martin Atkinson,epl,1,1
+393,37.0,Fri,5/3/19,Everton,1.7,0.7,Burnley,39303.0,Goodison Park,Chris Kavanagh,epl,2,0
+394,37.0,Sat,5/4/19,Bournemouth,1.7,0.6,Tottenham,10630.0,Vitality Stadium,Craig Pawson,epl,1,0
+395,37.0,Sat,5/4/19,Wolves,1.9,0.3,Fulham,30456.0,Molineux Stadium,Jonathan Moss,epl,1,0
+396,37.0,Sat,5/4/19,West Ham,1.9,0.5,Southampton,59961.0,London Stadium,Stuart Attwell,epl,3,0
+397,37.0,Sat,5/4/19,Cardiff City,1.6,1.9,Crystal Palace,32133.0,Cardiff City Stadium,Michael Oliver,epl,2,3
+398,37.0,Sat,5/4/19,Newcastle Utd,1.3,1.2,Liverpool,52206.0,St. James' Park,Andre Marriner,epl,2,3
+399,37.0,Sun,5/5/19,Huddersfield,1.1,1.4,Manchester Utd,24263.0,The John Smith's Stadium,Lee Mason,epl,1,1
+400,37.0,Sun,5/5/19,Chelsea,1.8,1.5,Watford,40560.0,Stamford Bridge,Paul Tierney,epl,3,0
+401,37.0,Sun,5/5/19,Arsenal,2.2,1.8,Brighton,59965.0,Emirates Stadium,Anthony Taylor,epl,1,1
+402,37.0,Mon,5/6/19,Manchester City,1.3,0.7,Leicester City,54506.0,Etihad Stadium,Mike Dean,epl,1,0
+404,38.0,Sun,5/12/19,Burnley,1.8,2.0,Arsenal,21461.0,Turf Moor,Mike Dean,epl,1,3
+405,38.0,Sun,5/12/19,Fulham,0.9,1.5,Newcastle Utd,24979.0,Craven Cottage,Kevin Friend,epl,0,4
+406,38.0,Sun,5/12/19,Leicester City,0.4,1.6,Chelsea,32140.0,King Power Stadium,Anthony Taylor,epl,0,0
+407,38.0,Sun,5/12/19,Liverpool,1.5,0.7,Wolves,53331.0,Anfield,Martin Atkinson,epl,2,0
+408,38.0,Sun,5/12/19,Crystal Palace,2.1,1.9,Bournemouth,25433.0,Selhurst Park,Roger East,epl,5,3
+409,38.0,Sun,5/12/19,Tottenham,1.2,1.8,Everton,60124.0,Tottenham Hotspur Stadium,Andre Marriner,epl,2,2
+410,38.0,Sun,5/12/19,Watford,2.3,3.5,West Ham,20067.0,Vicarage Road Stadium,Chris Kavanagh,epl,1,4
+411,38.0,Sun,5/12/19,Manchester Utd,1.7,1.9,Cardiff City,74457.0,Old Trafford,Jonathan Moss,epl,0,2
+412,38.0,Sun,5/12/19,Southampton,0.6,1.0,Huddersfield,30367.0,St. Mary's Stadium,Lee Probert,epl,1,1
+413,38.0,Sun,5/12/19,Brighton,0.4,1.6,Manchester City,30662.0,The American Express Community Stadium,Michael Oliver,epl,1,4
+0,1.0,Fri,8/10/18,Marseille,2.6,0.3,Toulouse,60756.0,Orange Vélodrome,Ruddy Buquet,ligue 1,4,0
+1,1.0,Sat,8/11/18,Nantes,1.7,2.2,Monaco,32760.0,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,ligue 1,1,3
+2,1.0,Sat,8/11/18,Montpellier,2.0,1.9,Dijon,12765.0,Stade de la Mosson,Florent Batta,ligue 1,1,2
+3,1.0,Sat,8/11/18,Angers,2.5,1.9,Nîmes,9534.0,Stade Raymond Kopa,Antony Gautier,ligue 1,3,4
+4,1.0,Sat,8/11/18,Saint-Étienne,1.0,2.0,Guingamp,26006.0,Stade Geoffroy-Guichard,Amaury Delerue,ligue 1,2,1
+5,1.0,Sat,8/11/18,Nice,1.4,0.6,Reims,21421.0,Stade de Nice,Johan Hamel,ligue 1,0,1
+6,1.0,Sat,8/11/18,Lille,1.5,0.5,Rennes,25708.0,Stade Pierre-Mauroy,Willy Delajod,ligue 1,3,1
+7,1.0,Sun,8/12/18,Lyon,1.0,0.5,Amiens,48263.0,Groupama Stadium,Franck Schneider,ligue 1,2,0
+8,1.0,Sun,8/12/18,Bordeaux,0.2,1.6,Strasbourg,23079.0,Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,ligue 1,0,2
+9,1.0,Sun,8/12/18,Paris S-G,2.6,0.2,Caen,47289.0,Parc des Princes,Benoît Bastien,ligue 1,3,0
+11,2.0,Fri,8/17/18,Reims,0.6,2.0,Lyon,18917.0,Stade Auguste-Delaune II,Ruddy Buquet,ligue 1,1,0
+12,2.0,Sat,8/18/18,Guingamp,1.2,2.4,Paris S-G,19003.0,Stade du Roudourou,Clément Turpin,ligue 1,1,3
+13,2.0,Sat,8/18/18,Dijon,3.2,0.2,Nantes,13617.0,Stade Gaston Gérard,Jeremy Stinat,ligue 1,2,0
+14,2.0,Sat,8/18/18,Rennes,0.5,0.5,Angers,19300.0,Roazhon Park,Olivier Thual,ligue 1,1,0
+15,2.0,Sat,8/18/18,Caen,1.3,0.8,Nice,16132.0,Stade Michel d'Ornano,Eric Wattellier,ligue 1,1,1
+16,2.0,Sat,8/18/18,Amiens,1.2,0.3,Montpellier,10402.0,Stade de la Licorne,Karim Abed,ligue 1,1,2
+17,2.0,Sat,8/18/18,Monaco,1.4,0.6,Lille,11140.0,Stade Louis II.,Thomas Léonard,ligue 1,0,0
+18,2.0,Sun,8/19/18,Strasbourg,0.9,0.6,Saint-Étienne,25385.0,Stade de la Meinau,Benoît Millot,ligue 1,1,1
+19,2.0,Sun,8/19/18,Toulouse,1.9,1.5,Bordeaux,15387.0,Stadium Municipal,François Letexier,ligue 1,2,1
+20,2.0,Sun,8/19/18,Nîmes,1.7,1.0,Marseille,15285.0,Stade des Costières,Benoît Bastien,ligue 1,3,1
+22,3.0,Fri,8/24/18,Lyon,1.5,0.6,Strasbourg,47341.0,Groupama Stadium,Amaury Delerue,ligue 1,2,0
+23,3.0,Sat,8/25/18,Paris S-G,1.8,1.7,Angers,47105.0,Parc des Princes,Jérôme Miguelgorry,ligue 1,3,1
+24,3.0,Sat,8/25/18,Nantes,1.4,0.4,Caen,19674.0,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem,ligue 1,1,1
+25,3.0,Sat,8/25/18,Amiens,1.5,0.8,Reims,10709.0,Stade de la Licorne,Florent Batta,ligue 1,4,1
+26,3.0,Sat,8/25/18,Nice,1.8,1.5,Dijon,17923.0,Stade de Nice,Willy Delajod,ligue 1,0,4
+27,3.0,Sat,8/25/18,Montpellier,0.8,0.3,Saint-Étienne,14777.0,Stade de la Mosson,Jérôme Brisard,ligue 1,0,0
+28,3.0,Sat,8/25/18,Toulouse,2.4,0.5,Nîmes,11746.0,Stadium Municipal,Franck Schneider,ligue 1,1,0
+29,3.0,Sun,8/26/18,Lille,1.7,0.7,Guingamp,27230.0,Stade Pierre-Mauroy,Johan Hamel,ligue 1,3,0
+30,3.0,Sun,8/26/18,Bordeaux,2.5,0.7,Monaco,21607.0,Stade Matmut-Atlantique,Clément Turpin,ligue 1,2,1
+31,3.0,Sun,8/26/18,Marseille,1.4,2.4,Rennes,53471.0,Orange Vélodrome,Antony Gautier,ligue 1,2,2
+33,4.0,Fri,8/31/18,Lyon,2.0,0.5,Nice,53438.0,Groupama Stadium,François Letexier,ligue 1,0,1
+34,4.0,Sat,9/1/18,Nîmes,1.5,2.4,Paris S-G,15311.0,Stade des Costières,Jérôme Brisard,ligue 1,2,4
+35,4.0,Sat,9/1/18,Angers,1.1,1.4,Lille,9245.0,Stade Raymond Kopa,Eric Wattellier,ligue 1,1,0
+36,4.0,Sat,9/1/18,Strasbourg,1.6,1.0,Nantes,25091.0,Stade de la Meinau,Olivier Thual,ligue 1,2,3
+37,4.0,Sat,9/1/18,Guingamp,2.2,1.1,Toulouse,12327.0,Stade du Roudourou,Karim Abed,ligue 1,1,2
+38,4.0,Sat,9/1/18,Dijon,1.2,1.6,Caen,13382.0,Stade Gaston Gérard,Nicolas Rainville,ligue 1,0,2
+39,4.0,Sat,9/1/18,Reims,2.1,0.5,Montpellier,12042.0,Stade Auguste-Delaune II,Jeremy Stinat,ligue 1,0,1
+40,4.0,Sun,9/2/18,Saint-Étienne,0.7,0.3,Amiens,30146.0,Stade Geoffroy-Guichard,Thomas Léonard,ligue 1,0,0
+41,4.0,Sun,9/2/18,Rennes,1.9,0.5,Bordeaux,23817.0,Roazhon Park,Benoît Bastien,ligue 1,2,0
+42,4.0,Sun,9/2/18,Monaco,1.6,1.4,Marseille,14269.0,Stade Louis II.,Benoît Millot,ligue 1,2,3
+44,5.0,Fri,9/14/18,Nice,1.2,1.1,Rennes,16887.0,Stade de Nice,Jérôme Miguelgorry,ligue 1,2,1
+45,5.0,Fri,9/14/18,Paris S-G,2.4,0.7,Saint-Étienne,46549.0,Parc des Princes,Franck Schneider,ligue 1,4,0
+46,5.0,Sat,9/15/18,Caen,1.8,1.1,Lyon,17676.0,Stade Michel d'Ornano,Johan Hamel,ligue 1,2,2
+47,5.0,Sat,9/15/18,Dijon,1.4,1.9,Angers,12275.0,Stade Gaston Gérard,Hakim Ben El Hadj Salem,ligue 1,1,3
+48,5.0,Sat,9/15/18,Montpellier,0.4,0.5,Strasbourg,10630.0,Stade de la Mosson,Willy Delajod,ligue 1,1,1
+49,5.0,Sat,9/15/18,Toulouse,1.2,0.6,Monaco,16689.0,Stadium Municipal,Ruddy Buquet,ligue 1,1,1
+50,5.0,Sat,9/15/18,Amiens,1.4,2.8,Lille,11569.0,Stade de la Licorne,Nicolas Rainville,ligue 1,2,3
+51,5.0,Sun,9/16/18,Nantes,0.9,0.7,Reims,18981.0,Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,ligue 1,0,0
+52,5.0,Sun,9/16/18,Bordeaux,1.3,1.6,Nîmes,15895.0,Stade Matmut-Atlantique,Antony Gautier,ligue 1,3,3
+53,5.0,Sun,9/16/18,Marseille,1.9,0.1,Guingamp,50450.0,Orange Vélodrome,Amaury Delerue,ligue 1,4,0
+55,6.0,Fri,9/21/18,Monaco,1.7,0.8,Nîmes,6837.0,Stade Louis II.,Amaury Delerue,ligue 1,1,1
+56,6.0,Sat,9/22/18,Lille,0.6,1.6,Nantes,27353.0,Stade Pierre-Mauroy,Benoît Bastien,ligue 1,2,1
+57,6.0,Sat,9/22/18,Saint-Étienne,3.1,0.6,Caen,23895.0,Stade Geoffroy-Guichard,Ruddy Buquet,ligue 1,2,1
+58,6.0,Sat,9/22/18,Montpellier,1.9,0.6,Nice,11015.0,Stade de la Mosson,Thomas Léonard,ligue 1,1,0
+59,6.0,Sat,9/22/18,Angers,0.7,0.4,Toulouse,10021.0,Stade Raymond Kopa,Florent Batta,ligue 1,0,0
+60,6.0,Sat,9/22/18,Reims,0.9,0.2,Dijon,11523.0,Stade Auguste-Delaune II,Jérôme Brisard,ligue 1,0,0
+61,6.0,Sat,9/22/18,Strasbourg,1.1,0.8,Amiens,24683.0,Stade de la Meinau,Jeremy Stinat,ligue 1,3,1
+62,6.0,Sun,9/23/18,Rennes,0.9,1.4,Paris S-G,29205.0,Roazhon Park,Hakim Ben El Hadj Salem,ligue 1,1,3
+63,6.0,Sun,9/23/18,Guingamp,1.9,1.0,Bordeaux,14772.0,Stade du Roudourou,Franck Schneider,ligue 1,1,3
+64,6.0,Sun,9/23/18,Lyon,2.6,0.5,Marseille,57287.0,Groupama Stadium,Clément Turpin,ligue 1,4,2
+66,7.0,Tue,9/25/18,Monaco,0.8,0.4,Angers,5502.0,Stade Louis II.,Willy Delajod,ligue 1,0,1
+67,7.0,Tue,9/25/18,Nantes,1.0,1.1,Nice,16604.0,Stade de la Beaujoire - Louis Fonteneau,Mikael Lesage,ligue 1,1,2
+68,7.0,Tue,9/25/18,Toulouse,1.2,1.9,Saint-Étienne,14008.0,Stadium Municipal,Amaury Delerue,ligue 1,2,3
+69,7.0,Wed,9/26/18,Caen,0.7,1.7,Montpellier,14402.0,Stade Michel d'Ornano,Antony Gautier,ligue 1,2,2
+70,7.0,Wed,9/26/18,Dijon,1.5,2.7,Lyon,14651.0,Stade Gaston Gérard,Jérôme Miguelgorry,ligue 1,0,3
+71,7.0,Wed,9/26/18,Marseille,1.4,0.7,Strasbourg,47099.0,Orange Vélodrome,François Letexier,ligue 1,3,2
+72,7.0,Wed,9/26/18,Bordeaux,1.0,1.6,Lille,17395.0,Stade Matmut-Atlantique,Karim Abed,ligue 1,1,0
+73,7.0,Wed,9/26/18,Amiens,1.0,1.2,Rennes,10398.0,Stade de la Licorne,Johan Hamel,ligue 1,2,1
+74,7.0,Wed,9/26/18,Nîmes,1.0,0.5,Guingamp,13415.0,Stade des Costières,Benoît Millot,ligue 1,0,0
+75,7.0,Wed,9/26/18,Paris S-G,3.3,0.4,Reims,47237.0,Parc des Princes,Olivier Thual,ligue 1,4,1
+77,8.0,Fri,9/28/18,Saint-Étienne,1.8,2.9,Monaco,26486.0,Stade Geoffroy-Guichard,Jérôme Brisard,ligue 1,2,0
+78,8.0,Sat,9/29/18,Nice,0.4,2.6,Paris S-G,33138.0,Stade de Nice,Clément Turpin,ligue 1,0,3
+79,8.0,Sat,9/29/18,Caen,1.4,0.4,Amiens,15007.0,Stade Michel d'Ornano,Benoît Bastien,ligue 1,1,0
+80,8.0,Sat,9/29/18,Lyon,2.6,1.3,Nantes,50319.0,Groupama Stadium,Franck Schneider,ligue 1,1,1
+81,8.0,Sat,9/29/18,Reims,0.6,0.2,Bordeaux,13406.0,Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,ligue 1,0,0
+82,8.0,Sat,9/29/18,Strasbourg,1.0,1.1,Dijon,25060.0,Stade de la Meinau,Eric Wattellier,ligue 1,3,0
+83,8.0,Sat,9/29/18,Angers,0.7,1.2,Guingamp,9483.0,Stade Raymond Kopa,Nicolas Rainville,ligue 1,0,1
+84,8.0,Sun,9/30/18,Rennes,2.4,0.4,Toulouse,21173.0,Roazhon Park,Thomas Léonard,ligue 1,1,1
+85,8.0,Sun,9/30/18,Montpellier,2.6,0.8,Nîmes,20054.0,Stade de la Mosson,Ruddy Buquet,ligue 1,3,0
+86,8.0,Sun,9/30/18,Lille,2.8,0.6,Marseille,41623.0,Stade Pierre-Mauroy,Mikael Lesage,ligue 1,3,0
+88,9.0,Fri,10/5/18,Toulouse,1.3,1.0,Nice,14162.0,Stadium Municipal,Willy Delajod,ligue 1,1,1
+89,9.0,Sat,10/6/18,Lille,0.5,1.7,Saint-Étienne,31263.0,Stade Pierre-Mauroy,Jérôme Miguelgorry,ligue 1,3,1
+90,9.0,Sat,10/6/18,Amiens,0.4,0.5,Dijon,10194.0,Stade de la Licorne,Florent Batta,ligue 1,1,0
+91,9.0,Sat,10/6/18,Nîmes,1.1,1.5,Reims,12958.0,Stade des Costières,Karim Abed,ligue 1,0,0
+92,9.0,Sat,10/6/18,Angers,2.3,1.1,Strasbourg,8930.0,Stade Raymond Kopa,Johan Hamel,ligue 1,2,2
+93,9.0,Sat,10/6/18,Guingamp,0.8,0.9,Montpellier,13643.0,Stade du Roudourou,Jeremy Stinat,ligue 1,1,1
+94,9.0,Sun,10/7/18,Bordeaux,1.5,0.9,Nantes,18307.0,Stade Matmut-Atlantique,François Letexier,ligue 1,3,0
+95,9.0,Sun,10/7/18,Marseille,2.1,1.0,Caen,55935.0,Orange Vélodrome,Benoît Millot,ligue 1,2,0
+96,9.0,Sun,10/7/18,Monaco,0.4,1.5,Rennes,6268.0,Stade Louis II.,Olivier Thual,ligue 1,1,2
+97,9.0,Sun,10/7/18,Paris S-G,3.7,1.8,Lyon,47443.0,Parc des Princes,Antony Gautier,ligue 1,5,0
+99,10.0,Fri,10/19/18,Lyon,2.2,1.3,Nîmes,42896.0,Groupama Stadium,Olivier Thual,ligue 1,2,0
+100,10.0,Sat,10/20/18,Paris S-G,1.6,0.6,Amiens,47497.0,Parc des Princes,Mikael Lesage,ligue 1,5,0
+101,10.0,Sat,10/20/18,Caen,0.5,0.9,Guingamp,16009.0,Stade Michel d'Ornano,Hakim Ben El Hadj Salem,ligue 1,0,0
+102,10.0,Sat,10/20/18,Dijon,1.7,1.8,Lille,13004.0,Stade Gaston Gérard,Thomas Léonard,ligue 1,1,2
+103,10.0,Sat,10/20/18,Reims,1.1,1.8,Angers,10954.0,Stade Auguste-Delaune II,Eric Wattellier,ligue 1,1,1
+104,10.0,Sat,10/20/18,Strasbourg,1.1,1.4,Monaco,25358.0,Stade de la Meinau,Nicolas Rainville,ligue 1,2,1
+105,10.0,Sat,10/20/18,Nantes,2.2,0.6,Toulouse,22613.0,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien,ligue 1,4,0
+106,10.0,Sun,10/21/18,Montpellier,1.6,1.2,Bordeaux,12491.0,Stade de la Mosson,Franck Schneider,ligue 1,2,0
+107,10.0,Sun,10/21/18,Saint-Étienne,1.6,1.9,Rennes,29557.0,Stade Geoffroy-Guichard,Clément Turpin,ligue 1,1,1
+108,10.0,Sun,10/21/18,Nice,0.9,0.5,Marseille,30754.0,Stade de Nice,Amaury Delerue,ligue 1,0,1
+110,11.0,Fri,10/26/18,Nîmes,1.2,1.0,Saint-Étienne,15412.0,Stade des Costières,François Letexier,ligue 1,1,1
+111,11.0,Sat,10/27/18,Angers,1.0,1.8,Lyon,14186.0,Stade Raymond Kopa,Ruddy Buquet,ligue 1,1,2
+112,11.0,Sat,10/27/18,Lille,0.8,0.7,Caen,33362.0,Stade Pierre-Mauroy,Florent Batta,ligue 1,1,0
+113,11.0,Sat,10/27/18,Toulouse,1.1,2.1,Montpellier,14100.0,Stadium Municipal,Karim Abed,ligue 1,0,3
+114,11.0,Sat,10/27/18,Amiens,1.1,1.7,Nantes,11384.0,Stade de la Licorne,Jeremy Stinat,ligue 1,1,2
+115,11.0,Sat,10/27/18,Monaco,1.1,0.5,Dijon,7139.0,Stade Louis II.,Jérôme Miguelgorry,ligue 1,2,2
+116,11.0,Sat,10/27/18,Guingamp,1.4,1.8,Strasbourg,13643.0,Stade du Roudourou,Willy Delajod,ligue 1,1,1
+117,11.0,Sun,10/28/18,Rennes,0.7,0.2,Reims,22710.0,Roazhon Park,Benoît Millot,ligue 1,0,2
+118,11.0,Sun,10/28/18,Bordeaux,2.2,1.5,Nice,20730.0,Stade Matmut-Atlantique,Jérôme Brisard,ligue 1,0,1
+119,11.0,Sun,10/28/18,Marseille,0.5,1.4,Paris S-G,64696.0,Orange Vélodrome,Benoît Bastien,ligue 1,0,2
+121,12.0,Fri,11/2/18,Paris S-G,2.4,0.9,Lille,47549.0,Parc des Princes,François Letexier,ligue 1,2,1
+122,12.0,Sat,11/3/18,Lyon,0.3,1.5,Bordeaux,46653.0,Groupama Stadium,Benoît Millot,ligue 1,1,1
+123,12.0,Sat,11/3/18,Strasbourg,1.2,1.2,Toulouse,25034.0,Stade de la Meinau,Jérôme Miguelgorry,ligue 1,1,1
+124,12.0,Sat,11/3/18,Caen,1.8,2.0,Rennes,17284.0,Stade Michel d'Ornano,Amaury Delerue,ligue 1,1,2
+125,12.0,Sat,11/3/18,Dijon,1.2,1.7,Nîmes,12113.0,Stade Gaston Gérard,Franck Schneider,ligue 1,0,4
+126,12.0,Sat,11/3/18,Nice,1.0,1.0,Amiens,15259.0,Stade de Nice,Johan Hamel,ligue 1,1,0
+127,12.0,Sat,11/3/18,Reims,1.2,0.4,Monaco,16005.0,Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,ligue 1,1,0
+128,12.0,Sun,11/4/18,Nantes,2.2,0.2,Guingamp,25753.0,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,ligue 1,5,0
+129,12.0,Sun,11/4/18,Saint-Étienne,2.2,1.2,Angers,22983.0,Stade Geoffroy-Guichard,Thomas Léonard,ligue 1,4,3
+130,12.0,Sun,11/4/18,Montpellier,1.2,0.8,Marseille,19683.0,Stade de la Mosson,Antony Gautier,ligue 1,3,0
+132,13.0,Fri,11/9/18,Lille,1.3,0.1,Strasbourg,27544.0,Stade Pierre-Mauroy,Olivier Thual,ligue 1,0,0
+133,13.0,Sat,11/10/18,Guingamp,1.3,1.1,Lyon,14171.0,Stade du Roudourou,Mikael Lesage,ligue 1,2,4
+134,13.0,Sat,11/10/18,Angers,0.8,0.3,Montpellier,8342.0,Stade Raymond Kopa,Jeremy Stinat,ligue 1,1,0
+135,13.0,Sat,11/10/18,Saint-Étienne,1.1,0.9,Reims,22838.0,Stade Geoffroy-Guichard,Florent Batta,ligue 1,2,0
+136,13.0,Sat,11/10/18,Nîmes,1.0,0.8,Nice,14290.0,Stade des Costières,Benoît Bastien,ligue 1,0,1
+137,13.0,Sat,11/10/18,Toulouse,1.8,0.5,Amiens,13553.0,Stadium Municipal,Eric Wattellier,ligue 1,0,1
+138,13.0,Sun,11/11/18,Bordeaux,1.2,0.5,Caen,15352.0,Stade Matmut-Atlantique,Nicolas Rainville,ligue 1,0,0
+139,13.0,Sun,11/11/18,Rennes,1.9,0.2,Nantes,23270.0,Roazhon Park,Karim Abed,ligue 1,1,1
+140,13.0,Sun,11/11/18,Marseille,3.0,0.5,Dijon,47430.0,Orange Vélodrome,Willy Delajod,ligue 1,2,0
+141,13.0,Sun,11/11/18,Monaco,1.0,4.1,Paris S-G,12533.0,Stade Louis II.,Ruddy Buquet,ligue 1,0,4
+143,14.0,Fri,11/23/18,Lyon,0.8,1.1,Saint-Étienne,55701.0,Groupama Stadium,Antony Gautier,ligue 1,1,0
+144,14.0,Sat,11/24/18,Paris S-G,1.4,0.5,Toulouse,47244.0,Parc des Princes,Hakim Ben El Hadj Salem,ligue 1,1,0
+145,14.0,Sat,11/24/18,Caen,1.1,0.9,Monaco,15013.0,Stade Michel d'Ornano,Thomas Léonard,ligue 1,0,1
+146,14.0,Sat,11/24/18,Dijon,0.8,0.5,Bordeaux,12285.0,Stade Gaston Gérard,François Letexier,ligue 1,0,0
+147,14.0,Sat,11/24/18,Nantes,1.8,0.8,Angers,23682.0,Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,ligue 1,1,1
+148,14.0,Sat,11/24/18,Strasbourg,1.2,1.1,Nîmes,25128.0,Stade de la Meinau,Benoît Millot,ligue 1,0,1
+149,14.0,Sat,11/24/18,Reims,0.6,1.3,Guingamp,10028.0,Stade Auguste-Delaune II,Johan Hamel,ligue 1,2,1
+150,14.0,Sun,11/25/18,Montpellier,2.0,1.9,Rennes,10761.0,Stade de la Mosson,Jérôme Brisard,ligue 1,2,2
+151,14.0,Sun,11/25/18,Nice,0.9,0.3,Lille,18211.0,Stade de Nice,Franck Schneider,ligue 1,2,0
+152,14.0,Sun,11/25/18,Amiens,1.0,2.4,Marseille,11932.0,Stade de la Licorne,Jérôme Miguelgorry,ligue 1,1,3
+154,15.0,Fri,11/30/18,Saint-Étienne,1.9,0.4,Nantes,21884.0,Stade Geoffroy-Guichard,Jérôme Brisard,ligue 1,3,0
+155,15.0,Sat,12/1/18,Lille,1.0,2.8,Lyon,38755.0,Stade Pierre-Mauroy,Benoît Bastien,ligue 1,2,2
+156,15.0,Sat,12/1/18,Nîmes,1.6,1.1,Amiens,12159.0,Stade des Costières,Karim Abed,ligue 1,3,0
+157,15.0,Sat,12/1/18,Angers,1.2,0.8,Caen,8523.0,Stade Raymond Kopa,Willy Delajod,ligue 1,1,1
+158,15.0,Sat,12/1/18,Guingamp,0.8,0.5,Nice,12671.0,Stade du Roudourou,Ruddy Buquet,ligue 1,0,0
+159,15.0,Sat,12/1/18,Monaco,0.9,1.1,Montpellier,6725.0,Stade Louis II.,Olivier Thual,ligue 1,1,2
+160,15.0,Sun,12/2/18,Toulouse,0.6,2.1,Dijon,10279.0,Stadium Municipal,Jérôme Miguelgorry,ligue 1,2,2
+161,15.0,Sun,12/2/18,Marseille,1.0,0.6,Reims,41932.0,Orange Vélodrome,Nicolas Rainville,ligue 1,0,0
+162,15.0,Sun,12/2/18,Rennes,0.6,3.3,Strasbourg,19867.0,Roazhon Park,Eric Wattellier,ligue 1,1,4
+163,15.0,Sun,12/2/18,Bordeaux,1.0,2.0,Paris S-G,40841.0,Stade Matmut-Atlantique,Franck Schneider,ligue 1,2,2
+165,16.0,Tue,12/4/18,Amiens,0.7,1.9,Monaco,11048.0,Stade de la Licorne,Jérôme Brisard,ligue 1,0,2
+166,16.0,Tue,12/4/18,Nice,1.6,0.4,Angers,14123.0,Stade de Nice,Hakim Ben El Hadj Salem,ligue 1,0,0
+167,16.0,Tue,12/4/18,Montpellier,0.9,1.2,Lille,12486.0,Stade de la Mosson,Mikael Lesage,ligue 1,0,1
+168,16.0,Wed,12/5/18,Bordeaux,2.1,1.9,Saint-Étienne,23375.0,Stade Matmut-Atlantique,Clément Turpin,ligue 1,3,2
+169,16.0,Wed,12/5/18,Reims,1.5,1.0,Toulouse,10609.0,Stade Auguste-Delaune II,Jeremy Stinat,ligue 1,0,1
+170,16.0,Wed,12/5/18,Dijon,0.4,1.0,Guingamp,11711.0,Stade Gaston Gérard,Thomas Léonard,ligue 1,2,1
+171,16.0,Wed,12/5/18,Lyon,1.5,1.5,Rennes,47278.0,Groupama Stadium,Johan Hamel,ligue 1,0,2
+172,16.0,Wed,12/5/18,Caen,0.9,1.8,Nîmes,14501.0,Stade Michel d'Ornano,Florent Batta,ligue 1,1,2
+173,16.0,Wed,12/5/18,Nantes,1.1,1.5,Marseille,32663.0,Stade de la Beaujoire - Louis Fonteneau,François Letexier,ligue 1,3,2
+174,16.0,Wed,12/5/18,Strasbourg,0.9,1.7,Paris S-G,25702.0,Stade de la Meinau,Antony Gautier,ligue 1,1,1
+176,17.0,Sat,12/8/18,Guingamp,1.2,1.6,Amiens,14089.0,Stade du Roudourou,Benoît Bastien,ligue 1,1,2
+177,17.0,Sat,12/8/18,Rennes,2.3,0.7,Dijon,16975.0,Roazhon Park,Nicolas Rainville,ligue 1,2,0
+178,17.0,Sun,12/9/18,Strasbourg,1.3,0.3,Caen,25048.0,Stade de la Meinau,Olivier Thual,ligue 1,2,2
+179,17.0,Sun,12/9/18,Lille,1.5,1.1,Reims,26826.0,Stade Pierre-Mauroy,Willy Delajod,ligue 1,1,1
+181,18.0,Sat,12/15/18,Reims,0.7,0.7,Strasbourg,12171.0,Stade Auguste-Delaune II,Florent Batta,ligue 1,2,1
+182,18.0,Sun,12/16/18,Nîmes,1.1,1.0,Lille,13428.0,Stade des Costières,Hakim Ben El Hadj Salem,ligue 1,2,3
+183,18.0,Sun,12/16/18,Nice,3.5,1.1,Saint-Étienne,19250.0,Stade de Nice,Thomas Léonard,ligue 1,1,1
+184,18.0,Sun,12/16/18,Lyon,1.3,0.1,Monaco,46477.0,Groupama Stadium,Clément Turpin,ligue 1,3,0
+185,18.0,Tue,12/18/18,Caen,1.6,1.0,Toulouse,11631.0,Stade Michel d'Ornano,Antony Gautier,ligue 1,2,1
+187,19.0,Sat,12/22/18,Rennes,2.1,1.3,Nîmes,22430.0,Roazhon Park,Jeremy Stinat,ligue 1,4,0
+188,19.0,Sat,12/22/18,Monaco,0.5,1.2,Guingamp,6424.0,Stade Louis II.,Franck Schneider,ligue 1,0,2
+189,19.0,Sat,12/22/18,Angers,1.6,1.1,Marseille,15113.0,Stade Raymond Kopa,Jérôme Brisard,ligue 1,1,1
+190,19.0,Sat,12/22/18,Reims,1.6,1.4,Caen,11017.0,Stade Auguste-Delaune II,Jérôme Miguelgorry,ligue 1,2,2
+191,19.0,Sat,12/22/18,Lille,0.9,1.7,Toulouse,30186.0,Stade Pierre-Mauroy,Benoît Millot,ligue 1,1,2
+192,19.0,Sat,12/22/18,Saint-Étienne,2.5,1.0,Dijon,26215.0,Stade Geoffroy-Guichard,Eric Wattellier,ligue 1,3,0
+193,19.0,Sat,12/22/18,Montpellier,0.8,0.5,Lyon,17275.0,Stade de la Mosson,François Letexier,ligue 1,1,1
+194,19.0,Sat,12/22/18,Strasbourg,1.7,1.1,Nice,25113.0,Stade de la Meinau,Willy Delajod,ligue 1,2,0
+195,19.0,Sat,12/22/18,Paris S-G,2.1,0.4,Nantes,47511.0,Parc des Princes,Karim Abed,ligue 1,1,0
+196,19.0,Sun,12/23/18,Bordeaux,0.6,0.4,Amiens,23343.0,Stade Matmut-Atlantique,Mikael Lesage,ligue 1,1,1
+198,18.0,Tue,1/8/19,Nantes,1.7,0.8,Montpellier,15780.0,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,ligue 1,2,0
+199,18.0,Tue,1/8/19,Amiens,2.1,0.2,Angers,10209.0,Stade de la Licorne,Johan Hamel,ligue 1,0,0
+201,20.0,Fri,1/11/19,Caen,1.2,2.1,Lille,16018.0,Stade Michel d'Ornano,Thomas Léonard,ligue 1,1,3
+202,20.0,Fri,1/11/19,Lyon,1.4,0.8,Reims,42512.0,Groupama Stadium,Benoît Millot,ligue 1,1,1
+203,20.0,Sat,1/12/19,Amiens,0.3,2.9,Paris S-G,11932.0,Stade de la Licorne,Florent Batta,ligue 1,0,3
+204,20.0,Sat,1/12/19,Nice,1.6,1.6,Bordeaux,15191.0,Stade de Nice,Nicolas Rainville,ligue 1,1,0
+205,20.0,Sat,1/12/19,Guingamp,0.7,0.8,Saint-Étienne,15342.0,Stade du Roudourou,Karim Abed,ligue 1,0,1
+206,20.0,Sun,1/13/19,Nantes,1.6,0.2,Rennes,31195.0,Stade de la Beaujoire - Louis Fonteneau,Ruddy Buquet,ligue 1,0,1
+207,20.0,Sun,1/13/19,Toulouse,2.1,1.3,Strasbourg,15465.0,Stadium Municipal,Hakim Ben El Hadj Salem,ligue 1,1,2
+208,20.0,Sun,1/13/19,Dijon,0.8,0.8,Montpellier,11910.0,Stade Gaston Gérard,Benoît Bastien,ligue 1,1,1
+209,20.0,Sun,1/13/19,Marseille,1.2,0.7,Monaco,44315.0,Orange Vélodrome,Mikael Lesage,ligue 1,1,1
+211,17.0,Tue,1/15/19,Angers,2.7,0.5,Bordeaux,10836.0,Stade Raymond Kopa,Eric Wattellier,ligue 1,1,2
+212,17.0,Wed,1/16/19,Nîmes,0.6,0.5,Nantes,12806.0,Stade des Costières,Hakim Ben El Hadj Salem,ligue 1,1,0
+213,17.0,Wed,1/16/19,Monaco,1.6,1.1,Nice,11345.0,Stade Louis II.,Benoît Bastien,ligue 1,1,1
+214,17.0,Wed,1/16/19,Toulouse,0.9,1.9,Lyon,16587.0,Stadium Municipal,Ruddy Buquet,ligue 1,2,2
+216,18.0,Wed,1/16/19,Guingamp,0.8,1.3,Rennes,14179.0,Stade du Roudourou,Clément Turpin,ligue 1,2,1
+218,17.0,Wed,1/16/19,Saint-Étienne,1.9,1.1,Marseille,28146.0,Stade Geoffroy-Guichard,Antony Gautier,ligue 1,2,1
+220,21.0,Fri,1/18/19,Lille,2.2,0.2,Amiens,27211.0,Stade Pierre-Mauroy,Willy Delajod,ligue 1,2,1
+221,21.0,Sat,1/19/19,Paris S-G,4.3,0.0,Guingamp,47268.0,Parc des Princes,Amaury Delerue,ligue 1,9,0
+222,21.0,Sat,1/19/19,Monaco,1.1,1.2,Strasbourg,7298.0,Stade Louis II.,François Letexier,ligue 1,1,5
+223,21.0,Sat,1/19/19,Nîmes,1.3,0.8,Toulouse,12736.0,Stade des Costières,Jérôme Brisard,ligue 1,0,1
+224,21.0,Sat,1/19/19,Reims,1.0,1.4,Nice,11776.0,Stade Auguste-Delaune II,Olivier Thual,ligue 1,1,1
+225,21.0,Sun,1/20/19,Rennes,0.8,0.4,Montpellier,23990.0,Roazhon Park,Jérôme Miguelgorry,ligue 1,0,0
+226,21.0,Sun,1/20/19,Angers,0.2,1.0,Nantes,12412.0,Stade Raymond Kopa,Benoît Millot,ligue 1,1,0
+227,21.0,Sun,1/20/19,Caen,0.5,0.9,Marseille,19607.0,Stade Michel d'Ornano,Franck Schneider,ligue 1,0,1
+228,21.0,Sun,1/20/19,Bordeaux,1.8,1.0,Dijon,13380.0,Stade Matmut-Atlantique,Johan Hamel,ligue 1,1,0
+229,21.0,Sun,1/20/19,Saint-Étienne,1.8,2.3,Lyon,41594.0,Stade Geoffroy-Guichard,Benoît Bastien,ligue 1,1,2
+231,20.0,Wed,1/23/19,Nîmes,1.5,1.4,Angers,12015.0,Stade des Costières,Olivier Thual,ligue 1,3,1
+233,22.0,Fri,1/25/19,Marseille,1.3,2.1,Lille,43845.0,Orange Vélodrome,Amaury Delerue,ligue 1,1,2
+234,22.0,Sat,1/26/19,Guingamp,0.7,0.7,Reims,13853.0,Stade du Roudourou,Thomas Léonard,ligue 1,0,1
+235,22.0,Sat,1/26/19,Nice,1.6,0.7,Nîmes,15982.0,Stade de Nice,Benoît Millot,ligue 1,2,0
+236,22.0,Sat,1/26/19,Strasbourg,0.4,0.7,Bordeaux,25214.0,Stade de la Meinau,Florent Batta,ligue 1,1,0
+237,22.0,Sat,1/26/19,Dijon,1.5,1.6,Monaco,12060.0,Stade Gaston Gérard,Eric Wattellier,ligue 1,2,0
+238,22.0,Sun,1/27/19,Montpellier,1.0,0.4,Caen,11001.0,Stade de la Mosson,Hakim Ben El Hadj Salem,ligue 1,2,0
+239,22.0,Sun,1/27/19,Amiens,1.0,1.3,Lyon,10017.0,Stade de la Licorne,Jérôme Miguelgorry,ligue 1,0,1
+240,22.0,Sun,1/27/19,Toulouse,1.5,1.3,Angers,11296.0,Stadium Municipal,Johan Hamel,ligue 1,0,0
+241,22.0,Sun,1/27/19,Paris S-G,3.3,1.2,Rennes,43307.0,Parc des Princes,Karim Abed,ligue 1,4,1
+242,22.0,Wed,1/30/19,Nantes,1.3,1.9,Saint-Étienne,28748.0,Stade de la Beaujoire - Louis Fonteneau,Franck Schneider,ligue 1,1,1
+244,23.0,Fri,2/1/19,Lille,1.6,0.3,Nice,32849.0,Stade Pierre-Mauroy,Jérôme Miguelgorry,ligue 1,4,0
+245,23.0,Sat,2/2/19,Monaco,1.3,1.2,Toulouse,5896.0,Stade Louis II.,Mikael Lesage,ligue 1,2,1
+246,23.0,Sat,2/2/19,Rennes,1.7,0.5,Amiens,17783.0,Roazhon Park,Olivier Thual,ligue 1,1,0
+247,23.0,Sat,2/2/19,Angers,1.5,0.4,Dijon,8451.0,Stade Raymond Kopa,Florent Batta,ligue 1,1,0
+248,23.0,Sat,2/2/19,Reims,1.2,0.8,Marseille,20546.0,Stade Auguste-Delaune II,François Letexier,ligue 1,2,1
+249,23.0,Sun,2/3/19,Nîmes,0.7,0.6,Montpellier,18045.0,Stade des Costières,Antony Gautier,ligue 1,1,1
+250,23.0,Sun,2/3/19,Lyon,2.9,1.9,Paris S-G,57624.0,Groupama Stadium,Clément Turpin,ligue 1,2,1
+254,24.0,Fri,2/8/19,Dijon,0.8,1.4,Marseille,15095.0,Stade Gaston Gérard,Thomas Léonard,ligue 1,1,2
+255,24.0,Sat,2/9/19,Paris S-G,2.3,0.6,Bordeaux,47274.0,Parc des Princes,Ruddy Buquet,ligue 1,1,0
+256,24.0,Sat,2/9/19,Strasbourg,1.2,0.9,Angers,25010.0,Stade de la Meinau,Amaury Delerue,ligue 1,1,2
+257,24.0,Sat,2/9/19,Amiens,0.8,0.4,Caen,9373.0,Stade de la Licorne,Eric Wattellier,ligue 1,1,0
+258,24.0,Sun,2/10/19,Montpellier,1.3,1.5,Monaco,13709.0,Stade de la Mosson,Franck Schneider,ligue 1,2,2
+259,24.0,Sun,2/10/19,Toulouse,0.6,1.7,Reims,15240.0,Stadium Municipal,Karim Abed,ligue 1,1,1
+260,24.0,Sun,2/10/19,Nantes,1.9,1.8,Nîmes,34219.0,Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,ligue 1,2,4
+261,24.0,Sun,2/10/19,Rennes,2.5,1.6,Saint-Étienne,24230.0,Roazhon Park,Johan Hamel,ligue 1,3,0
+262,24.0,Sun,2/10/19,Guingamp,0.3,1.4,Lille,13886.0,Stade du Roudourou,Benoît Bastien,ligue 1,0,2
+263,24.0,Sun,2/10/19,Nice,1.4,1.5,Lyon,22193.0,Stade de Nice,Mikael Lesage,ligue 1,1,0
+265,23.0,Wed,2/13/19,Saint-Étienne,1.6,0.6,Strasbourg,16406.0,Stade Geoffroy-Guichard,Jérôme Brisard,ligue 1,2,1
+266,23.0,Wed,2/13/19,Caen,0.5,1.5,Nantes,16627.0,Stade Michel d'Ornano,Willy Delajod,ligue 1,0,1
+268,25.0,Fri,2/15/19,Nîmes,0.9,1.1,Dijon,12703.0,Stade des Costières,Jérôme Miguelgorry,ligue 1,2,0
+269,25.0,Fri,2/15/19,Lyon,1.3,1.4,Guingamp,40305.0,Groupama Stadium,Antony Gautier,ligue 1,2,1
+270,25.0,Sat,2/16/19,Marseille,1.0,0.9,Amiens,50871.0,Orange Vélodrome,Johan Hamel,ligue 1,2,0
+271,25.0,Sat,2/16/19,Angers,2.0,0.8,Nice,11117.0,Stade Raymond Kopa,Franck Schneider,ligue 1,3,0
+272,25.0,Sat,2/16/19,Monaco,1.1,0.4,Nantes,7557.0,Stade Louis II.,Olivier Thual,ligue 1,1,0
+273,25.0,Sun,2/17/19,Lille,0.9,0.5,Montpellier,36967.0,Stade Pierre-Mauroy,Ruddy Buquet,ligue 1,0,0
+274,25.0,Sun,2/17/19,Bordeaux,0.6,1.8,Toulouse,19332.0,Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,ligue 1,2,1
+275,25.0,Sun,2/17/19,Caen,0.7,0.9,Strasbourg,14290.0,Stade Michel d'Ornano,Thomas Léonard,ligue 1,0,0
+276,25.0,Sun,2/17/19,Reims,0.8,0.4,Rennes,14792.0,Stade Auguste-Delaune II,Florent Batta,ligue 1,2,0
+277,25.0,Sun,2/17/19,Saint-Étienne,0.8,1.4,Paris S-G,39652.0,Stade Geoffroy-Guichard,Benoît Bastien,ligue 1,0,1
+279,23.0,Wed,2/20/19,Bordeaux,0.9,1.2,Guingamp,14527.0,Stade Matmut-Atlantique,Willy Delajod,ligue 1,0,0
+281,17.0,Wed,2/20/19,Paris S-G,3.3,1.3,Montpellier,47198.0,Parc des Princes,François Letexier,ligue 1,5,1
+283,26.0,Fri,2/22/19,Dijon,0.4,1.2,Saint-Étienne,13511.0,Stade Gaston Gérard,Karim Abed,ligue 1,0,1
+284,26.0,Fri,2/22/19,Strasbourg,0.6,1.1,Lille,25303.0,Stade de la Meinau,Clément Turpin,ligue 1,1,1
+285,26.0,Sat,2/23/19,Paris S-G,3.8,0.3,Nîmes,47377.0,Parc des Princes,Amaury Delerue,ligue 1,3,0
+286,26.0,Sat,2/23/19,Guingamp,0.4,0.3,Angers,16306.0,Stade du Roudourou,Jérôme Miguelgorry,ligue 1,1,0
+287,26.0,Sat,2/23/19,Amiens,1.2,0.2,Nice,11074.0,Stade de la Licorne,Thomas Léonard,ligue 1,1,0
+288,26.0,Sun,2/24/19,Montpellier,1.5,2.3,Reims,11124.0,Stade de la Mosson,Willy Delajod,ligue 1,2,4
+289,26.0,Sun,2/24/19,Nantes,2.0,0.2,Bordeaux,21910.0,Stade de la Beaujoire - Louis Fonteneau,Nicolas Rainville,ligue 1,1,0
+290,26.0,Sun,2/24/19,Toulouse,1.1,2.5,Caen,20439.0,Stadium Municipal,François Letexier,ligue 1,1,1
+291,26.0,Sun,2/24/19,Rennes,1.1,0.6,Marseille,28014.0,Roazhon Park,Mikael Lesage,ligue 1,1,1
+292,26.0,Sun,2/24/19,Monaco,1.0,1.4,Lyon,10157.0,Stade Louis II.,Benoît Millot,ligue 1,2,0
+294,27.0,Sat,3/2/19,Caen,0.3,4.0,Paris S-G,20076.0,Stade Michel d'Ornano,Hakim Ben El Hadj Salem,ligue 1,1,2
+295,27.0,Sat,3/2/19,Angers,1.2,1.4,Monaco,11391.0,Stade Raymond Kopa,Antony Gautier,ligue 1,2,2
+296,27.0,Sat,3/2/19,Reims,1.0,1.9,Amiens,12549.0,Stade Auguste-Delaune II,Franck Schneider,ligue 1,2,2
+297,27.0,Sun,3/3/19,Guingamp,0.5,0.9,Nantes,15025.0,Stade du Roudourou,Ruddy Buquet,ligue 1,0,0
+298,27.0,Sun,3/3/19,Lille,1.2,0.5,Dijon,32722.0,Stade Pierre-Mauroy,Olivier Thual,ligue 1,1,0
+299,27.0,Sun,3/3/19,Nice,1.5,0.4,Strasbourg,17479.0,Stade de Nice,Eric Wattellier,ligue 1,1,0
+300,27.0,Sun,3/3/19,Lyon,4.1,0.3,Toulouse,44881.0,Groupama Stadium,Thomas Léonard,ligue 1,5,1
+301,27.0,Sun,3/3/19,Marseille,2.0,0.3,Saint-Étienne,57337.0,Orange Vélodrome,Clément Turpin,ligue 1,2,0
+302,27.0,Tue,3/5/19,Bordeaux,1.4,1.3,Montpellier,14522.0,Stade Matmut-Atlantique,Jérôme Brisard,ligue 1,1,2
+304,28.0,Sat,3/9/19,Strasbourg,0.8,3.2,Lyon,25463.0,Stade de la Meinau,Jérôme Miguelgorry,ligue 1,2,2
+305,28.0,Sat,3/9/19,Monaco,1.3,1.8,Bordeaux,8042.0,Stade Louis II.,François Letexier,ligue 1,1,1
+306,28.0,Sat,3/9/19,Amiens,2.3,0.8,Nîmes,10523.0,Stade de la Licorne,Willy Delajod,ligue 1,2,1
+307,28.0,Sat,3/9/19,Dijon,0.9,3.9,Reims,12317.0,Stade Gaston Gérard,Florent Batta,ligue 1,1,1
+308,28.0,Sun,3/10/19,Toulouse,1.5,0.7,Guingamp,19802.0,Stadium Municipal,Jérôme Brisard,ligue 1,1,0
+309,28.0,Sun,3/10/19,Saint-Étienne,0.5,1.7,Lille,26648.0,Stade Geoffroy-Guichard,Mikael Lesage,ligue 1,0,1
+310,28.0,Sun,3/10/19,Montpellier,1.0,1.6,Angers,10931.0,Stade de la Mosson,Karim Abed,ligue 1,2,2
+311,28.0,Sun,3/10/19,Rennes,2.5,0.2,Caen,23676.0,Roazhon Park,Benoît Millot,ligue 1,3,1
+312,28.0,Sun,3/10/19,Marseille,0.6,0.3,Nice,50935.0,Orange Vélodrome,Benoît Bastien,ligue 1,1,0
+314,18.0,Tue,3/12/19,Dijon,0.4,3.0,Paris S-G,15117.0,Stade Gaston Gérard,Jérôme Miguelgorry,ligue 1,0,4
+316,29.0,Fri,3/15/19,Nice,0.6,1.2,Toulouse,14402.0,Stade de Nice,Olivier Thual,ligue 1,1,1
+317,29.0,Fri,3/15/19,Lille,1.7,1.6,Monaco,37724.0,Stade Pierre-Mauroy,Hakim Ben El Hadj Salem,ligue 1,0,1
+318,29.0,Sat,3/16/19,Guingamp,1.7,0.4,Dijon,15834.0,Stade du Roudourou,Mikael Lesage,ligue 1,1,0
+319,29.0,Sat,3/16/19,Nîmes,1.9,0.6,Strasbourg,13114.0,Stade des Costières,Amaury Delerue,ligue 1,2,2
+320,29.0,Sat,3/16/19,Angers,1.5,0.7,Amiens,10427.0,Stade Raymond Kopa,Benoît Millot,ligue 1,0,0
+321,29.0,Sat,3/16/19,Caen,0.0,2.1,Saint-Étienne,18276.0,Stade Michel d'Ornano,Florent Batta,ligue 1,0,5
+322,29.0,Sun,3/17/19,Lyon,2.5,0.6,Montpellier,47134.0,Groupama Stadium,Clément Turpin,ligue 1,3,2
+323,29.0,Sun,3/17/19,Reims,0.8,0.3,Nantes,14806.0,Stade Auguste-Delaune II,Johan Hamel,ligue 1,1,0
+324,29.0,Sun,3/17/19,Bordeaux,1.4,0.6,Rennes,19807.0,Stade Matmut-Atlantique,Eric Wattellier,ligue 1,1,1
+325,29.0,Sun,3/17/19,Paris S-G,1.4,0.3,Marseille,47647.0,Parc des Princes,Antony Gautier,ligue 1,3,1
+327,30.0,Fri,3/29/19,Rennes,1.2,1.7,Lyon,27094.0,Roazhon Park,Antony Gautier,ligue 1,0,1
+328,30.0,Sat,3/30/19,Marseille,1.3,2.3,Angers,53507.0,Orange Vélodrome,Jérôme Miguelgorry,ligue 1,2,2
+329,30.0,Sun,3/31/19,Monaco,1.7,0.8,Caen,7031.0,Stade Louis II.,Ruddy Buquet,ligue 1,0,1
+330,30.0,Sun,3/31/19,Dijon,0.7,0.8,Nice,12345.0,Stade Gaston Gérard,Nicolas Rainville,ligue 1,0,1
+331,30.0,Sun,3/31/19,Amiens,1.5,0.6,Bordeaux,11765.0,Stade de la Licorne,Mikael Lesage,ligue 1,0,0
+332,30.0,Sun,3/31/19,Nantes,2.0,2.9,Lille,25045.0,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,ligue 1,2,3
+333,30.0,Sun,3/31/19,Toulouse,1.2,1.5,Paris S-G,27147.0,Stadium Municipal,Amaury Delerue,ligue 1,0,1
+334,30.0,Mon,4/1/19,Saint-Étienne,2.4,1.2,Nîmes,22595.0,Stade Geoffroy-Guichard,Karim Abed,ligue 1,2,1
+335,30.0,Wed,4/3/19,Strasbourg,2.1,0.6,Reims,25081.0,Stade de la Meinau,Jeremy Stinat,ligue 1,4,0
+336,30.0,Wed,4/3/19,Montpellier,1.9,0.4,Guingamp,11187.0,Stade de la Mosson,Franck Schneider,ligue 1,2,0
+338,31.0,Fri,4/5/19,Bordeaux,1.3,1.5,Marseille,34152.0,Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,ligue 1,2,0
+339,31.0,Sat,4/6/19,Lyon,2.5,0.6,Dijon,52431.0,Groupama Stadium,Johan Hamel,ligue 1,1,3
+340,31.0,Sat,4/6/19,Nîmes,1.0,0.2,Caen,12183.0,Stade des Costières,Olivier Thual,ligue 1,2,0
+341,31.0,Sat,4/6/19,Guingamp,0.4,1.8,Monaco,13997.0,Stade du Roudourou,Benoît Bastien,ligue 1,1,1
+342,31.0,Sat,4/6/19,Amiens,1.0,2.0,Saint-Étienne,11832.0,Stade de la Licorne,Eric Wattellier,ligue 1,2,2
+343,31.0,Sat,4/6/19,Angers,1.3,2.1,Rennes,12378.0,Stade Raymond Kopa,Nicolas Rainville,ligue 1,3,3
+344,31.0,Sun,4/7/19,Reims,1.3,0.7,Lille,18642.0,Stade Auguste-Delaune II,Jérôme Brisard,ligue 1,1,1
+345,31.0,Sun,4/7/19,Toulouse,2.9,0.8,Nantes,16264.0,Stadium Municipal,Florent Batta,ligue 1,1,0
+346,31.0,Sun,4/7/19,Nice,0.8,0.7,Montpellier,17980.0,Stade de Nice,Ruddy Buquet,ligue 1,1,0
+347,31.0,Sun,4/7/19,Paris S-G,3.7,0.8,Strasbourg,47419.0,Parc des Princes,Thomas Léonard,ligue 1,2,2
+349,27.0,Tue,4/9/19,Nîmes,1.5,0.6,Rennes,13142.0,Stade des Costières,Florent Batta,ligue 1,3,1
+351,32.0,Fri,4/12/19,Dijon,1.3,0.3,Amiens,12532.0,Stade Gaston Gérard,Karim Abed,ligue 1,0,0
+352,32.0,Fri,4/12/19,Nantes,1.0,1.0,Lyon,25050.0,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,ligue 1,2,1
+353,32.0,Sat,4/13/19,Marseille,1.5,0.9,Nîmes,62614.0,Orange Vélodrome,Franck Schneider,ligue 1,2,1
+354,32.0,Sat,4/13/19,Caen,0.6,1.6,Angers,17175.0,Stade Michel d'Ornano,Jeremy Stinat,ligue 1,0,1
+355,32.0,Sat,4/13/19,Monaco,1.9,0.8,Reims,7094.0,Stade Louis II.,Willy Delajod,ligue 1,0,0
+356,32.0,Sat,4/13/19,Strasbourg,1.1,2.1,Guingamp,25190.0,Stade de la Meinau,Antony Gautier,ligue 1,3,3
+357,32.0,Sun,4/14/19,Montpellier,1.9,0.3,Toulouse,11986.0,Stade de la Mosson,Benoît Millot,ligue 1,2,1
+358,32.0,Sun,4/14/19,Rennes,0.9,0.5,Nice,23706.0,Roazhon Park,Mikael Lesage,ligue 1,0,0
+359,32.0,Sun,4/14/19,Saint-Étienne,2.1,0.5,Bordeaux,33935.0,Stade Geoffroy-Guichard,Ruddy Buquet,ligue 1,3,0
+360,32.0,Sun,4/14/19,Lille,1.6,1.1,Paris S-G,49712.0,Stade Pierre-Mauroy,Benoît Bastien,ligue 1,5,1
+362,28.0,Wed,4/17/19,Nantes,1.6,0.9,Paris S-G,34471.0,Stade de la Beaujoire - Louis Fonteneau,Antony Gautier,ligue 1,3,2
+364,33.0,Fri,4/19/19,Dijon,1.2,0.9,Rennes,12751.0,Stade Gaston Gérard,Olivier Thual,ligue 1,3,2
+365,33.0,Fri,4/19/19,Lyon,2.5,0.6,Angers,43917.0,Groupama Stadium,Benoît Millot,ligue 1,2,1
+366,33.0,Sat,4/20/19,Guingamp,1.2,2.1,Marseille,18164.0,Stade du Roudourou,Mikael Lesage,ligue 1,1,3
+367,33.0,Sat,4/20/19,Strasbourg,0.7,2.4,Montpellier,25192.0,Stade de la Meinau,François Letexier,ligue 1,1,3
+368,33.0,Sat,4/20/19,Nîmes,1.2,1.0,Bordeaux,17092.0,Stade des Costières,Florent Batta,ligue 1,2,1
+369,33.0,Sat,4/20/19,Nice,1.9,0.7,Caen,17092.0,Stade de Nice,Jérôme Miguelgorry,ligue 1,0,1
+370,33.0,Sun,4/21/19,Toulouse,0.6,1.5,Lille,15002.0,Stadium Municipal,Nicolas Rainville,ligue 1,0,0
+371,33.0,Sun,4/21/19,Nantes,1.3,0.4,Amiens,19253.0,Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,ligue 1,3,2
+372,33.0,Sun,4/21/19,Reims,0.8,1.5,Saint-Étienne,19102.0,Stade Auguste-Delaune II,Amaury Delerue,ligue 1,0,2
+373,33.0,Sun,4/21/19,Paris S-G,2.0,1.3,Monaco,43581.0,Parc des Princes,Clément Turpin,ligue 1,3,1
+375,34.0,Fri,4/26/19,Bordeaux,0.8,3.1,Lyon,27455.0,Stade Matmut-Atlantique,Benoît Bastien,ligue 1,2,3
+376,34.0,Sun,4/28/19,Amiens,0.6,0.4,Strasbourg,11833.0,Stade de la Licorne,Stéphanie Frappart,ligue 1,0,0
+377,34.0,Sun,4/28/19,Caen,1.4,0.7,Dijon,19004.0,Stade Michel d'Ornano,Antony Gautier,ligue 1,1,0
+378,34.0,Sun,4/28/19,Lille,2.6,1.1,Nîmes,36356.0,Stade Pierre-Mauroy,Amaury Delerue,ligue 1,5,0
+379,34.0,Sun,4/28/19,Nice,2.0,0.8,Guingamp,16379.0,Stade de Nice,Hakim Ben El Hadj Salem,ligue 1,3,0
+380,34.0,Sun,4/28/19,Angers,0.5,0.2,Reims,11464.0,Stade Raymond Kopa,Karim Abed,ligue 1,1,1
+381,34.0,Sun,4/28/19,Saint-Étienne,1.7,1.3,Toulouse,28203.0,Stade Geoffroy-Guichard,Jeremy Stinat,ligue 1,2,0
+382,34.0,Sun,4/28/19,Marseille,1.7,1.2,Nantes,51969.0,Orange Vélodrome,Johan Hamel,ligue 1,1,2
+383,34.0,Tue,4/30/19,Montpellier,1.5,1.5,Paris S-G,20477.0,Stade de la Mosson,Mikael Lesage,ligue 1,3,2
+384,34.0,Wed,5/1/19,Rennes,1.6,1.1,Monaco,28285.0,Roazhon Park,Eric Wattellier,ligue 1,2,2
+386,35.0,Fri,5/3/19,Strasbourg,1.3,1.2,Marseille,25962.0,Stade de la Meinau,Jérôme Miguelgorry,ligue 1,1,1
+387,35.0,Sat,5/4/19,Paris S-G,2.8,0.9,Nice,47283.0,Parc des Princes,Franck Schneider,ligue 1,1,1
+388,35.0,Sat,5/4/19,Reims,0.3,1.7,Nîmes,13314.0,Stade Auguste-Delaune II,Thomas Léonard,ligue 1,0,3
+389,35.0,Sat,5/4/19,Bordeaux,0.5,0.5,Angers,18584.0,Stade Matmut-Atlantique,Nicolas Rainville,ligue 1,0,1
+390,35.0,Sat,5/4/19,Guingamp,0.4,0.0,Caen,16879.0,Stade du Roudourou,Jérôme Brisard,ligue 1,0,0
+391,35.0,Sun,5/5/19,Nantes,2.1,1.0,Dijon,19482.0,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien,ligue 1,3,0
+392,35.0,Sun,5/5/19,Montpellier,0.7,0.2,Amiens,14330.0,Stade de la Mosson,Olivier Thual,ligue 1,1,1
+393,35.0,Sun,5/5/19,Toulouse,2.3,1.7,Rennes,16794.0,Stadium Municipal,Willy Delajod,ligue 1,2,2
+394,35.0,Sun,5/5/19,Monaco,2.3,0.9,Saint-Étienne,9047.0,Stade Louis II.,Benoît Millot,ligue 1,2,3
+395,35.0,Sun,5/5/19,Lyon,2.0,2.0,Lille,56642.0,Groupama Stadium,Clément Turpin,ligue 1,2,2
+397,36.0,Fri,5/10/19,Saint-Étienne,1.3,1.5,Montpellier,35644.0,Stade Geoffroy-Guichard,Benoît Bastien,ligue 1,0,1
+398,36.0,Sat,5/11/19,Angers,2.3,1.6,Paris S-G,14728.0,Stade Raymond Kopa,Florent Batta,ligue 1,1,2
+399,36.0,Sat,5/11/19,Nîmes,1.2,0.9,Monaco,14811.0,Stade des Costières,Jeremy Stinat,ligue 1,1,0
+400,36.0,Sat,5/11/19,Dijon,1.8,2.0,Strasbourg,13105.0,Stade Gaston Gérard,Hakim Ben El Hadj Salem,ligue 1,2,1
+401,36.0,Sat,5/11/19,Amiens,0.6,0.4,Toulouse,11684.0,Stade de la Licorne,François Letexier,ligue 1,0,0
+402,36.0,Sat,5/11/19,Nice,1.5,2.2,Nantes,16372.0,Stade de Nice,Stéphanie Frappart,ligue 1,1,1
+403,36.0,Sat,5/11/19,Caen,1.6,1.8,Reims,18339.0,Stade Michel d'Ornano,Johan Hamel,ligue 1,3,2
+404,36.0,Sun,5/12/19,Rennes,1.2,3.0,Guingamp,26119.0,Roazhon Park,Karim Abed,ligue 1,1,1
+405,36.0,Sun,5/12/19,Lille,1.1,0.8,Bordeaux,41413.0,Stade Pierre-Mauroy,Mikael Lesage,ligue 1,1,0
+406,36.0,Sun,5/12/19,Marseille,1.9,1.5,Lyon,61707.0,Orange Vélodrome,Ruddy Buquet,ligue 1,0,3
+408,37.0,Sat,5/18/19,Paris S-G,3.3,0.9,Dijon,47532.0,Parc des Princes,Jérôme Brisard,ligue 1,4,0
+409,37.0,Sat,5/18/19,Guingamp,2.5,1.7,Nîmes,12096.0,Stade du Roudourou,Jérôme Miguelgorry,ligue 1,2,2
+410,37.0,Sat,5/18/19,Montpellier,0.9,0.6,Nantes,16063.0,Stade de la Mosson,Ruddy Buquet,ligue 1,1,1
+411,37.0,Sat,5/18/19,Saint-Étienne,1.7,1.0,Nice,36759.0,Stade Geoffroy-Guichard,Antony Gautier,ligue 1,3,0
+412,37.0,Sat,5/18/19,Lille,2.8,1.3,Angers,42704.0,Stade Pierre-Mauroy,François Letexier,ligue 1,5,0
+413,37.0,Sat,5/18/19,Bordeaux,0.6,1.3,Reims,14247.0,Stade Matmut-Atlantique,Eric Wattellier,ligue 1,0,1
+414,37.0,Sat,5/18/19,Lyon,2.8,0.3,Caen,51408.0,Groupama Stadium,Amaury Delerue,ligue 1,4,0
+415,37.0,Sat,5/18/19,Monaco,0.9,0.7,Amiens,10188.0,Stade Louis II.,Clément Turpin,ligue 1,2,0
+416,37.0,Sat,5/18/19,Toulouse,1.7,2.3,Marseille,24293.0,Stadium Municipal,Franck Schneider,ligue 1,2,5
+417,37.0,Sat,5/18/19,Strasbourg,1.7,0.9,Rennes,25086.0,Stade de la Meinau,Thomas Léonard,ligue 1,0,2
+419,38.0,Fri,5/24/19,Nîmes,1.6,1.3,Lyon,14986.0,Stade des Costières,François Letexier,ligue 1,2,3
+420,38.0,Fri,5/24/19,Caen,0.5,1.1,Bordeaux,19355.0,Stade Michel d'Ornano,Clément Turpin,ligue 1,0,1
+421,38.0,Fri,5/24/19,Marseille,1.3,0.8,Montpellier,53788.0,Orange Vélodrome,Antony Gautier,ligue 1,1,0
+422,38.0,Fri,5/24/19,Nice,1.5,2.1,Monaco,23356.0,Stade de Nice,Ruddy Buquet,ligue 1,2,0
+423,38.0,Fri,5/24/19,Nantes,1.5,0.9,Strasbourg,30636.0,Stade de la Beaujoire - Louis Fonteneau,Karim Abed,ligue 1,0,1
+424,38.0,Fri,5/24/19,Dijon,1.4,0.5,Toulouse,14050.0,Stade Gaston Gérard,Mikael Lesage,ligue 1,2,1
+425,38.0,Fri,5/24/19,Angers,1.8,1.2,Saint-Étienne,16011.0,Stade Raymond Kopa,Johan Hamel,ligue 1,1,1
+426,38.0,Fri,5/24/19,Reims,1.0,1.8,Paris S-G,20299.0,Stade Auguste-Delaune II,Nicolas Rainville,ligue 1,3,1
+427,38.0,Fri,5/24/19,Amiens,2.0,1.2,Guingamp,11932.0,Stade de la Licorne,Amaury Delerue,ligue 1,2,1
+428,38.0,Fri,5/24/19,Rennes,2.4,1.3,Lille,28185.0,Roazhon Park,Olivier Thual,ligue 1,3,1
+0,1.0,Fri,8/24/18,Bayern Munich,2.8,0.7,Hoffenheim,75000.0,Allianz Arena,Bastian Dankert,bundesliga,3,1
+1,1.0,Sat,8/25/18,Werder Bremen,1.7,1.1,Hannover 96,42100.0,Weserstadion,Felix Brych,bundesliga,1,1
+2,1.0,Sat,8/25/18,Freiburg,2.1,1.0,Eint Frankfurt,24000.0,Schwarzwald-Stadion,Manuel Gräfe,bundesliga,0,2
+3,1.0,Sat,8/25/18,Wolfsburg,1.1,1.4,Schalke 04,26621.0,Volkswagen Arena,Patrick Ittrich,bundesliga,2,1
+4,1.0,Sat,8/25/18,Hertha BSC,1.3,1.3,Nürnberg,52729.0,Olympiastadion Berlin,Tobias Welz,bundesliga,1,0
+5,1.0,Sat,8/25/18,Düsseldorf,1.1,1.3,Augsburg,40996.0,Merkur Spielarena,Markus Schmidt,bundesliga,1,2
+6,1.0,Sat,8/25/18,M'gladbach,4.0,1.2,Bayer,53087.0,Stadion im Borussia-Park,Christian Dingert,bundesliga,2,0
+7,1.0,Sun,8/26/18,Mainz 05,1.2,1.0,Stuttgart,28705.0,Opel Arena,Daniel Siebert,bundesliga,1,0
+8,1.0,Sun,8/26/18,Dortmund,1.0,1.5,RB Leipzig,80365.0,Signal Iduna Park,Deniz Aytekin,bundesliga,4,1
+10,2.0,Fri,8/31/18,Hannover 96,0.9,0.6,Dortmund,49000.0,HDI-Arena,Felix Zwayer,bundesliga,0,0
+11,2.0,Sat,9/1/18,Augsburg,1.1,1.2,M'gladbach,29580.0,WWK Arena,Frank Willenborg,bundesliga,1,1
+12,2.0,Sat,9/1/18,Hoffenheim,3.5,2.9,Freiburg,28619.0,PreZero Arena,Robert Hartmann,bundesliga,3,1
+13,2.0,Sat,9/1/18,Bayer,1.4,1.1,Wolfsburg,26247.0,BayArena,Sven Jablonski,bundesliga,1,3
+14,2.0,Sat,9/1/18,Eint Frankfurt,1.1,1.8,Werder Bremen,50000.0,Commerzbank-Arena,Sören Storks,bundesliga,1,2
+15,2.0,Sat,9/1/18,Nürnberg,1.0,0.3,Mainz 05,37781.0,Max-Morlock-Stadion,Guido Winkmann,bundesliga,1,1
+16,2.0,Sat,9/1/18,Stuttgart,0.2,1.7,Bayern Munich,58680.0,Mercedes-Benz Arena,Harm Osmers,bundesliga,0,3
+17,2.0,Sun,9/2/18,RB Leipzig,1.7,1.1,Düsseldorf,34975.0,Red Bull Arena,Marco Fritz,bundesliga,1,1
+18,2.0,Sun,9/2/18,Schalke 04,1.8,0.5,Hertha BSC,60181.0,Veltins-Arena,Sascha Stegemann,bundesliga,0,2
+20,3.0,Fri,9/14/18,Dortmund,1.0,0.3,Eint Frankfurt,81000.0,Signal Iduna Park,Benjamin Cortus,bundesliga,3,1
+21,3.0,Sat,9/15/18,RB Leipzig,2.2,1.2,Hannover 96,38937.0,Red Bull Arena,Robert Kampka,bundesliga,3,2
+22,3.0,Sat,9/15/18,Bayern Munich,1.2,0.8,Bayer,75000.0,Allianz Arena,Tobias Welz,bundesliga,3,1
+23,3.0,Sat,9/15/18,Düsseldorf,1.5,2.1,Hoffenheim,40111.0,Merkur Spielarena,Tobias Stieler,bundesliga,2,1
+24,3.0,Sat,9/15/18,Mainz 05,2.7,0.8,Augsburg,21105.0,Opel Arena,Martin Petersen,bundesliga,2,1
+25,3.0,Sat,9/15/18,Wolfsburg,1.8,0.8,Hertha BSC,25090.0,Volkswagen Arena,Christian Dingert,bundesliga,2,2
+26,3.0,Sat,9/15/18,M'gladbach,1.3,1.6,Schalke 04,54022.0,Stadion im Borussia-Park,Manuel Gräfe,bundesliga,2,1
+27,3.0,Sun,9/16/18,Werder Bremen,0.8,1.1,Nürnberg,42100.0,Weserstadion,Daniel Schlager,bundesliga,1,1
+28,3.0,Sun,9/16/18,Freiburg,1.0,1.0,Stuttgart,24000.0,Schwarzwald-Stadion,Deniz Aytekin,bundesliga,3,3
+30,4.0,Fri,9/21/18,Stuttgart,1.4,1.1,Düsseldorf,54410.0,Mercedes-Benz Arena,Robert Hartmann,bundesliga,0,0
+31,4.0,Sat,9/22/18,Hertha BSC,2.8,2.2,M'gladbach,51852.0,Olympiastadion Berlin,Markus Schmidt,bundesliga,4,2
+32,4.0,Sat,9/22/18,Hoffenheim,2.1,1.3,Dortmund,30150.0,PreZero Arena,Harm Osmers,bundesliga,1,1
+33,4.0,Sat,9/22/18,Wolfsburg,0.8,1.9,Freiburg,23011.0,Volkswagen Arena,Sascha Stegemann,bundesliga,1,3
+34,4.0,Sat,9/22/18,Augsburg,2.2,1.4,Werder Bremen,28434.0,WWK Arena,Felix Zwayer,bundesliga,2,3
+35,4.0,Sat,9/22/18,Nürnberg,1.1,0.6,Hannover 96,36736.0,Max-Morlock-Stadion,Bastian Dankert,bundesliga,2,0
+36,4.0,Sat,9/22/18,Schalke 04,0.4,2.5,Bayern Munich,62271.0,Veltins-Arena,Daniel Siebert,bundesliga,0,2
+37,4.0,Sun,9/23/18,Bayer,1.3,0.8,Mainz 05,27473.0,BayArena,Marco Fritz,bundesliga,1,0
+38,4.0,Sun,9/23/18,Eint Frankfurt,1.7,1.4,RB Leipzig,43800.0,Commerzbank-Arena,Felix Brych,bundesliga,1,1
+40,5.0,Tue,9/25/18,Werder Bremen,2.6,1.0,Hertha BSC,39100.0,Weserstadion,Guido Winkmann,bundesliga,3,1
+41,5.0,Tue,9/25/18,Freiburg,1.3,0.8,Schalke 04,24000.0,Schwarzwald-Stadion,Frank Willenborg,bundesliga,1,0
+42,5.0,Tue,9/25/18,Hannover 96,1.8,1.8,Hoffenheim,33500.0,HDI-Arena,Christian Dingert,bundesliga,1,3
+43,5.0,Tue,9/25/18,Bayern Munich,1.8,1.3,Augsburg,75000.0,Allianz Arena,Sören Storks,bundesliga,1,1
+44,5.0,Wed,9/26/18,Düsseldorf,2.2,1.5,Bayer,40046.0,Merkur Spielarena,Manuel Gräfe,bundesliga,1,2
+45,5.0,Wed,9/26/18,Dortmund,1.9,0.2,Nürnberg,75700.0,Signal Iduna Park,Patrick Ittrich,bundesliga,7,0
+46,5.0,Wed,9/26/18,Mainz 05,0.4,1.0,Wolfsburg,19205.0,Opel Arena,Tobias Stieler,bundesliga,0,0
+47,5.0,Wed,9/26/18,RB Leipzig,3.0,0.7,Stuttgart,32187.0,Red Bull Arena,Robert Schröder,bundesliga,2,0
+48,5.0,Wed,9/26/18,M'gladbach,1.7,1.3,Eint Frankfurt,41257.0,Stadion im Borussia-Park,Sven Jablonski,bundesliga,3,1
+50,6.0,Fri,9/28/18,Hertha BSC,1.1,1.8,Bayern Munich,74669.0,Olympiastadion Berlin,Marco Fritz,bundesliga,2,0
+51,6.0,Sat,9/29/18,Stuttgart,2.6,1.5,Werder Bremen,58569.0,Mercedes-Benz Arena,Tobias Welz,bundesliga,2,1
+52,6.0,Sat,9/29/18,Nürnberg,2.2,1.2,Düsseldorf,36102.0,Max-Morlock-Stadion,Harm Osmers,bundesliga,3,0
+53,6.0,Sat,9/29/18,Wolfsburg,1.1,0.9,M'gladbach,24100.0,Volkswagen Arena,Felix Zwayer,bundesliga,2,2
+54,6.0,Sat,9/29/18,Hoffenheim,1.7,1.5,RB Leipzig,28115.0,PreZero Arena,Deniz Aytekin,bundesliga,1,2
+55,6.0,Sat,9/29/18,Schalke 04,1.0,0.8,Mainz 05,61810.0,Veltins-Arena,Benjamin Cortus,bundesliga,1,0
+56,6.0,Sat,9/29/18,Bayer,1.0,2.6,Dortmund,30210.0,BayArena,Felix Brych,bundesliga,2,4
+57,6.0,Sun,9/30/18,Eint Frankfurt,2.2,0.3,Hannover 96,46300.0,Commerzbank-Arena,Robert Hartmann,bundesliga,4,1
+58,6.0,Sun,9/30/18,Augsburg,3.7,1.4,Freiburg,26488.0,WWK Arena,Robert Kampka,bundesliga,4,1
+60,7.0,Fri,10/5/18,Werder Bremen,0.9,0.5,Wolfsburg,42100.0,Weserstadion,Martin Petersen,bundesliga,2,0
+61,7.0,Sat,10/6/18,Dortmund,1.9,2.0,Augsburg,81365.0,Signal Iduna Park,Markus Schmidt,bundesliga,4,3
+62,7.0,Sat,10/6/18,Hannover 96,1.6,0.9,Stuttgart,40800.0,HDI-Arena,Sascha Stegemann,bundesliga,3,1
+63,7.0,Sat,10/6/18,Düsseldorf,0.7,1.4,Schalke 04,52000.0,Merkur Spielarena,Sven Jablonski,bundesliga,0,2
+64,7.0,Sat,10/6/18,Mainz 05,2.0,1.5,Hertha BSC,22405.0,Opel Arena,Daniel Schlager,bundesliga,0,0
+65,7.0,Sat,10/6/18,Bayern Munich,1.5,0.5,M'gladbach,75000.0,Allianz Arena,Frank Willenborg,bundesliga,0,3
+66,7.0,Sun,10/7/18,Freiburg,0.3,1.1,Bayer,23800.0,Schwarzwald-Stadion,Bastian Dankert,bundesliga,0,0
+67,7.0,Sun,10/7/18,Hoffenheim,2.2,0.9,Eint Frankfurt,29785.0,PreZero Arena,Daniel Siebert,bundesliga,1,2
+68,7.0,Sun,10/7/18,RB Leipzig,2.2,0.2,Nürnberg,37389.0,Red Bull Arena,Tobias Stieler,bundesliga,6,0
+70,8.0,Fri,10/19/18,Eint Frankfurt,3.4,0.9,Düsseldorf,51000.0,Commerzbank-Arena,Deniz Aytekin,bundesliga,7,1
+71,8.0,Sat,10/20/18,Stuttgart,1.1,1.2,Dortmund,59000.0,Mercedes-Benz Arena,Manuel Gräfe,bundesliga,0,4
+72,8.0,Sat,10/20/18,Wolfsburg,1.3,2.6,Bayern Munich,30000.0,Volkswagen Arena,Guido Winkmann,bundesliga,1,3
+73,8.0,Sat,10/20/18,Bayer,2.1,0.6,Hannover 96,26435.0,BayArena,Patrick Ittrich,bundesliga,2,2
+74,8.0,Sat,10/20/18,Augsburg,0.2,0.9,RB Leipzig,28703.0,WWK Arena,Tobias Welz,bundesliga,0,0
+75,8.0,Sat,10/20/18,Nürnberg,1.3,1.9,Hoffenheim,36472.0,Max-Morlock-Stadion,Felix Zwayer,bundesliga,1,3
+76,8.0,Sat,10/20/18,Schalke 04,1.3,0.4,Werder Bremen,62271.0,Veltins-Arena,Christian Dingert,bundesliga,0,2
+77,8.0,Sun,10/21/18,Hertha BSC,1.0,0.7,Freiburg,53716.0,Olympiastadion Berlin,Benjamin Cortus,bundesliga,1,1
+78,8.0,Sun,10/21/18,M'gladbach,2.4,1.4,Mainz 05,51123.0,Stadion im Borussia-Park,Sören Storks,bundesliga,4,0
+80,9.0,Fri,10/26/18,Freiburg,1.6,1.2,M'gladbach,24000.0,Schwarzwald-Stadion,Robert Hartmann,bundesliga,3,1
+81,9.0,Sat,10/27/18,Hannover 96,0.7,1.6,Augsburg,37600.0,HDI-Arena,Robert Kampka,bundesliga,1,2
+82,9.0,Sat,10/27/18,Dortmund,3.6,2.2,Hertha BSC,81000.0,Signal Iduna Park,Sascha Stegemann,bundesliga,2,2
+83,9.0,Sat,10/27/18,Düsseldorf,0.5,1.9,Wolfsburg,38043.0,Merkur Spielarena,Daniel Schlager,bundesliga,0,3
+84,9.0,Sat,10/27/18,Mainz 05,0.3,1.9,Bayern Munich,33305.0,Opel Arena,Harm Osmers,bundesliga,1,2
+85,9.0,Sat,10/27/18,Hoffenheim,2.8,0.6,Stuttgart,30150.0,PreZero Arena,Frank Willenborg,bundesliga,4,0
+86,9.0,Sun,10/28/18,Nürnberg,1.2,1.4,Eint Frankfurt,42154.0,Max-Morlock-Stadion,Robert Schröder,bundesliga,1,1
+87,9.0,Sun,10/28/18,RB Leipzig,0.6,0.4,Schalke 04,41939.0,Red Bull Arena,Felix Brych,bundesliga,0,0
+88,9.0,Sun,10/28/18,Werder Bremen,1.8,3.9,Bayer,40400.0,Weserstadion,Marco Fritz,bundesliga,2,6
+90,10.0,Fri,11/2/18,Stuttgart,1.0,3.2,Eint Frankfurt,58016.0,Mercedes-Benz Arena,Sven Jablonski,bundesliga,0,3
+91,10.0,Sat,11/3/18,Bayer,1.6,1.7,Hoffenheim,27589.0,BayArena,Tobias Stieler,bundesliga,1,4
+92,10.0,Sat,11/3/18,Augsburg,1.6,1.3,Nürnberg,30660.0,WWK Arena,Patrick Ittrich,bundesliga,2,2
+93,10.0,Sat,11/3/18,Wolfsburg,0.6,1.4,Dortmund,30000.0,Volkswagen Arena,Daniel Siebert,bundesliga,0,1
+94,10.0,Sat,11/3/18,Bayern Munich,1.9,0.4,Freiburg,75000.0,Allianz Arena,Felix Zwayer,bundesliga,1,1
+95,10.0,Sat,11/3/18,Schalke 04,2.8,1.9,Hannover 96,61959.0,Veltins-Arena,Markus Schmidt,bundesliga,3,1
+96,10.0,Sat,11/3/18,Hertha BSC,1.3,3.4,RB Leipzig,50382.0,Olympiastadion Berlin,Deniz Aytekin,bundesliga,0,3
+97,10.0,Sun,11/4/18,M'gladbach,3.4,0.7,Düsseldorf,54022.0,Stadion im Borussia-Park,Felix Brych,bundesliga,3,0
+98,10.0,Sun,11/4/18,Mainz 05,0.8,1.5,Werder Bremen,25105.0,Opel Arena,Guido Winkmann,bundesliga,2,1
+100,11.0,Fri,11/9/18,Hannover 96,2.0,2.9,Wolfsburg,35800.0,HDI-Arena,Marco Fritz,bundesliga,2,1
+101,11.0,Sat,11/10/18,Düsseldorf,2.7,0.8,Hertha BSC,38743.0,Merkur Spielarena,Robert Hartmann,bundesliga,4,1
+102,11.0,Sat,11/10/18,Nürnberg,0.6,1.6,Stuttgart,50000.0,Max-Morlock-Stadion,Christian Dingert,bundesliga,0,2
+103,11.0,Sat,11/10/18,Freiburg,1.1,1.0,Mainz 05,24000.0,Schwarzwald-Stadion,Sascha Stegemann,bundesliga,1,3
+104,11.0,Sat,11/10/18,Hoffenheim,2.2,1.3,Augsburg,27009.0,PreZero Arena,Robert Schröder,bundesliga,2,1
+105,11.0,Sat,11/10/18,Werder Bremen,1.5,1.9,M'gladbach,42100.0,Weserstadion,Sören Storks,bundesliga,1,3
+106,11.0,Sat,11/10/18,Dortmund,2.4,2.0,Bayern Munich,81365.0,Signal Iduna Park,Manuel Gräfe,bundesliga,3,2
+107,11.0,Sun,11/11/18,RB Leipzig,2.0,0.3,Bayer,36155.0,Red Bull Arena,Martin Petersen,bundesliga,3,0
+108,11.0,Sun,11/11/18,Eint Frankfurt,1.6,0.8,Schalke 04,50700.0,Commerzbank-Arena,Benjamin Cortus,bundesliga,3,0
+110,12.0,Fri,11/23/18,Bayer,2.8,0.6,Stuttgart,24632.0,BayArena,Robert Schröder,bundesliga,2,0
+111,12.0,Sat,11/24/18,Wolfsburg,1.5,0.5,RB Leipzig,22832.0,Volkswagen Arena,Tobias Stieler,bundesliga,1,0
+112,12.0,Sat,11/24/18,Mainz 05,0.9,1.2,Dortmund,33305.0,Opel Arena,Deniz Aytekin,bundesliga,1,2
+113,12.0,Sat,11/24/18,Hertha BSC,3.2,1.6,Hoffenheim,44508.0,Olympiastadion Berlin,Tobias Welz,bundesliga,3,3
+114,12.0,Sat,11/24/18,Augsburg,2.3,3.5,Eint Frankfurt,30660.0,WWK Arena,Felix Zwayer,bundesliga,1,3
+115,12.0,Sat,11/24/18,Bayern Munich,2.5,1.6,Düsseldorf,75000.0,Allianz Arena,Sven Jablonski,bundesliga,3,3
+116,12.0,Sat,11/24/18,Schalke 04,2.7,2.3,Nürnberg,62271.0,Veltins-Arena,Guido Winkmann,bundesliga,5,2
+117,12.0,Sun,11/25/18,Freiburg,2.8,2.2,Werder Bremen,24000.0,Schwarzwald-Stadion,Bastian Dankert,bundesliga,1,1
+118,12.0,Sun,11/25/18,M'gladbach,1.5,0.6,Hannover 96,48692.0,Stadion im Borussia-Park,Daniel Siebert,bundesliga,4,1
+120,13.0,Fri,11/30/18,Düsseldorf,1.4,1.0,Mainz 05,37091.0,Merkur Spielarena,Manuel Gräfe,bundesliga,0,1
+121,13.0,Sat,12/1/18,Werder Bremen,0.6,2.5,Bayern Munich,42100.0,Weserstadion,Christian Dingert,bundesliga,1,2
+122,13.0,Sat,12/1/18,Dortmund,2.3,0.1,Freiburg,81365.0,Signal Iduna Park,Frank Willenborg,bundesliga,2,0
+123,13.0,Sat,12/1/18,Hannover 96,1.0,1.4,Hertha BSC,35800.0,HDI-Arena,Felix Brych,bundesliga,0,2
+124,13.0,Sat,12/1/18,Stuttgart,0.6,1.0,Augsburg,52739.0,Mercedes-Benz Arena,Harm Osmers,bundesliga,1,0
+125,13.0,Sat,12/1/18,Hoffenheim,2.1,2.1,Schalke 04,30000.0,PreZero Arena,Robert Kampka,bundesliga,1,1
+126,13.0,Sun,12/2/18,RB Leipzig,2.3,0.7,M'gladbach,41939.0,Red Bull Arena,Markus Schmidt,bundesliga,2,0
+127,13.0,Sun,12/2/18,Eint Frankfurt,1.8,1.0,Wolfsburg,48000.0,Commerzbank-Arena,Sascha Stegemann,bundesliga,1,2
+128,13.0,Mon,12/3/18,Nürnberg,0.7,1.4,Bayer,32238.0,Max-Morlock-Stadion,Bibiana Steinhaus,bundesliga,1,1
+130,14.0,Fri,12/7/18,Werder Bremen,1.8,1.2,Düsseldorf,41500.0,Weserstadion,Marco Fritz,bundesliga,3,1
+131,14.0,Sat,12/8/18,Freiburg,1.9,1.0,RB Leipzig,23800.0,Schwarzwald-Stadion,Tobias Welz,bundesliga,3,0
+132,14.0,Sat,12/8/18,Wolfsburg,0.5,1.8,Hoffenheim,20602.0,Volkswagen Arena,Felix Zwayer,bundesliga,2,2
+133,14.0,Sat,12/8/18,Schalke 04,1.5,1.4,Dortmund,61767.0,Veltins-Arena,Daniel Siebert,bundesliga,1,2
+134,14.0,Sat,12/8/18,Bayern Munich,2.0,0.2,Nürnberg,75000.0,Allianz Arena,Tobias Stieler,bundesliga,3,0
+135,14.0,Sat,12/8/18,Bayer,1.8,0.8,Augsburg,25558.0,BayArena,Bastian Dankert,bundesliga,1,0
+136,14.0,Sat,12/8/18,Hertha BSC,0.4,1.3,Eint Frankfurt,42578.0,Olympiastadion Berlin,Daniel Schlager,bundesliga,1,0
+137,14.0,Sun,12/9/18,Mainz 05,2.6,1.5,Hannover 96,23305.0,Opel Arena,Robert Hartmann,bundesliga,1,1
+138,14.0,Sun,12/9/18,M'gladbach,1.2,1.0,Stuttgart,48590.0,Stadion im Borussia-Park,Deniz Aytekin,bundesliga,3,0
+140,15.0,Fri,12/14/18,Nürnberg,0.8,0.8,Wolfsburg,29604.0,Max-Morlock-Stadion,Sven Jablonski,bundesliga,0,2
+141,15.0,Sat,12/15/18,Stuttgart,1.0,1.0,Hertha BSC,47680.0,Mercedes-Benz Arena,Sascha Stegemann,bundesliga,2,1
+142,15.0,Sat,12/15/18,Augsburg,1.9,0.6,Schalke 04,27233.0,WWK Arena,Manuel Gräfe,bundesliga,1,1
+143,15.0,Sat,12/15/18,Düsseldorf,2.1,0.8,Freiburg,39301.0,Merkur Spielarena,Harm Osmers,bundesliga,2,0
+144,15.0,Sat,12/15/18,Hannover 96,0.1,3.4,Bayern Munich,49000.0,HDI-Arena,Sören Storks,bundesliga,0,4
+145,15.0,Sat,12/15/18,Hoffenheim,2.7,0.5,M'gladbach,30150.0,PreZero Arena,Benjamin Cortus,bundesliga,0,0
+146,15.0,Sat,12/15/18,Dortmund,2.3,0.4,Werder Bremen,81365.0,Signal Iduna Park,Guido Winkmann,bundesliga,2,1
+147,15.0,Sun,12/16/18,RB Leipzig,2.8,0.9,Mainz 05,30136.0,Red Bull Arena,Martin Petersen,bundesliga,4,1
+148,15.0,Sun,12/16/18,Eint Frankfurt,3.6,1.0,Bayer,46500.0,Commerzbank-Arena,Felix Brych,bundesliga,2,1
+150,16.0,Tue,12/18/18,M'gladbach,2.8,0.8,Nürnberg,42323.0,Stadion im Borussia-Park,Robert Schröder,bundesliga,2,0
+151,16.0,Tue,12/18/18,Hertha BSC,1.9,0.7,Augsburg,27939.0,Olympiastadion Berlin,Frank Willenborg,bundesliga,2,2
+152,16.0,Tue,12/18/18,Wolfsburg,1.2,0.6,Stuttgart,21780.0,Volkswagen Arena,Robert Hartmann,bundesliga,2,0
+153,16.0,Tue,12/18/18,Düsseldorf,1.4,0.8,Dortmund,52000.0,Merkur Spielarena,Tobias Welz,bundesliga,2,1
+154,16.0,Wed,12/19/18,Schalke 04,1.7,0.6,Bayer,61548.0,Veltins-Arena,Deniz Aytekin,bundesliga,1,2
+155,16.0,Wed,12/19/18,Bayern Munich,1.6,0.4,RB Leipzig,75000.0,Allianz Arena,Marco Fritz,bundesliga,1,0
+156,16.0,Wed,12/19/18,Mainz 05,1.5,1.1,Eint Frankfurt,30805.0,Opel Arena,Daniel Siebert,bundesliga,2,2
+157,16.0,Wed,12/19/18,Freiburg,1.8,1.6,Hannover 96,23500.0,Schwarzwald-Stadion,Christian Dingert,bundesliga,1,1
+158,16.0,Wed,12/19/18,Werder Bremen,2.5,1.3,Hoffenheim,40003.0,Weserstadion,Markus Schmidt,bundesliga,1,1
+160,17.0,Fri,12/21/18,Dortmund,1.7,0.6,M'gladbach,81365.0,Signal Iduna Park,Felix Zwayer,bundesliga,2,1
+161,17.0,Sat,12/22/18,Stuttgart,1.5,2.2,Schalke 04,54022.0,Mercedes-Benz Arena,Felix Brych,bundesliga,1,3
+162,17.0,Sat,12/22/18,Nürnberg,0.8,0.4,Freiburg,36190.0,Max-Morlock-Stadion,Robert Kampka,bundesliga,0,1
+163,17.0,Sat,12/22/18,RB Leipzig,2.0,2.0,Werder Bremen,40455.0,Red Bull Arena,Bibiana Steinhaus,bundesliga,3,2
+164,17.0,Sat,12/22/18,Hannover 96,0.6,1.1,Düsseldorf,34200.0,HDI-Arena,Bastian Dankert,bundesliga,0,1
+165,17.0,Sat,12/22/18,Bayer,2.2,1.4,Hertha BSC,27647.0,BayArena,Tobias Stieler,bundesliga,3,1
+166,17.0,Sat,12/22/18,Eint Frankfurt,1.1,1.9,Bayern Munich,51500.0,Commerzbank-Arena,Manuel Gräfe,bundesliga,0,3
+167,17.0,Sun,12/23/18,Augsburg,0.8,2.2,Wolfsburg,28152.0,WWK Arena,Sören Storks,bundesliga,2,3
+168,17.0,Sun,12/23/18,Hoffenheim,2.6,1.1,Mainz 05,28216.0,PreZero Arena,Sascha Stegemann,bundesliga,1,1
+170,18.0,Fri,1/18/19,Hoffenheim,1.2,2.9,Bayern Munich,30150.0,PreZero Arena,Tobias Welz,bundesliga,1,3
+171,18.0,Sat,1/19/19,Bayer,1.8,0.6,M'gladbach,29628.0,BayArena,Daniel Siebert,bundesliga,0,1
+172,18.0,Sat,1/19/19,Hannover 96,0.9,2.6,Werder Bremen,44300.0,HDI-Arena,Marco Fritz,bundesliga,0,1
+173,18.0,Sat,1/19/19,Augsburg,0.8,1.0,Düsseldorf,27568.0,WWK Arena,Christian Dingert,bundesliga,1,2
+174,18.0,Sat,1/19/19,Stuttgart,2.9,1.6,Mainz 05,51881.0,Mercedes-Benz Arena,Tobias Stieler,bundesliga,2,3
+175,18.0,Sat,1/19/19,Eint Frankfurt,2.5,1.6,Freiburg,49200.0,Commerzbank-Arena,Sven Jablonski,bundesliga,3,1
+176,18.0,Sat,1/19/19,RB Leipzig,1.2,0.9,Dortmund,41939.0,Red Bull Arena,Deniz Aytekin,bundesliga,0,1
+177,18.0,Sun,1/20/19,Nürnberg,1.0,2.0,Hertha BSC,36112.0,Max-Morlock-Stadion,Guido Winkmann,bundesliga,1,3
+178,18.0,Sun,1/20/19,Schalke 04,2.4,1.4,Wolfsburg,58827.0,Veltins-Arena,Manuel Gräfe,bundesliga,2,1
+180,19.0,Fri,1/25/19,Hertha BSC,0.9,1.0,Schalke 04,43027.0,Olympiastadion Berlin,Felix Brych,bundesliga,2,2
+181,19.0,Sat,1/26/19,Dortmund,2.1,0.8,Hannover 96,81365.0,Signal Iduna Park,Manuel Gräfe,bundesliga,5,1
+182,19.0,Sat,1/26/19,Mainz 05,2.9,0.5,Nürnberg,22005.0,Opel Arena,Bastian Dankert,bundesliga,2,1
+183,19.0,Sat,1/26/19,Freiburg,2.1,2.3,Hoffenheim,23900.0,Schwarzwald-Stadion,Bibiana Steinhaus,bundesliga,2,4
+184,19.0,Sat,1/26/19,Wolfsburg,0.7,3.1,Bayer,21736.0,Volkswagen Arena,Felix Zwayer,bundesliga,0,3
+185,19.0,Sat,1/26/19,M'gladbach,1.9,0.7,Augsburg,42509.0,Stadion im Borussia-Park,Harm Osmers,bundesliga,2,0
+186,19.0,Sat,1/26/19,Werder Bremen,3.2,1.5,Eint Frankfurt,42100.0,Weserstadion,Markus Schmidt,bundesliga,2,2
+187,19.0,Sun,1/27/19,Bayern Munich,2.3,0.8,Stuttgart,75000.0,Allianz Arena,Frank Willenborg,bundesliga,4,1
+188,19.0,Sun,1/27/19,Düsseldorf,0.4,2.4,RB Leipzig,34394.0,Merkur Spielarena,Robert Hartmann,bundesliga,0,4
+190,20.0,Fri,2/1/19,Hannover 96,0.1,3.3,RB Leipzig,32400.0,HDI-Arena,Daniel Schlager,bundesliga,0,3
+191,20.0,Sat,2/2/19,Hertha BSC,1.4,1.3,Wolfsburg,39259.0,Olympiastadion Berlin,Bastian Dankert,bundesliga,0,1
+192,20.0,Sat,2/2/19,Eint Frankfurt,1.0,1.4,Dortmund,51500.0,Commerzbank-Arena,Felix Zwayer,bundesliga,1,1
+193,20.0,Sat,2/2/19,Nürnberg,1.1,1.0,Werder Bremen,35753.0,Max-Morlock-Stadion,Robert Kampka,bundesliga,1,1
+194,20.0,Sat,2/2/19,Bayer,1.6,1.6,Bayern Munich,30210.0,BayArena,Tobias Stieler,bundesliga,3,1
+195,20.0,Sat,2/2/19,Hoffenheim,1.6,0.8,Düsseldorf,24747.0,PreZero Arena,Benjamin Cortus,bundesliga,1,1
+196,20.0,Sat,2/2/19,Schalke 04,0.4,1.6,M'gladbach,62271.0,Veltins-Arena,Marco Fritz,bundesliga,0,2
+197,20.0,Sun,2/3/19,Augsburg,3.2,0.2,Mainz 05,25733.0,WWK Arena,Sören Storks,bundesliga,3,0
+198,20.0,Sun,2/3/19,Stuttgart,1.2,1.9,Freiburg,51009.0,Mercedes-Benz Arena,Deniz Aytekin,bundesliga,2,2
+200,21.0,Fri,2/8/19,Mainz 05,1.7,2.7,Bayer,21905.0,Opel Arena,Robert Schröder,bundesliga,1,5
+201,21.0,Sat,2/9/19,RB Leipzig,1.9,0.4,Eint Frankfurt,38330.0,Red Bull Arena,Guido Winkmann,bundesliga,0,0
+202,21.0,Sat,2/9/19,Freiburg,1.1,1.7,Wolfsburg,23600.0,Schwarzwald-Stadion,Felix Brych,bundesliga,3,3
+203,21.0,Sat,2/9/19,Dortmund,2.5,1.4,Hoffenheim,81365.0,Signal Iduna Park,Marco Fritz,bundesliga,3,3
+204,21.0,Sat,2/9/19,M'gladbach,1.1,1.6,Hertha BSC,48232.0,Stadion im Borussia-Park,Martin Petersen,bundesliga,0,3
+205,21.0,Sat,2/9/19,Hannover 96,1.7,1.1,Nürnberg,33700.0,HDI-Arena,Tobias Welz,bundesliga,2,0
+206,21.0,Sat,2/9/19,Bayern Munich,1.8,0.8,Schalke 04,75000.0,Allianz Arena,Daniel Siebert,bundesliga,3,1
+207,21.0,Sun,2/10/19,Werder Bremen,1.3,1.2,Augsburg,40138.0,Weserstadion,Manuel Gräfe,bundesliga,4,0
+208,21.0,Sun,2/10/19,Düsseldorf,1.7,1.3,Stuttgart,40211.0,Merkur Spielarena,Christian Dingert,bundesliga,3,0
+210,22.0,Fri,2/15/19,Augsburg,0.5,1.7,Bayern Munich,30660.0,WWK Arena,Bibiana Steinhaus,bundesliga,2,3
+211,22.0,Sat,2/16/19,Schalke 04,0.4,0.9,Freiburg,58271.0,Veltins-Arena,Frank Willenborg,bundesliga,0,0
+212,22.0,Sat,2/16/19,Wolfsburg,2.0,0.8,Mainz 05,20334.0,Volkswagen Arena,Benjamin Cortus,bundesliga,3,0
+213,22.0,Sat,2/16/19,Stuttgart,1.2,1.2,RB Leipzig,46072.0,Mercedes-Benz Arena,Felix Zwayer,bundesliga,1,3
+214,22.0,Sat,2/16/19,Hoffenheim,3.1,0.3,Hannover 96,23404.0,PreZero Arena,Daniel Siebert,bundesliga,3,0
+215,22.0,Sat,2/16/19,Hertha BSC,1.4,0.5,Werder Bremen,49627.0,Olympiastadion Berlin,Sören Storks,bundesliga,1,1
+216,22.0,Sun,2/17/19,Eint Frankfurt,1.0,1.2,M'gladbach,51500.0,Commerzbank-Arena,Deniz Aytekin,bundesliga,1,1
+217,22.0,Sun,2/17/19,Bayer,1.6,0.2,Düsseldorf,27717.0,BayArena,Markus Schmidt,bundesliga,2,0
+218,22.0,Mon,2/18/19,Nürnberg,0.3,1.2,Dortmund,50000.0,Max-Morlock-Stadion,Harm Osmers,bundesliga,0,0
+220,23.0,Fri,2/22/19,Werder Bremen,1.0,0.9,Stuttgart,41000.0,Weserstadion,Robert Hartmann,bundesliga,1,1
+221,23.0,Sat,2/23/19,Mainz 05,2.7,0.6,Schalke 04,26005.0,Opel Arena,Sven Jablonski,bundesliga,3,0
+222,23.0,Sat,2/23/19,Freiburg,1.9,1.4,Augsburg,23600.0,Schwarzwald-Stadion,Tobias Welz,bundesliga,5,1
+223,23.0,Sat,2/23/19,M'gladbach,1.3,0.8,Wolfsburg,48041.0,Stadion im Borussia-Park,Robert Kampka,bundesliga,0,3
+224,23.0,Sat,2/23/19,Bayern Munich,0.7,0.5,Hertha BSC,75000.0,Allianz Arena,Harm Osmers,bundesliga,1,0
+225,23.0,Sat,2/23/19,Düsseldorf,1.4,0.2,Nürnberg,41816.0,Merkur Spielarena,Sascha Stegemann,bundesliga,2,1
+226,23.0,Sun,2/24/19,Hannover 96,0.5,2.0,Eint Frankfurt,39100.0,HDI-Arena,Marco Fritz,bundesliga,0,3
+227,23.0,Sun,2/24/19,Dortmund,1.2,0.9,Bayer,81029.0,Signal Iduna Park,Christian Dingert,bundesliga,3,2
+228,23.0,Mon,2/25/19,RB Leipzig,1.3,1.2,Hoffenheim,33569.0,Red Bull Arena,Felix Brych,bundesliga,1,1
+230,24.0,Fri,3/1/19,Augsburg,0.9,2.2,Dortmund,30660.0,WWK Arena,Tobias Stieler,bundesliga,2,1
+231,24.0,Sat,3/2/19,Hertha BSC,1.3,0.6,Mainz 05,33981.0,Olympiastadion Berlin,Deniz Aytekin,bundesliga,2,1
+232,24.0,Sat,3/2/19,Nürnberg,1.1,1.3,RB Leipzig,34532.0,Max-Morlock-Stadion,Daniel Schlager,bundesliga,0,1
+233,24.0,Sat,3/2/19,Bayer,2.2,0.3,Freiburg,26607.0,BayArena,Guido Winkmann,bundesliga,2,0
+234,24.0,Sat,3/2/19,Eint Frankfurt,1.5,1.9,Hoffenheim,49500.0,Commerzbank-Arena,Manuel Gräfe,bundesliga,3,2
+235,24.0,Sat,3/2/19,Schalke 04,0.7,2.1,Düsseldorf,60322.0,Veltins-Arena,Felix Brych,bundesliga,0,4
+236,24.0,Sat,3/2/19,M'gladbach,0.7,4.6,Bayern Munich,54022.0,Stadion im Borussia-Park,Felix Zwayer,bundesliga,1,5
+237,24.0,Sun,3/3/19,Stuttgart,2.0,0.1,Hannover 96,55781.0,Mercedes-Benz Arena,Bastian Dankert,bundesliga,5,1
+238,24.0,Sun,3/3/19,Wolfsburg,1.2,1.5,Werder Bremen,28101.0,Volkswagen Arena,Daniel Siebert,bundesliga,1,1
+240,25.0,Fri,3/8/19,Werder Bremen,2.4,1.2,Schalke 04,42100.0,Weserstadion,Martin Petersen,bundesliga,4,2
+241,25.0,Sat,3/9/19,Freiburg,1.4,1.2,Hertha BSC,24000.0,Schwarzwald-Stadion,Robert Schröder,bundesliga,2,1
+242,25.0,Sat,3/9/19,Dortmund,2.1,0.7,Stuttgart,81365.0,Signal Iduna Park,Benjamin Cortus,bundesliga,3,1
+243,25.0,Sat,3/9/19,RB Leipzig,1.2,0.2,Augsburg,38590.0,Red Bull Arena,Sven Jablonski,bundesliga,0,0
+244,25.0,Sat,3/9/19,Bayern Munich,3.1,0.2,Wolfsburg,75000.0,Allianz Arena,Sascha Stegemann,bundesliga,6,0
+245,25.0,Sat,3/9/19,Mainz 05,0.6,1.5,M'gladbach,30405.0,Opel Arena,Markus Schmidt,bundesliga,0,1
+246,25.0,Sun,3/10/19,Hoffenheim,2.1,0.6,Nürnberg,29015.0,PreZero Arena,Christian Dingert,bundesliga,2,1
+247,25.0,Sun,3/10/19,Hannover 96,1.1,2.2,Bayer,33800.0,HDI-Arena,Sören Storks,bundesliga,2,3
+248,25.0,Mon,3/11/19,Düsseldorf,0.7,2.0,Eint Frankfurt,41419.0,Merkur Spielarena,Robert Hartmann,bundesliga,0,3
+250,26.0,Fri,3/15/19,M'gladbach,1.5,0.5,Freiburg,46832.0,Stadion im Borussia-Park,Robert Kampka,bundesliga,1,1
+251,26.0,Sat,3/16/19,Stuttgart,1.0,2.2,Hoffenheim,56743.0,Mercedes-Benz Arena,Felix Zwayer,bundesliga,1,1
+252,26.0,Sat,3/16/19,Wolfsburg,4.0,1.2,Düsseldorf,25350.0,Volkswagen Arena,Bastian Dankert,bundesliga,5,2
+253,26.0,Sat,3/16/19,Schalke 04,1.3,1.3,RB Leipzig,59913.0,Veltins-Arena,Guido Winkmann,bundesliga,0,1
+254,26.0,Sat,3/16/19,Augsburg,0.9,1.4,Hannover 96,28136.0,WWK Arena,Manuel Gräfe,bundesliga,3,1
+255,26.0,Sat,3/16/19,Hertha BSC,1.6,2.8,Dortmund,74649.0,Olympiastadion Berlin,Tobias Welz,bundesliga,2,3
+256,26.0,Sun,3/17/19,Bayer,1.5,1.0,Werder Bremen,30210.0,BayArena,Deniz Aytekin,bundesliga,1,3
+257,26.0,Sun,3/17/19,Eint Frankfurt,2.7,0.5,Nürnberg,51500.0,Commerzbank-Arena,Bibiana Steinhaus,bundesliga,1,0
+258,26.0,Sun,3/17/19,Bayern Munich,2.1,0.3,Mainz 05,75000.0,Allianz Arena,Frank Willenborg,bundesliga,6,0
+260,27.0,Fri,3/29/19,Hoffenheim,1.8,2.0,Bayer,28350.0,PreZero Arena,Harm Osmers,bundesliga,4,1
+261,27.0,Sat,3/30/19,Düsseldorf,1.4,0.9,M'gladbach,52500.0,Merkur Spielarena,Tobias Stieler,bundesliga,3,1
+262,27.0,Sat,3/30/19,Freiburg,0.8,2.2,Bayern Munich,24000.0,Schwarzwald-Stadion,Christian Dingert,bundesliga,1,1
+263,27.0,Sat,3/30/19,Werder Bremen,1.3,0.9,Mainz 05,40711.0,Weserstadion,Marco Fritz,bundesliga,3,1
+264,27.0,Sat,3/30/19,Nürnberg,1.1,0.9,Augsburg,42658.0,Max-Morlock-Stadion,Daniel Siebert,bundesliga,3,0
+265,27.0,Sat,3/30/19,Dortmund,1.3,0.2,Wolfsburg,81365.0,Signal Iduna Park,Markus Schmidt,bundesliga,2,0
+266,27.0,Sat,3/30/19,RB Leipzig,3.6,0.8,Hertha BSC,41939.0,Red Bull Arena,Sören Storks,bundesliga,5,0
+267,27.0,Sun,3/31/19,Hannover 96,0.9,0.6,Schalke 04,44500.0,HDI-Arena,Sven Jablonski,bundesliga,0,1
+268,27.0,Sun,3/31/19,Eint Frankfurt,0.9,0.5,Stuttgart,51500.0,Commerzbank-Arena,Felix Brych,bundesliga,3,0
+270,28.0,Fri,4/5/19,Mainz 05,1.6,1.5,Freiburg,27305.0,Opel Arena,Sven Jablonski,bundesliga,5,0
+271,28.0,Sat,4/6/19,Wolfsburg,1.5,0.9,Hannover 96,23512.0,Volkswagen Arena,Benjamin Cortus,bundesliga,3,1
+272,28.0,Sat,4/6/19,Hertha BSC,1.3,2.7,Düsseldorf,51604.0,Olympiastadion Berlin,Christian Dingert,bundesliga,1,2
+273,28.0,Sat,4/6/19,Stuttgart,3.0,2.7,Nürnberg,58757.0,Mercedes-Benz Arena,Frank Willenborg,bundesliga,1,1
+274,28.0,Sat,4/6/19,Schalke 04,0.7,2.3,Eint Frankfurt,61842.0,Veltins-Arena,Sascha Stegemann,bundesliga,1,2
+275,28.0,Sat,4/6/19,Bayer,1.8,1.5,RB Leipzig,28845.0,BayArena,Tobias Welz,bundesliga,2,4
+276,28.0,Sat,4/6/19,Bayern Munich,3.6,0.4,Dortmund,75000.0,Allianz Arena,Manuel Gräfe,bundesliga,5,0
+277,28.0,Sun,4/7/19,Augsburg,0.4,2.7,Hoffenheim,27552.0,WWK Arena,Robert Schröder,bundesliga,0,4
+278,28.0,Sun,4/7/19,M'gladbach,1.6,0.8,Werder Bremen,54022.0,Stadion im Borussia-Park,Daniel Schlager,bundesliga,1,1
+280,29.0,Fri,4/12/19,Nürnberg,1.9,1.2,Schalke 04,50000.0,Max-Morlock-Stadion,Robert Kampka,bundesliga,1,1
+281,29.0,Sat,4/13/19,Werder Bremen,1.5,0.6,Freiburg,42100.0,Weserstadion,Bibiana Steinhaus,bundesliga,2,1
+282,29.0,Sat,4/13/19,Hannover 96,0.9,1.8,M'gladbach,40200.0,HDI-Arena,Felix Brych,bundesliga,0,1
+283,29.0,Sat,4/13/19,Stuttgart,0.5,2.7,Bayer,53657.0,Mercedes-Benz Arena,Tobias Stieler,bundesliga,0,1
+284,29.0,Sat,4/13/19,RB Leipzig,1.8,0.5,Wolfsburg,41212.0,Red Bull Arena,Daniel Siebert,bundesliga,2,0
+285,29.0,Sat,4/13/19,Dortmund,1.6,3.2,Mainz 05,81365.0,Signal Iduna Park,Deniz Aytekin,bundesliga,2,1
+286,29.0,Sun,4/14/19,Hoffenheim,3.0,0.4,Hertha BSC,28010.0,PreZero Arena,Martin Petersen,bundesliga,2,0
+287,29.0,Sun,4/14/19,Düsseldorf,1.0,3.3,Bayern Munich,54600.0,Merkur Spielarena,Felix Zwayer,bundesliga,1,4
+288,29.0,Sun,4/14/19,Eint Frankfurt,1.7,2.4,Augsburg,51000.0,Commerzbank-Arena,Bastian Dankert,bundesliga,1,3
+290,30.0,Sat,4/20/19,Augsburg,2.8,1.5,Stuttgart,30660.0,WWK Arena,Manuel Gräfe,bundesliga,6,0
+291,30.0,Sat,4/20/19,Bayern Munich,2.5,0.2,Werder Bremen,75000.0,Allianz Arena,Tobias Welz,bundesliga,1,0
+292,30.0,Sat,4/20/19,Bayer,1.4,0.2,Nürnberg,26405.0,BayArena,Guido Winkmann,bundesliga,2,0
+293,30.0,Sat,4/20/19,Mainz 05,3.4,2.4,Düsseldorf,29205.0,Opel Arena,Markus Schmidt,bundesliga,3,1
+294,30.0,Sat,4/20/19,M'gladbach,1.6,2.4,RB Leipzig,51757.0,Stadion im Borussia-Park,Harm Osmers,bundesliga,1,2
+295,30.0,Sat,4/20/19,Schalke 04,1.9,1.8,Hoffenheim,58958.0,Veltins-Arena,Christian Dingert,bundesliga,2,5
+296,30.0,Sun,4/21/19,Freiburg,0.6,2.6,Dortmund,24000.0,Schwarzwald-Stadion,Robert Hartmann,bundesliga,0,4
+297,30.0,Sun,4/21/19,Hertha BSC,1.5,0.7,Hannover 96,38916.0,Olympiastadion Berlin,Sascha Stegemann,bundesliga,0,0
+298,30.0,Mon,4/22/19,Wolfsburg,2.3,1.1,Eint Frankfurt,26102.0,Volkswagen Arena,Marco Fritz,bundesliga,1,1
+300,31.0,Fri,4/26/19,Augsburg,0.3,2.3,Bayer,26404.0,WWK Arena,Frank Willenborg,bundesliga,1,4
+301,31.0,Sat,4/27/19,Dortmund,0.9,1.1,Schalke 04,80196.0,Signal Iduna Park,Felix Zwayer,bundesliga,2,4
+302,31.0,Sat,4/27/19,Hannover 96,1.0,2.3,Mainz 05,30400.0,HDI-Arena,Sören Storks,bundesliga,1,0
+303,31.0,Sat,4/27/19,RB Leipzig,1.8,1.0,Freiburg,40826.0,Red Bull Arena,Robert Schröder,bundesliga,2,1
+304,31.0,Sat,4/27/19,Eint Frankfurt,1.1,1.5,Hertha BSC,51500.0,Commerzbank-Arena,Sven Jablonski,bundesliga,0,0
+305,31.0,Sat,4/27/19,Düsseldorf,1.6,2.7,Werder Bremen,52500.0,Merkur Spielarena,Benjamin Cortus,bundesliga,4,1
+306,31.0,Sat,4/27/19,Stuttgart,1.6,1.5,M'gladbach,56730.0,Mercedes-Benz Arena,Bastian Dankert,bundesliga,1,0
+307,31.0,Sun,4/28/19,Hoffenheim,2.6,1.5,Wolfsburg,27725.0,PreZero Arena,Deniz Aytekin,bundesliga,1,4
+308,31.0,Sun,4/28/19,Nürnberg,1.7,2.2,Bayern Munich,50000.0,Max-Morlock-Stadion,Tobias Stieler,bundesliga,1,1
+310,32.0,Fri,5/3/19,Mainz 05,1.3,2.4,RB Leipzig,23805.0,Opel Arena,Bibiana Steinhaus,bundesliga,3,3
+311,32.0,Sat,5/4/19,Hertha BSC,2.5,1.6,Stuttgart,48668.0,Olympiastadion Berlin,Daniel Schlager,bundesliga,3,1
+312,32.0,Sat,5/4/19,Wolfsburg,1.4,0.7,Nürnberg,22512.0,Volkswagen Arena,Daniel Siebert,bundesliga,2,0
+313,32.0,Sat,5/4/19,M'gladbach,1.2,3.1,Hoffenheim,51807.0,Stadion im Borussia-Park,Sascha Stegemann,bundesliga,2,2
+314,32.0,Sat,5/4/19,Bayern Munich,3.3,0.8,Hannover 96,75000.0,Allianz Arena,Christian Dingert,bundesliga,3,1
+315,32.0,Sat,5/4/19,Werder Bremen,0.9,2.1,Dortmund,42100.0,Weserstadion,Marco Fritz,bundesliga,2,2
+316,32.0,Sun,5/5/19,Schalke 04,1.4,0.3,Augsburg,59841.0,Veltins-Arena,Manuel Gräfe,bundesliga,0,0
+317,32.0,Sun,5/5/19,Freiburg,1.1,0.8,Düsseldorf,24000.0,Schwarzwald-Stadion,Tobias Welz,bundesliga,1,1
+318,32.0,Sun,5/5/19,Bayer,2.8,0.1,Eint Frankfurt,30210.0,BayArena,Robert Hartmann,bundesliga,6,1
+320,33.0,Sat,5/11/19,Bayer,2.0,1.6,Schalke 04,30210.0,BayArena,Deniz Aytekin,bundesliga,1,1
+321,33.0,Sat,5/11/19,RB Leipzig,0.6,1.3,Bayern Munich,41939.0,Red Bull Arena,Manuel Gräfe,bundesliga,0,0
+322,33.0,Sat,5/11/19,Stuttgart,0.7,0.6,Wolfsburg,54068.0,Mercedes-Benz Arena,Felix Brych,bundesliga,3,0
+323,33.0,Sat,5/11/19,Hannover 96,1.8,0.6,Freiburg,38100.0,HDI-Arena,Robert Hartmann,bundesliga,3,0
+324,33.0,Sat,5/11/19,Dortmund,1.3,1.5,Düsseldorf,81365.0,Signal Iduna Park,Tobias Stieler,bundesliga,3,2
+325,33.0,Sat,5/11/19,Hoffenheim,2.7,1.0,Werder Bremen,30150.0,PreZero Arena,Bastian Dankert,bundesliga,0,1
+326,33.0,Sat,5/11/19,Nürnberg,0.8,2.0,M'gladbach,50000.0,Max-Morlock-Stadion,Frank Willenborg,bundesliga,0,4
+327,33.0,Sat,5/11/19,Augsburg,1.3,2.5,Hertha BSC,29307.0,WWK Arena,Guido Winkmann,bundesliga,3,4
+328,33.0,Sun,5/12/19,Eint Frankfurt,1.3,1.1,Mainz 05,51500.0,Commerzbank-Arena,Harm Osmers,bundesliga,0,2
+330,34.0,Sat,5/18/19,Düsseldorf,1.9,1.0,Hannover 96,50000.0,Merkur Spielarena,Benjamin Cortus,bundesliga,2,1
+331,34.0,Sat,5/18/19,Bayern Munich,4.2,0.8,Eint Frankfurt,75000.0,Allianz Arena,Sascha Stegemann,bundesliga,5,1
+332,34.0,Sat,5/18/19,Hertha BSC,1.3,2.1,Bayer,59287.0,Olympiastadion Berlin,Marco Fritz,bundesliga,1,5
+333,34.0,Sat,5/18/19,Wolfsburg,2.5,0.8,Augsburg,24456.0,Volkswagen Arena,Felix Zwayer,bundesliga,8,1
+334,34.0,Sat,5/18/19,Mainz 05,2.9,1.7,Hoffenheim,28305.0,Opel Arena,Deniz Aytekin,bundesliga,4,2
+335,34.0,Sat,5/18/19,M'gladbach,0.5,1.7,Dortmund,54022.0,Stadion im Borussia-Park,Manuel Gräfe,bundesliga,0,2
+336,34.0,Sat,5/18/19,Schalke 04,0.8,0.9,Stuttgart,61676.0,Veltins-Arena,Robert Schröder,bundesliga,0,0
+337,34.0,Sat,5/18/19,Werder Bremen,1.0,1.5,RB Leipzig,42100.0,Weserstadion,Felix Brych,bundesliga,2,1
+338,34.0,Sat,5/18/19,Freiburg,1.1,0.8,Nürnberg,24000.0,Schwarzwald-Stadion,Markus Schmidt,bundesliga,5,1
+0,1.0,Sat,8/18/18,Chievo,1.0,2.1,Juventus,29500.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,serie a,2,3
+1,1.0,Sat,8/18/18,Lazio,1.1,1.5,Napoli,32000.0,Stadio Olimpico,Luca Banti,serie a,1,2
+2,1.0,Sun,8/19/18,Torino,0.8,1.3,Roma,18000.0,Stadio Olimpico di Torino,Marco Di Bello,serie a,0,1
+3,1.0,Sun,8/19/18,Empoli,0.9,0.9,Cagliari,7335.0,Stadio Carlo Castellani,Daniele Chiffi,serie a,2,0
+4,1.0,Sun,8/19/18,Bologna,0.8,0.7,SPAL,21158.0,Stadio Renato Dall'Ara,Piero Giacomelli,serie a,0,1
+5,1.0,Sun,8/19/18,Parma,1.5,2.0,Udinese,13141.0,Stadio Ennio Tardini,Giampaolo Calvarese,serie a,2,2
+6,1.0,Sun,8/19/18,Sassuolo,1.5,1.3,Inter,19104.0,Stadio Città del Tricolore,Maurizio Mariani,serie a,1,0
+7,1.0,Mon,8/20/18,Atalanta,2.2,0.5,Frosinone,18217.0,Stadio Atleti Azzurri d'Italia,Marco Piccinini,serie a,4,0
+9,2.0,Sat,8/25/18,Juventus,2.2,0.3,Lazio,40171.0,Allianz Stadium,Massimiliano Irrati,serie a,2,0
+10,2.0,Sat,8/25/18,Napoli,2.2,0.8,Milan,34474.0,Stadio San Paolo,Paolo Valeri,serie a,3,2
+11,2.0,Sun,8/26/18,SPAL,1.1,0.5,Parma,6000.0,Stadio Paolo Mazza,Daniele Orsato,serie a,1,0
+12,2.0,Sun,8/26/18,Inter,1.3,1.5,Torino,59135.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,serie a,2,2
+14,2.0,Sun,8/26/18,Cagliari,1.9,1.9,Sassuolo,14432.0,Sardegna Arena,Luca Pairetto,serie a,2,2
+15,2.0,Sun,8/26/18,Udinese,1.6,0.8,Sampdoria,15770.0,Dacia Arena,Federico La Penna,serie a,1,0
+16,2.0,Sun,8/26/18,Fiorentina,2.8,1.2,Chievo,27790.0,Stadio Artemio Franchi,Rosario Abisso,serie a,6,1
+17,2.0,Sun,8/26/18,Genoa,1.0,2.1,Empoli,19523.0,Stadio Comunale Luigi Ferraris,Livio Marinelli,serie a,2,1
+18,2.0,Mon,8/27/18,Roma,2.1,2.5,Atalanta,41725.0,Stadio Olimpico,Michael Fabbri,serie a,3,3
+20,3.0,Fri,8/31/18,Milan,1.5,0.4,Roma,57789.0,Stadio Giuseppe Meazza,Marco Guida,serie a,2,1
+21,3.0,Sat,9/1/18,Bologna,0.4,1.9,Inter,26082.0,Stadio Renato Dall'Ara,Marco Di Bello,serie a,0,3
+22,3.0,Sat,9/1/18,Parma,1.5,2.0,Juventus,20814.0,Stadio Ennio Tardini,Daniele Doveri,serie a,1,2
+23,3.0,Sun,9/2/18,Fiorentina,0.8,0.3,Udinese,31009.0,Stadio Artemio Franchi,Antonio Giua,serie a,1,0
+24,3.0,Sun,9/2/18,Lazio,2.2,0.5,Frosinone,34465.0,Stadio Olimpico,Giampaolo Calvarese,serie a,1,0
+25,3.0,Sun,9/2/18,Atalanta,0.5,0.4,Cagliari,17709.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca,serie a,0,1
+26,3.0,Sun,9/2/18,Chievo,0.9,1.1,Empoli,8100.0,Stadio Marc'Antonio Bentegodi,Piero Giacomelli,serie a,0,0
+27,3.0,Sun,9/2/18,Sampdoria,0.7,1.7,Napoli,19835.0,Stadio Comunale Luigi Ferraris,Davide Massa,serie a,3,0
+28,3.0,Sun,9/2/18,Sassuolo,1.4,1.6,Genoa,9740.0,Stadio Città del Tricolore,Gianluca Rocchi,serie a,5,3
+29,3.0,Sun,9/2/18,Torino,1.0,1.0,SPAL,17785.0,Stadio Olimpico di Torino,Fabrizio Pasqua,serie a,1,0
+31,4.0,Sat,9/15/18,Inter,1.6,0.5,Parma,59648.0,Stadio Giuseppe Meazza,Gianluca Manganiello,serie a,0,1
+32,4.0,Sat,9/15/18,Napoli,1.5,0.4,Fiorentina,20131.0,Stadio San Paolo,Michael Fabbri,serie a,1,0
+33,4.0,Sat,9/15/18,Frosinone,0.6,2.7,Sampdoria,12502.0,Stadio Benito Stirpe,Massimiliano Irrati,serie a,0,5
+34,4.0,Sun,9/16/18,Roma,2.6,1.1,Chievo,39849.0,Stadio Olimpico,Paolo Mazzoleni,serie a,2,2
+35,4.0,Sun,9/16/18,Udinese,0.4,0.9,Torino,18813.0,Dacia Arena,Paolo Valeri,serie a,1,1
+36,4.0,Sun,9/16/18,Juventus,2.5,0.8,Sassuolo,40563.0,Allianz Stadium,Daniele Chiffi,serie a,2,1
+37,4.0,Sun,9/16/18,Genoa,0.6,0.8,Bologna,20032.0,Stadio Comunale Luigi Ferraris,Luca Banti,serie a,1,0
+38,4.0,Sun,9/16/18,Empoli,1.4,2.1,Lazio,10832.0,Stadio Carlo Castellani,Daniele Orsato,serie a,0,1
+39,4.0,Sun,9/16/18,Cagliari,0.5,1.4,Milan,16201.0,Sardegna Arena,Rosario Abisso,serie a,1,1
+40,4.0,Mon,9/17/18,SPAL,1.5,0.9,Atalanta,14153.0,Stadio Paolo Mazza,Maurizio Mariani,serie a,2,0
+42,1.0,Wed,9/19/18,Sampdoria,0.7,1.4,Fiorentina,18334.0,Stadio Comunale Luigi Ferraris,Fabio Maresca,serie a,1,1
+44,5.0,Fri,9/21/18,Sassuolo,1.6,1.6,Empoli,10183.0,Stadio Città del Tricolore,Federico La Penna,serie a,3,1
+45,5.0,Sat,9/22/18,Parma,1.9,1.2,Cagliari,14852.0,Stadio Ennio Tardini,Giampaolo Calvarese,serie a,2,0
+46,5.0,Sat,9/22/18,Fiorentina,1.5,0.6,SPAL,30068.0,Stadio Artemio Franchi,Davide Ghersini,serie a,3,0
+47,5.0,Sat,9/22/18,Sampdoria,0.6,0.8,Inter,22835.0,Stadio Comunale Luigi Ferraris,Marco Guida,serie a,0,1
+48,5.0,Sun,9/23/18,Torino,1.4,1.9,Napoli,22655.0,Stadio Olimpico di Torino,Massimiliano Irrati,serie a,1,3
+49,5.0,Sun,9/23/18,Lazio,2.4,0.9,Genoa,30000.0,Stadio Olimpico,Rosario Abisso,serie a,4,1
+50,5.0,Sun,9/23/18,Bologna,1.7,2.8,Roma,20067.0,Stadio Renato Dall'Ara,Davide Massa,serie a,2,0
+51,5.0,Sun,9/23/18,Chievo,1.5,1.5,Udinese,10000.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto,serie a,0,2
+52,5.0,Sun,9/23/18,Milan,2.0,2.1,Atalanta,51684.0,Stadio Giuseppe Meazza,Daniele Doveri,serie a,2,2
+53,5.0,Sun,9/23/18,Frosinone,0.1,2.1,Juventus,16000.0,Stadio Benito Stirpe,Piero Giacomelli,serie a,0,2
+55,6.0,Tue,9/25/18,Inter,2.2,1.2,Fiorentina,55840.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,serie a,2,1
+56,6.0,Wed,9/26/18,Udinese,0.6,1.0,Lazio,19455.0,Dacia Arena,Fabio Maresca,serie a,1,2
+57,6.0,Wed,9/26/18,Juventus,1.1,0.5,Bologna,38472.0,Allianz Stadium,Maurizio Mariani,serie a,2,0
+58,6.0,Wed,9/26/18,Atalanta,0.9,0.2,Torino,18144.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato,serie a,0,0
+59,6.0,Wed,9/26/18,Genoa,1.5,1.2,Chievo,18969.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,serie a,2,0
+60,6.0,Wed,9/26/18,Cagliari,0.8,2.6,Sampdoria,14038.0,Sardegna Arena,Gianluca Rocchi,serie a,0,0
+61,6.0,Wed,9/26/18,Roma,2.7,1.0,Frosinone,34380.0,Stadio Olimpico,Marco Di Bello,serie a,4,0
+62,6.0,Wed,9/26/18,Napoli,3.2,0.1,Parma,29354.0,Stadio San Paolo,Daniele Doveri,serie a,3,0
+63,6.0,Thu,9/27/18,SPAL,1.4,2.2,Sassuolo,13945.0,Stadio Paolo Mazza,Eugenio Abbattista,serie a,0,2
+64,6.0,Thu,9/27/18,Empoli,1.4,1.8,Milan,13890.0,Stadio Carlo Castellani,Michael Fabbri,serie a,1,1
+66,7.0,Sat,9/29/18,Roma,1.4,1.0,Lazio,47600.0,Stadio Olimpico,Gianluca Rocchi,serie a,3,1
+67,7.0,Sat,9/29/18,Juventus,2.3,1.6,Napoli,39252.0,Allianz Stadium,Luca Banti,serie a,3,1
+68,7.0,Sat,9/29/18,Inter,1.2,0.1,Cagliari,55486.0,Stadio Giuseppe Meazza,Davide Massa,serie a,2,0
+69,7.0,Sun,9/30/18,Bologna,1.3,0.7,Udinese,19039.0,Stadio Renato Dall'Ara,Gianluca Manganiello,serie a,2,1
+70,7.0,Sun,9/30/18,Frosinone,1.5,1.4,Genoa,12384.0,Stadio Benito Stirpe,Juan Sacchi,serie a,1,2
+71,7.0,Sun,9/30/18,Fiorentina,1.1,0.8,Atalanta,30535.0,Stadio Artemio Franchi,Paolo Valeri,serie a,2,0
+72,7.0,Sun,9/30/18,Chievo,0.5,2.3,Torino,10500.0,Stadio Marc'Antonio Bentegodi,Marco Guida,serie a,0,1
+73,7.0,Sun,9/30/18,Parma,0.8,1.3,Empoli,14584.0,Stadio Ennio Tardini,Luca Pairetto,serie a,1,0
+74,7.0,Sun,9/30/18,Sassuolo,0.9,1.4,Milan,16795.0,Stadio Città del Tricolore,Piero Giacomelli,serie a,1,4
+75,7.0,Mon,10/1/18,Sampdoria,1.2,1.2,SPAL,17885.0,Stadio Comunale Luigi Ferraris,Federico La Penna,serie a,2,1
+77,8.0,Fri,10/5/18,Torino,2.5,1.8,Frosinone,16554.0,Stadio Olimpico di Torino,Ivan Pezzuto,serie a,3,2
+78,8.0,Sat,10/6/18,Cagliari,1.5,0.4,Bologna,15019.0,Sardegna Arena,Fabrizio Pasqua,serie a,2,0
+79,8.0,Sat,10/6/18,Udinese,0.8,2.3,Juventus,25000.0,Dacia Arena,Rosario Abisso,serie a,0,2
+80,8.0,Sat,10/6/18,Empoli,1.6,0.9,Roma,10670.0,Stadio Carlo Castellani,Paolo Mazzoleni,serie a,0,2
+81,8.0,Sun,10/7/18,Genoa,1.6,1.2,Parma,20511.0,Stadio Comunale Luigi Ferraris,Daniele Chiffi,serie a,1,3
+82,8.0,Sun,10/7/18,Milan,2.1,0.5,Chievo,48088.0,Stadio Giuseppe Meazza,Giampaolo Calvarese,serie a,3,1
+83,8.0,Sun,10/7/18,Atalanta,1.7,0.6,Sampdoria,19164.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,serie a,0,1
+84,8.0,Sun,10/7/18,Lazio,1.1,1.3,Fiorentina,30000.0,Stadio Olimpico,Daniele Orsato,serie a,1,0
+85,8.0,Sun,10/7/18,Napoli,2.0,0.8,Sassuolo,29647.0,Stadio San Paolo,Marco Di Bello,serie a,2,0
+86,8.0,Sun,10/7/18,SPAL,2.8,1.3,Inter,15750.0,Stadio Paolo Mazza,Fabio Maresca,serie a,1,2
+88,9.0,Sat,10/20/18,Roma,2.1,1.7,SPAL,39838.0,Stadio Olimpico,Luca Pairetto,serie a,0,2
+89,9.0,Sat,10/20/18,Juventus,2.0,0.6,Genoa,37735.0,Allianz Stadium,Federico La Penna,serie a,1,1
+90,9.0,Sat,10/20/18,Udinese,0.9,1.9,Napoli,21449.0,Dacia Arena,Maurizio Mariani,serie a,0,3
+91,9.0,Sun,10/21/18,Frosinone,1.1,1.5,Empoli,12287.0,Stadio Benito Stirpe,Daniele Orsato,serie a,3,3
+92,9.0,Sun,10/21/18,Parma,0.2,2.2,Lazio,18969.0,Stadio Ennio Tardini,Michael Fabbri,serie a,0,2
+93,9.0,Sun,10/21/18,Bologna,1.3,0.9,Torino,23245.0,Stadio Renato Dall'Ara,Luca Banti,serie a,2,2
+94,9.0,Sun,10/21/18,Chievo,0.9,2.0,Atalanta,12000.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi,serie a,1,5
+95,9.0,Sun,10/21/18,Fiorentina,1.4,0.8,Cagliari,31567.0,Stadio Artemio Franchi,Piero Giacomelli,serie a,1,1
+96,9.0,Sun,10/21/18,Inter,1.6,0.7,Milan,78275.0,Stadio Giuseppe Meazza,Marco Guida,serie a,1,0
+97,9.0,Mon,10/22/18,Sampdoria,0.7,0.3,Sassuolo,19064.0,Stadio Comunale Luigi Ferraris,Francesco Fourneau,serie a,0,0
+99,10.0,Sat,10/27/18,Atalanta,2.1,1.1,Parma,18152.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso,serie a,3,0
+100,10.0,Sat,10/27/18,Empoli,0.6,1.8,Juventus,15889.0,Stadio Carlo Castellani,Giampaolo Calvarese,serie a,1,2
+101,10.0,Sat,10/27/18,Torino,0.9,1.2,Fiorentina,17871.0,Stadio Olimpico di Torino,Michael Fabbri,serie a,1,1
+102,10.0,Sun,10/28/18,Sassuolo,1.8,1.4,Bologna,12647.0,Stadio Città del Tricolore,Daniele Doveri,serie a,2,2
+103,10.0,Sun,10/28/18,Genoa,1.7,0.8,Udinese,18880.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,serie a,2,2
+104,10.0,Sun,10/28/18,SPAL,0.6,0.7,Frosinone,13676.0,Stadio Paolo Mazza,Daniele Chiffi,serie a,0,3
+105,10.0,Sun,10/28/18,Cagliari,1.6,1.7,Chievo,15805.0,Sardegna Arena,Marco Piccinini,serie a,2,1
+106,10.0,Sun,10/28/18,Milan,1.7,0.5,Sampdoria,47347.0,Stadio Giuseppe Meazza,Fabio Maresca,serie a,3,2
+107,10.0,Sun,10/28/18,Napoli,2.5,0.8,Roma,30037.0,Stadio San Paolo,Davide Massa,serie a,1,1
+108,10.0,Mon,10/29/18,Lazio,1.1,1.5,Inter,40068.0,Stadio Olimpico,Massimiliano Irrati,serie a,0,3
+110,1.0,Wed,10/31/18,Milan,1.6,0.5,Genoa,46720.0,Stadio Giuseppe Meazza,Fabrizio Pasqua,serie a,2,1
+112,11.0,Fri,11/2/18,Napoli,1.8,1.1,Empoli,31370.0,Stadio San Paolo,Luca Pairetto,serie a,5,1
+113,11.0,Sat,11/3/18,Inter,2.6,0.3,Genoa,67532.0,Stadio Giuseppe Meazza,Paolo Valeri,serie a,5,0
+114,11.0,Sat,11/3/18,Fiorentina,1.4,1.7,Roma,30590.0,Stadio Artemio Franchi,Luca Banti,serie a,1,1
+115,11.0,Sat,11/3/18,Juventus,1.3,0.7,Cagliari,40644.0,Allianz Stadium,Maurizio Mariani,serie a,3,1
+116,11.0,Sun,11/4/18,Lazio,2.4,0.8,SPAL,35573.0,Stadio Olimpico,Marco Guida,serie a,4,1
+117,11.0,Sun,11/4/18,Parma,0.9,0.4,Frosinone,14004.0,Stadio Ennio Tardini,Gianluca Manganiello,serie a,0,0
+118,11.0,Sun,11/4/18,Sampdoria,1.3,2.7,Torino,20364.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi,serie a,1,4
+119,11.0,Sun,11/4/18,Chievo,0.6,1.1,Sassuolo,8100.0,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano,serie a,0,2
+120,11.0,Sun,11/4/18,Bologna,1.9,2.2,Atalanta,19038.0,Stadio Renato Dall'Ara,Federico La Penna,serie a,1,2
+121,11.0,Sun,11/4/18,Udinese,0.7,0.9,Milan,23540.0,Dacia Arena,Marco Di Bello,serie a,0,1
+123,12.0,Fri,11/9/18,Frosinone,0.4,1.4,Fiorentina,13378.0,Stadio Benito Stirpe,Fabrizio Pasqua,serie a,1,1
+124,12.0,Sat,11/10/18,Torino,1.9,1.7,Parma,17431.0,Stadio Olimpico di Torino,Davide Massa,serie a,1,2
+125,12.0,Sat,11/10/18,SPAL,1.6,1.0,Cagliari,13250.0,Stadio Paolo Mazza,Daniele Doveri,serie a,2,2
+126,12.0,Sat,11/10/18,Genoa,0.6,2.2,Napoli,25365.0,Stadio Comunale Luigi Ferraris,Rosario Abisso,serie a,1,2
+127,12.0,Sun,11/11/18,Atalanta,3.2,1.1,Inter,20633.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca,serie a,4,1
+128,12.0,Sun,11/11/18,Roma,2.4,1.0,Sampdoria,37582.0,Stadio Olimpico,Massimiliano Irrati,serie a,4,1
+129,12.0,Sun,11/11/18,Chievo,2.0,1.7,Bologna,9500.0,Stadio Marc'Antonio Bentegodi,Daniele Orsato,serie a,2,2
+130,12.0,Sun,11/11/18,Empoli,1.3,3.3,Udinese,7553.0,Stadio Carlo Castellani,Piero Giacomelli,serie a,2,1
+131,12.0,Sun,11/11/18,Sassuolo,0.9,1.5,Lazio,11317.0,Stadio Città del Tricolore,Giampaolo Calvarese,serie a,1,1
+132,12.0,Sun,11/11/18,Milan,0.8,1.1,Juventus,74729.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,serie a,0,2
+134,13.0,Sat,11/24/18,Udinese,1.0,1.7,Roma,21986.0,Dacia Arena,Michael Fabbri,serie a,1,0
+135,13.0,Sat,11/24/18,Juventus,1.6,0.3,SPAL,41052.0,Allianz Stadium,Federico La Penna,serie a,2,0
+136,13.0,Sat,11/24/18,Inter,2.5,0.3,Frosinone,63645.0,Stadio Giuseppe Meazza,Luca Pairetto,serie a,3,0
+137,13.0,Sun,11/25/18,Parma,1.7,1.8,Sassuolo,14354.0,Stadio Ennio Tardini,Paolo Valeri,serie a,2,1
+138,13.0,Sun,11/25/18,Empoli,1.8,1.5,Atalanta,8736.0,Stadio Carlo Castellani,Gianluca Manganiello,serie a,3,2
+139,13.0,Sun,11/25/18,Bologna,0.3,1.4,Fiorentina,21241.0,Stadio Renato Dall'Ara,Marco Di Bello,serie a,0,0
+140,13.0,Sun,11/25/18,Napoli,1.7,0.5,Chievo,44468.0,Stadio San Paolo,Daniele Chiffi,serie a,0,0
+141,13.0,Sun,11/25/18,Lazio,1.4,0.5,Milan,38269.0,Stadio Olimpico,Luca Banti,serie a,1,1
+142,13.0,Sun,11/25/18,Genoa,2.3,0.7,Sampdoria,31756.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,serie a,1,1
+143,13.0,Mon,11/26/18,Cagliari,0.2,0.9,Torino,15804.0,Sardegna Arena,Fabrizio Pasqua,serie a,0,0
+145,14.0,Sat,12/1/18,SPAL,0.6,2.2,Empoli,12622.0,Stadio Paolo Mazza,Paolo Mazzoleni,serie a,2,2
+146,14.0,Sat,12/1/18,Fiorentina,1.3,1.9,Juventus,40872.0,Stadio Artemio Franchi,Daniele Orsato,serie a,0,3
+147,14.0,Sat,12/1/18,Sampdoria,1.5,1.4,Bologna,17844.0,Stadio Comunale Luigi Ferraris,Rosario Abisso,serie a,4,1
+148,14.0,Sun,12/2/18,Milan,1.6,1.1,Parma,53275.0,Stadio Giuseppe Meazza,Giampaolo Calvarese,serie a,2,1
+149,14.0,Sun,12/2/18,Torino,2.3,1.3,Genoa,15324.0,Stadio Olimpico di Torino,Maurizio Mariani,serie a,2,1
+150,14.0,Sun,12/2/18,Sassuolo,1.8,0.2,Udinese,10655.0,Stadio Città del Tricolore,Marco Guida,serie a,0,0
+151,14.0,Sun,12/2/18,Frosinone,1.9,2.1,Cagliari,12377.0,Stadio Benito Stirpe,Marco Serra,serie a,1,1
+152,14.0,Sun,12/2/18,Chievo,1.0,1.5,Lazio,7000.0,Stadio Marc'Antonio Bentegodi,Fabio Maresca,serie a,1,1
+153,14.0,Sun,12/2/18,Roma,1.6,2.2,Inter,41009.0,Stadio Olimpico,Gianluca Rocchi,serie a,2,2
+154,14.0,Mon,12/3/18,Atalanta,0.9,1.7,Napoli,19871.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,serie a,1,2
+156,15.0,Fri,12/7/18,Juventus,1.5,1.0,Inter,41495.0,Allianz Stadium,Massimiliano Irrati,serie a,1,0
+157,15.0,Sat,12/8/18,Napoli,2.2,0.3,Frosinone,34631.0,Stadio San Paolo,Gianluca Manganiello,serie a,4,0
+158,15.0,Sat,12/8/18,Cagliari,2.1,1.4,Roma,14938.0,Sardegna Arena,Paolo Mazzoleni,serie a,2,2
+159,15.0,Sat,12/8/18,Lazio,3.5,0.8,Sampdoria,28000.0,Stadio Olimpico,Davide Massa,serie a,2,2
+160,15.0,Sun,12/9/18,Sassuolo,1.4,2.3,Fiorentina,11436.0,Stadio Città del Tricolore,Daniele Chiffi,serie a,3,3
+161,15.0,Sun,12/9/18,Parma,1.3,1.5,Chievo,13994.0,Stadio Ennio Tardini,Federico La Penna,serie a,1,1
+162,15.0,Sun,12/9/18,Udinese,0.8,2.1,Atalanta,24413.0,Dacia Arena,Giampaolo Calvarese,serie a,1,3
+163,15.0,Sun,12/9/18,Empoli,1.6,1.8,Bologna,8379.0,Stadio Carlo Castellani,Paolo Valeri,serie a,2,1
+164,15.0,Sun,12/9/18,Genoa,1.3,2.5,SPAL,19571.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,serie a,1,1
+165,15.0,Sun,12/9/18,Milan,2.0,1.2,Torino,44572.0,Stadio Giuseppe Meazza,Daniele Orsato,serie a,0,0
+167,16.0,Sat,12/15/18,Inter,2.0,0.4,Udinese,57025.0,Stadio Giuseppe Meazza,Rosario Abisso,serie a,1,0
+168,16.0,Sat,12/15/18,Torino,0.4,1.5,Juventus,26588.0,Stadio Olimpico di Torino,Marco Guida,serie a,0,1
+169,16.0,Sun,12/16/18,SPAL,0.7,0.7,Chievo,11882.0,Stadio Paolo Mazza,Luca Banti,serie a,0,0
+170,16.0,Sun,12/16/18,Sampdoria,1.4,0.4,Parma,19000.0,Stadio Comunale Luigi Ferraris,Luca Pairetto,serie a,2,0
+171,16.0,Sun,12/16/18,Frosinone,0.4,1.4,Sassuolo,12000.0,Stadio Benito Stirpe,Eugenio Abbattista,serie a,0,2
+172,16.0,Sun,12/16/18,Fiorentina,1.6,1.1,Empoli,30000.0,Stadio Artemio Franchi,Piero Giacomelli,serie a,3,1
+173,16.0,Sun,12/16/18,Cagliari,0.5,1.7,Napoli,15081.0,Sardegna Arena,Daniele Doveri,serie a,0,1
+174,16.0,Sun,12/16/18,Roma,1.9,2.2,Genoa,29111.0,Stadio Olimpico,Marco Di Bello,serie a,3,2
+175,16.0,Mon,12/17/18,Atalanta,0.5,1.0,Lazio,17401.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato,serie a,1,0
+176,16.0,Tue,12/18/18,Bologna,0.4,0.7,Milan,22214.0,Stadio Renato Dall'Ara,Fabio Maresca,serie a,0,0
+178,17.0,Sat,12/22/18,Lazio,2.4,1.9,Cagliari,20000.0,Stadio Olimpico,Gianluca Manganiello,serie a,3,1
+179,17.0,Sat,12/22/18,Napoli,2.4,0.6,SPAL,37093.0,Stadio San Paolo,Federico La Penna,serie a,1,0
+180,17.0,Sat,12/22/18,Sassuolo,1.5,0.3,Torino,11148.0,Stadio Città del Tricolore,Luca Banti,serie a,1,1
+181,17.0,Sat,12/22/18,Genoa,1.6,2.0,Atalanta,19841.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,serie a,3,1
+182,17.0,Sat,12/22/18,Empoli,1.5,1.1,Sampdoria,8815.0,Stadio Carlo Castellani,Giampaolo Calvarese,serie a,2,4
+183,17.0,Sat,12/22/18,Udinese,0.4,1.2,Frosinone,18000.0,Dacia Arena,Paolo Valeri,serie a,1,1
+184,17.0,Sat,12/22/18,Milan,0.7,0.4,Fiorentina,52592.0,Stadio Giuseppe Meazza,Maurizio Mariani,serie a,0,1
+185,17.0,Sat,12/22/18,Chievo,0.6,1.7,Inter,22000.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,serie a,1,1
+186,17.0,Sat,12/22/18,Parma,0.9,0.3,Bologna,15058.0,Stadio Ennio Tardini,Rosario Abisso,serie a,0,0
+187,17.0,Sat,12/22/18,Juventus,2.2,0.5,Roma,40069.0,Allianz Stadium,Davide Massa,serie a,1,0
+189,18.0,Wed,12/26/18,Frosinone,0.6,1.9,Milan,15217.0,Stadio Benito Stirpe,Marco Guida,serie a,0,0
+190,18.0,Wed,12/26/18,Cagliari,0.9,0.8,Genoa,15777.0,Sardegna Arena,Daniele Orsato,serie a,1,0
+191,18.0,Wed,12/26/18,Fiorentina,2.2,0.5,Parma,31767.0,Stadio Artemio Franchi,Michael Fabbri,serie a,0,1
+192,18.0,Wed,12/26/18,Bologna,0.2,1.4,Lazio,19230.0,Stadio Renato Dall'Ara,Luca Pairetto,serie a,0,2
+193,18.0,Wed,12/26/18,Atalanta,1.4,1.3,Juventus,19787.0,Stadio Atleti Azzurri d'Italia,Luca Banti,serie a,2,2
+194,18.0,Wed,12/26/18,Sampdoria,1.0,0.6,Chievo,19190.0,Stadio Comunale Luigi Ferraris,Antonio Giua,serie a,2,0
+195,18.0,Wed,12/26/18,Torino,1.3,0.3,Empoli,20047.0,Stadio Olimpico di Torino,Fabio Maresca,serie a,3,0
+196,18.0,Wed,12/26/18,SPAL,0.7,0.2,Udinese,13195.0,Stadio Paolo Mazza,Daniele Doveri,serie a,0,0
+197,18.0,Wed,12/26/18,Roma,2.8,0.8,Sassuolo,35893.0,Stadio Olimpico,Piero Giacomelli,serie a,3,1
+198,18.0,Wed,12/26/18,Inter,0.8,0.8,Napoli,63946.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,serie a,1,0
+200,19.0,Sat,12/29/18,Juventus,1.5,1.5,Sampdoria,40641.0,Allianz Stadium,Paolo Valeri,serie a,2,1
+201,19.0,Sat,12/29/18,Chievo,1.1,0.6,Frosinone,8000.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi,serie a,1,0
+202,19.0,Sat,12/29/18,Genoa,0.5,1.3,Fiorentina,21000.0,Stadio Comunale Luigi Ferraris,Davide Massa,serie a,0,0
+203,19.0,Sat,12/29/18,Sassuolo,1.0,3.2,Atalanta,8000.0,Stadio Città del Tricolore,Fabrizio Pasqua,serie a,2,6
+204,19.0,Sat,12/29/18,Parma,0.7,2.0,Roma,17997.0,Stadio Ennio Tardini,Gianluca Manganiello,serie a,0,2
+205,19.0,Sat,12/29/18,Empoli,0.6,1.0,Inter,10393.0,Stadio Carlo Castellani,Federico La Penna,serie a,0,1
+206,19.0,Sat,12/29/18,Udinese,2.6,0.3,Cagliari,20000.0,Dacia Arena,Maurizio Mariani,serie a,2,0
+207,19.0,Sat,12/29/18,Lazio,1.2,1.8,Torino,35000.0,Stadio Olimpico,Massimiliano Irrati,serie a,1,1
+208,19.0,Sat,12/29/18,Napoli,1.5,0.7,Bologna,46585.0,Stadio San Paolo,Giampaolo Calvarese,serie a,3,2
+209,19.0,Sat,12/29/18,Milan,1.3,0.4,SPAL,48070.0,Stadio Giuseppe Meazza,Rosario Abisso,serie a,2,1
+211,20.0,Sat,1/19/19,Roma,3.1,1.0,Torino,32978.0,Stadio Olimpico,Piero Giacomelli,serie a,3,2
+212,20.0,Sat,1/19/19,Udinese,1.5,1.8,Parma,15000.0,Dacia Arena,Paolo Mazzoleni,serie a,1,2
+213,20.0,Sat,1/19/19,Inter,1.1,1.3,Sassuolo,11000.0,Stadio Giuseppe Meazza,Luca Pairetto,serie a,0,0
+214,20.0,Sun,1/20/19,Frosinone,0.7,2.1,Atalanta,12728.0,Stadio Benito Stirpe,Daniele Chiffi,serie a,0,5
+215,20.0,Sun,1/20/19,SPAL,1.0,1.3,Bologna,14524.0,Stadio Paolo Mazza,Michael Fabbri,serie a,1,1
+216,20.0,Sun,1/20/19,Fiorentina,2.6,1.9,Sampdoria,27844.0,Stadio Artemio Franchi,Marco Di Bello,serie a,3,3
+217,20.0,Sun,1/20/19,Cagliari,0.9,1.4,Empoli,13796.0,Sardegna Arena,Fabrizio Pasqua,serie a,2,2
+218,20.0,Sun,1/20/19,Napoli,1.8,1.2,Lazio,19448.0,Stadio San Paolo,Gianluca Rocchi,serie a,2,1
+219,20.0,Mon,1/21/19,Genoa,1.7,1.3,Milan,19794.0,Stadio Comunale Luigi Ferraris,Daniele Orsato,serie a,0,2
+220,20.0,Mon,1/21/19,Juventus,2.6,0.5,Chievo,30239.0,Allianz Stadium,Marco Piccinini,serie a,3,0
+222,21.0,Sat,1/26/19,Sassuolo,2.9,0.9,Cagliari,9970.0,Stadio Città del Tricolore,Massimiliano Irrati,serie a,3,0
+223,21.0,Sat,1/26/19,Sampdoria,2.9,0.6,Udinese,18020.0,Stadio Comunale Luigi Ferraris,Davide Massa,serie a,4,0
+224,21.0,Sat,1/26/19,Milan,0.9,0.7,Napoli,56729.0,Stadio Giuseppe Meazza,Daniele Doveri,serie a,0,0
+225,21.0,Sun,1/27/19,Chievo,2.7,1.9,Fiorentina,10000.0,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,serie a,3,4
+226,21.0,Sun,1/27/19,Atalanta,2.6,1.1,Roma,19459.0,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese,serie a,3,3
+227,21.0,Sun,1/27/19,Bologna,1.1,1.2,Frosinone,16076.0,Stadio Renato Dall'Ara,Luca Banti,serie a,0,4
+228,21.0,Sun,1/27/19,Parma,2.0,2.3,SPAL,15297.0,Stadio Ennio Tardini,Rosario Abisso,serie a,2,3
+229,21.0,Sun,1/27/19,Torino,0.7,0.8,Inter,22002.0,Stadio Olimpico di Torino,Fabio Maresca,serie a,1,0
+230,21.0,Sun,1/27/19,Lazio,1.4,1.2,Juventus,60687.0,Stadio Olimpico,Marco Guida,serie a,1,2
+231,21.0,Mon,1/28/19,Empoli,1.4,1.7,Genoa,7675.0,Stadio Carlo Castellani,Federico La Penna,serie a,1,3
+233,22.0,Sat,2/2/19,Empoli,2.1,1.6,Chievo,7030.0,Stadio Carlo Castellani,Marco Di Bello,serie a,2,2
+234,22.0,Sat,2/2/19,Napoli,1.7,0.7,Sampdoria,19455.0,Stadio San Paolo,Luca Pairetto,serie a,3,0
+235,22.0,Sat,2/2/19,Juventus,1.9,1.1,Parma,39548.0,Allianz Stadium,Piero Giacomelli,serie a,3,3
+236,22.0,Sun,2/3/19,SPAL,0.5,0.5,Torino,12743.0,Stadio Paolo Mazza,Maurizio Mariani,serie a,0,0
+237,22.0,Sun,2/3/19,Genoa,1.4,0.9,Sassuolo,18927.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello,serie a,1,1
+238,22.0,Sun,2/3/19,Udinese,1.1,0.8,Fiorentina,18118.0,Stadio Benito Stirpe,Daniele Orsato,serie a,1,1
+239,22.0,Sun,2/3/19,Inter,1.4,0.7,Bologna,51566.0,Stadio Giuseppe Meazza,Fabrizio Pasqua,serie a,0,1
+240,22.0,Sun,2/3/19,Roma,1.6,0.7,Milan,37581.0,Stadio Olimpico,Fabio Maresca,serie a,1,1
+241,22.0,Mon,2/4/19,Frosinone,0.8,1.2,Lazio,13221.0,Stadio Benito Stirpe,Michael Fabbri,serie a,0,1
+242,22.0,Mon,2/4/19,Cagliari,0.9,0.5,Atalanta,14821.0,Sardegna Arena,Paolo Valeri,serie a,0,1
+244,23.0,Thu,2/7/19,Lazio,1.7,0.6,Empoli,28121.0,Stadio Olimpico,Daniele Chiffi,serie a,1,0
+245,23.0,Fri,2/8/19,Chievo,1.4,1.4,Roma,15000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso,serie a,0,3
+246,23.0,Sat,2/9/19,Fiorentina,0.8,2.3,Napoli,29377.0,Stadio Artemio Franchi,Giampaolo Calvarese,serie a,0,0
+247,23.0,Sat,2/9/19,Parma,0.5,2.1,Inter,18155.0,Stadio Ennio Tardini,Massimiliano Irrati,serie a,0,1
+248,23.0,Sun,2/10/19,Bologna,1.3,0.8,Genoa,17385.0,Stadio Renato Dall'Ara,Gianluca Rocchi,serie a,1,1
+249,23.0,Sun,2/10/19,Torino,1.7,2.2,Udinese,16557.0,Stadio Olimpico di Torino,Marco Guida,serie a,1,0
+250,23.0,Sun,2/10/19,Atalanta,2.0,0.9,SPAL,18342.0,Stadio Atleti Azzurri d'Italia,Davide Massa,serie a,2,1
+251,23.0,Sun,2/10/19,Sampdoria,0.6,0.4,Frosinone,18937.0,Stadio Comunale Luigi Ferraris,Livio Marinelli,serie a,0,1
+252,23.0,Sun,2/10/19,Sassuolo,1.1,1.6,Juventus,21584.0,Stadio Città del Tricolore,Paolo Mazzoleni,serie a,0,3
+253,23.0,Sun,2/10/19,Milan,1.8,1.1,Cagliari,45576.0,Stadio Giuseppe Meazza,Federico La Penna,serie a,3,0
+255,24.0,Fri,2/15/19,Juventus,1.4,0.6,Frosinone,10570.0,Allianz Stadium,Antonio Giua,serie a,3,0
+256,24.0,Sat,2/16/19,Cagliari,1.3,0.4,Parma,16119.0,Sardegna Arena,Gianluca Manganiello,serie a,2,1
+257,24.0,Sat,2/16/19,Atalanta,0.8,0.7,Milan,20801.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua,serie a,1,3
+258,24.0,Sun,2/17/19,SPAL,0.9,3.0,Fiorentina,37294.0,Stadio Paolo Mazza,Luca Pairetto,serie a,1,4
+259,24.0,Sun,2/17/19,Udinese,1.3,1.5,Chievo,18008.0,Dacia Arena,Paolo Valeri,serie a,1,0
+260,24.0,Sun,2/17/19,Genoa,1.2,0.6,Lazio,19936.0,Stadio Comunale Luigi Ferraris,Luca Banti,serie a,2,1
+261,24.0,Sun,2/17/19,Empoli,1.2,0.6,Sassuolo,7202.0,Stadio Carlo Castellani,Maurizio Mariani,serie a,3,0
+262,24.0,Sun,2/17/19,Inter,2.1,1.3,Sampdoria,55127.0,Stadio Giuseppe Meazza,Daniele Doveri,serie a,2,1
+263,24.0,Sun,2/17/19,Napoli,2.7,0.5,Torino,21830.0,Stadio San Paolo,Michael Fabbri,serie a,0,0
+264,24.0,Mon,2/18/19,Roma,1.7,2.0,Bologna,31572.0,Stadio Olimpico,Marco Di Bello,serie a,2,1
+266,25.0,Fri,2/22/19,Milan,1.4,0.6,Empoli,47866.0,Stadio Giuseppe Meazza,Piero Giacomelli,serie a,3,0
+267,25.0,Sat,2/23/19,Torino,1.2,0.9,Atalanta,21062.0,Stadio Olimpico di Torino,Daniele Orsato,serie a,2,0
+268,25.0,Sat,2/23/19,Frosinone,1.5,2.0,Roma,15063.0,Stadio Benito Stirpe,Gianluca Manganiello,serie a,2,3
+269,25.0,Sun,2/24/19,Sampdoria,2.7,0.6,Cagliari,18840.0,Stadio Comunale Luigi Ferraris,Luca Massimi,serie a,1,0
+270,25.0,Sun,2/24/19,Sassuolo,0.4,1.1,SPAL,11554.0,Stadio Città del Tricolore,Fabio Maresca,serie a,1,1
+271,25.0,Sun,2/24/19,Chievo,0.4,0.5,Genoa,10500.0,Stadio Marc'Antonio Bentegodi,Manuel Volpi,serie a,0,0
+272,25.0,Sun,2/24/19,Bologna,1.0,0.4,Juventus,28934.0,Stadio Renato Dall'Ara,Giampaolo Calvarese,serie a,0,1
+273,25.0,Sun,2/24/19,Parma,0.4,1.4,Napoli,18478.0,Stadio Ennio Tardini,Daniele Chiffi,serie a,0,4
+274,25.0,Sun,2/24/19,Fiorentina,1.8,1.5,Inter,32824.0,Stadio Artemio Franchi,Rosario Abisso,serie a,3,3
+276,26.0,Fri,3/1/19,Cagliari,1.7,1.5,Inter,16223.0,Sardegna Arena,Luca Banti,serie a,2,1
+277,26.0,Sat,3/2/19,Empoli,2.8,2.0,Parma,8404.0,Stadio Carlo Castellani,Marco Di Bello,serie a,3,3
+278,26.0,Sat,3/2/19,Milan,1.1,0.7,Sassuolo,61462.0,Stadio Giuseppe Meazza,Paolo Valeri,serie a,1,0
+279,26.0,Sat,3/2/19,Lazio,1.9,1.0,Roma,53112.0,Stadio Olimpico,Paolo Mazzoleni,serie a,3,0
+280,26.0,Sun,3/3/19,Torino,1.3,1.0,Chievo,25269.0,Stadio Olimpico di Torino,Federico La Penna,serie a,3,0
+281,26.0,Sun,3/3/19,SPAL,1.0,0.7,Sampdoria,12731.0,Stadio Paolo Mazza,Fabrizio Pasqua,serie a,1,2
+282,26.0,Sun,3/3/19,Genoa,0.8,0.4,Frosinone,19920.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani,serie a,0,0
+283,26.0,Sun,3/3/19,Udinese,1.5,1.8,Bologna,18349.0,Dacia Arena,Davide Massa,serie a,2,1
+284,26.0,Sun,3/3/19,Atalanta,2.1,0.5,Fiorentina,18796.0,Stadio Atleti Azzurri d'Italia,Marco Guida,serie a,3,1
+285,26.0,Sun,3/3/19,Napoli,2.5,0.3,Juventus,42667.0,Stadio San Paolo,Gianluca Rocchi,serie a,1,2
+287,27.0,Fri,3/8/19,Juventus,2.2,0.1,Udinese,39987.0,Allianz Stadium,Daniele Chiffi,serie a,4,1
+288,27.0,Sat,3/9/19,Parma,0.8,0.8,Genoa,14787.0,Stadio Ennio Tardini,Juan Sacchi,serie a,1,0
+289,27.0,Sat,3/9/19,Chievo,0.3,1.3,Milan,20000.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto,serie a,1,2
+290,27.0,Sun,3/10/19,Bologna,2.7,0.7,Cagliari,20557.0,Stadio Renato Dall'Ara,Massimiliano Irrati,serie a,2,0
+291,27.0,Sun,3/10/19,Sampdoria,2.0,1.7,Atalanta,20896.0,Stadio Comunale Luigi Ferraris,Michael Fabbri,serie a,1,2
+292,27.0,Sun,3/10/19,Frosinone,0.7,1.3,Torino,14165.0,Stadio Benito Stirpe,Piero Giacomelli,serie a,1,2
+293,27.0,Sun,3/10/19,Inter,0.9,0.3,SPAL,61339.0,Stadio Giuseppe Meazza,Giampaolo Calvarese,serie a,2,0
+294,27.0,Sun,3/10/19,Sassuolo,1.0,0.6,Napoli,14969.0,Stadio Città del Tricolore,Gianluca Manganiello,serie a,1,1
+295,27.0,Sun,3/10/19,Fiorentina,0.5,0.9,Lazio,28727.0,Stadio Artemio Franchi,Daniele Orsato,serie a,1,1
+296,27.0,Mon,3/11/19,Roma,0.7,0.4,Empoli,34508.0,Stadio Olimpico,Fabio Maresca,serie a,2,1
+298,28.0,Fri,3/15/19,Cagliari,1.1,0.5,Fiorentina,14735.0,Sardegna Arena,Daniele Doveri,serie a,2,1
+299,28.0,Sat,3/16/19,Sassuolo,1.6,1.8,Sampdoria,11193.0,Stadio Città del Tricolore,Federico Dionisi,serie a,3,5
+300,28.0,Sat,3/16/19,SPAL,1.1,1.7,Roma,15089.0,Stadio Paolo Mazza,Gianluca Rocchi,serie a,2,1
+301,28.0,Sat,3/16/19,Torino,1.4,2.4,Bologna,24863.0,Stadio Olimpico di Torino,Maurizio Mariani,serie a,2,3
+302,28.0,Sun,3/17/19,Genoa,1.3,0.4,Juventus,30695.0,Stadio Comunale Luigi Ferraris,Marco Di Bello,serie a,2,0
+303,28.0,Sun,3/17/19,Atalanta,1.9,0.7,Chievo,18537.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,serie a,1,1
+304,28.0,Sun,3/17/19,Empoli,2.0,1.4,Frosinone,10000.0,Stadio Carlo Castellani,Davide Massa,serie a,2,1
+305,28.0,Sun,3/17/19,Lazio,1.8,0.3,Parma,38000.0,Stadio Olimpico,Luca Banti,serie a,4,1
+306,28.0,Sun,3/17/19,Napoli,1.3,0.9,Udinese,25718.0,Stadio San Paolo,Paolo Valeri,serie a,4,2
+307,28.0,Sun,3/17/19,Milan,1.2,2.5,Inter,77749.0,Stadio Giuseppe Meazza,Marco Guida,serie a,2,3
+309,29.0,Fri,3/29/19,Chievo,0.9,1.1,Cagliari,10000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso,serie a,0,3
+310,29.0,Sat,3/30/19,Udinese,1.8,1.5,Genoa,17072.0,Dacia Arena,Luca Pairetto,serie a,2,0
+311,29.0,Sat,3/30/19,Juventus,1.4,0.4,Empoli,39290.0,Allianz Stadium,Federico La Penna,serie a,1,0
+312,29.0,Sat,3/30/19,Sampdoria,1.7,0.6,Milan,23475.0,Stadio Comunale Luigi Ferraris,Daniele Orsato,serie a,1,0
+313,29.0,Sun,3/31/19,Parma,0.8,3.2,Atalanta,18168.0,Stadio Ennio Tardini,Daniele Chiffi,serie a,1,3
+314,29.0,Sun,3/31/19,Frosinone,0.9,0.3,SPAL,12969.0,Stadio Benito Stirpe,Marco Di Bello,serie a,0,1
+315,29.0,Sun,3/31/19,Fiorentina,2.7,0.5,Torino,36707.0,Stadio Artemio Franchi,Fabrizio Pasqua,serie a,1,1
+316,29.0,Sun,3/31/19,Roma,1.7,2.5,Napoli,36525.0,Stadio Olimpico,Giampaolo Calvarese,serie a,1,4
+317,29.0,Sun,3/31/19,Bologna,1.9,0.5,Sassuolo,23551.0,Stadio Renato Dall'Ara,Marco Guida,serie a,2,1
+318,29.0,Sun,3/31/19,Inter,0.9,1.2,Lazio,56348.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,serie a,0,1
+320,30.0,Tue,4/2/19,Milan,1.8,0.9,Udinese,49665.0,Stadio Giuseppe Meazza,Luca Banti,serie a,1,1
+321,30.0,Tue,4/2/19,Cagliari,0.6,2.6,Juventus,15958.0,Sardegna Arena,Piero Giacomelli,serie a,0,2
+322,30.0,Wed,4/3/19,Empoli,1.7,0.7,Napoli,10911.0,Stadio Carlo Castellani,Daniele Doveri,serie a,2,1
+323,30.0,Wed,4/3/19,Genoa,0.4,2.4,Inter,21865.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani,serie a,0,4
+324,30.0,Wed,4/3/19,Roma,1.3,0.8,Fiorentina,30123.0,Stadio Olimpico,Davide Massa,serie a,2,2
+325,30.0,Wed,4/3/19,SPAL,1.3,0.7,Lazio,13415.0,Stadio Paolo Mazza,Marco Guida,serie a,1,0
+326,30.0,Wed,4/3/19,Torino,1.0,0.3,Sampdoria,22618.0,Stadio Olimpico di Torino,Fabio Maresca,serie a,2,1
+327,30.0,Wed,4/3/19,Frosinone,1.9,1.8,Parma,12285.0,Stadio Benito Stirpe,Gianluca Manganiello,serie a,3,2
+328,30.0,Thu,4/4/19,Sassuolo,1.5,1.5,Chievo,9193.0,Stadio Città del Tricolore,Lorenzo Maggioni,serie a,4,0
+329,30.0,Thu,4/4/19,Atalanta,1.4,1.2,Bologna,18441.0,Stadio Atleti Azzurri d'Italia,Gianluca Rocchi,serie a,4,1
+331,31.0,Sat,4/6/19,Parma,0.7,0.9,Torino,16924.0,Stadio Ennio Tardini,Daniele Doveri,serie a,0,0
+332,31.0,Sat,4/6/19,Juventus,2.0,1.4,Milan,40057.0,Allianz Stadium,Michael Fabbri,serie a,2,1
+333,31.0,Sat,4/6/19,Sampdoria,1.1,1.9,Roma,19594.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,serie a,0,1
+334,31.0,Sun,4/7/19,Fiorentina,1.6,0.7,Frosinone,26958.0,Stadio Artemio Franchi,Daniele Chiffi,serie a,0,1
+335,31.0,Sun,4/7/19,Udinese,2.3,1.6,Empoli,22537.0,Dacia Arena,Daniele Orsato,serie a,3,2
+336,31.0,Sun,4/7/19,Cagliari,2.4,1.1,SPAL,16121.0,Sardegna Arena,Luca Banti,serie a,2,1
+337,31.0,Sun,4/7/19,Inter,1.2,1.3,Atalanta,35000.0,Stadio Giuseppe Meazza,Massimiliano Irrati,serie a,0,0
+338,31.0,Sun,4/7/19,Lazio,3.3,1.0,Sassuolo,37487.0,Stadio Olimpico,Rosario Abisso,serie a,2,2
+339,31.0,Sun,4/7/19,Napoli,1.7,0.7,Genoa,22935.0,Stadio San Paolo,Fabrizio Pasqua,serie a,1,1
+340,31.0,Mon,4/8/19,Bologna,2.3,0.5,Chievo,19107.0,Stadio Renato Dall'Ara,Luca Pairetto,serie a,3,0
+342,32.0,Sat,4/13/19,SPAL,1.0,0.5,Juventus,16000.0,Stadio Paolo Mazza,Daniele Doveri,serie a,2,1
+343,32.0,Sat,4/13/19,Roma,1.8,0.6,Udinese,34449.0,Stadio Olimpico,Marco Di Bello,serie a,1,0
+344,32.0,Sat,4/13/19,Milan,1.7,1.2,Lazio,61216.0,Stadio Giuseppe Meazza,Gianluca Rocchi,serie a,1,0
+345,32.0,Sun,4/14/19,Torino,1.3,0.8,Cagliari,23869.0,Stadio Olimpico di Torino,Massimiliano Irrati,serie a,1,1
+346,32.0,Sun,4/14/19,Sampdoria,2.5,1.0,Genoa,30548.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,serie a,2,0
+347,32.0,Sun,4/14/19,Fiorentina,0.7,0.1,Bologna,29394.0,Stadio Artemio Franchi,Piero Giacomelli,serie a,0,0
+348,32.0,Sun,4/14/19,Sassuolo,1.6,0.8,Parma,12538.0,Stadio Città del Tricolore,Marco Piccinini,serie a,0,0
+349,32.0,Sun,4/14/19,Chievo,0.2,1.5,Napoli,13500.0,Stadio Marc'Antonio Bentegodi,Federico La Penna,serie a,1,3
+350,32.0,Sun,4/14/19,Frosinone,0.7,3.1,Inter,15856.0,Stadio Benito Stirpe,Davide Massa,serie a,1,3
+351,32.0,Mon,4/15/19,Atalanta,4.8,0.4,Empoli,19229.0,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello,serie a,0,0
+353,25.0,Wed,4/17/19,Lazio,1.6,1.4,Udinese,30162.0,Stadio Olimpico,Giampaolo Calvarese,serie a,2,0
+355,33.0,Sat,4/20/19,Parma,0.8,0.6,Milan,20018.0,Stadio Ennio Tardini,Paolo Valeri,serie a,1,1
+356,33.0,Sat,4/20/19,Genoa,1.0,1.0,Torino,8000.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,serie a,0,1
+357,33.0,Sat,4/20/19,Bologna,1.0,0.6,Sampdoria,21391.0,Stadio Renato Dall'Ara,Maurizio Mariani,serie a,3,0
+358,33.0,Sat,4/20/19,Empoli,1.7,1.6,SPAL,10444.0,Stadio Carlo Castellani,Gianluca Rocchi,serie a,2,4
+359,33.0,Sat,4/20/19,Cagliari,1.5,0.9,Frosinone,16095.0,Sardegna Arena,Rosario Abisso,serie a,1,0
+360,33.0,Sat,4/20/19,Udinese,0.7,0.7,Sassuolo,21000.0,Dacia Arena,Luca Pairetto,serie a,1,1
+361,33.0,Sat,4/20/19,Lazio,1.6,0.9,Chievo,25000.0,Stadio Olimpico,Daniele Chiffi,serie a,1,2
+362,33.0,Sat,4/20/19,Juventus,1.4,1.7,Fiorentina,40339.0,Allianz Stadium,Fabrizio Pasqua,serie a,2,1
+363,33.0,Sat,4/20/19,Inter,1.8,0.8,Roma,60013.0,Stadio Giuseppe Meazza,Marco Guida,serie a,1,1
+364,33.0,Mon,4/22/19,Napoli,1.8,1.1,Atalanta,19604.0,Stadio San Paolo,Daniele Orsato,serie a,1,2
+366,34.0,Sat,4/27/19,Bologna,2.1,0.5,Empoli,25189.0,Stadio Renato Dall'Ara,Paolo Valeri,serie a,3,1
+367,34.0,Sat,4/27/19,Roma,2.4,0.5,Cagliari,35964.0,Stadio Olimpico,Gianluca Manganiello,serie a,3,0
+368,34.0,Sat,4/27/19,Inter,1.2,0.4,Juventus,73855.0,Stadio Giuseppe Meazza,Luca Banti,serie a,1,1
+369,34.0,Sun,4/28/19,Frosinone,1.4,1.7,Napoli,13600.0,Stadio Benito Stirpe,Federico La Penna,serie a,0,2
+370,34.0,Sun,4/28/19,Chievo,0.8,0.4,Parma,7000.0,Stadio Marc'Antonio Bentegodi,Juan Sacchi,serie a,1,1
+371,34.0,Sun,4/28/19,SPAL,0.8,1.1,Genoa,13563.0,Stadio Paolo Mazza,Davide Massa,serie a,1,1
+372,34.0,Sun,4/28/19,Sampdoria,1.2,1.3,Lazio,18450.0,Stadio Comunale Luigi Ferraris,Fabio Maresca,serie a,1,2
+373,34.0,Sun,4/28/19,Torino,1.3,0.6,Milan,26849.0,Stadio Olimpico di Torino,Marco Guida,serie a,2,0
+374,34.0,Mon,4/29/19,Atalanta,2.1,0.2,Udinese,18663.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,serie a,2,0
+375,34.0,Mon,4/29/19,Fiorentina,1.2,1.4,Sassuolo,25567.0,Stadio Artemio Franchi,Francesco Fourneau,serie a,0,1
+377,35.0,Fri,5/3/19,Juventus,1.1,0.6,Torino,38530.0,Allianz Stadium,Daniele Orsato,serie a,1,1
+378,35.0,Sat,5/4/19,Chievo,0.3,1.7,SPAL,10000.0,Stadio Marc'Antonio Bentegodi,Riccardo Ros,serie a,0,4
+379,35.0,Sat,5/4/19,Udinese,0.4,1.7,Inter,24741.0,Dacia Arena,Gianluca Rocchi,serie a,0,0
+380,35.0,Sun,5/5/19,Empoli,1.0,2.1,Fiorentina,8285.0,Stadio Carlo Castellani,Massimiliano Irrati,serie a,1,0
+381,35.0,Sun,5/5/19,Lazio,0.6,1.4,Atalanta,25000.0,Stadio Olimpico,Giampaolo Calvarese,serie a,1,3
+382,35.0,Sun,5/5/19,Parma,2.3,2.3,Sampdoria,16992.0,Stadio Ennio Tardini,Michael Fabbri,serie a,3,3
+383,35.0,Sun,5/5/19,Sassuolo,2.1,0.9,Frosinone,10073.0,Stadio Città del Tricolore,Antonio Giua,serie a,2,2
+384,35.0,Sun,5/5/19,Genoa,2.0,0.9,Roma,20703.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,serie a,1,1
+385,35.0,Sun,5/5/19,Napoli,1.9,0.5,Cagliari,16171.0,Stadio San Paolo,Daniele Chiffi,serie a,2,1
+386,35.0,Mon,5/6/19,Milan,1.1,1.0,Bologna,51472.0,Stadio Giuseppe Meazza,Marco Di Bello,serie a,2,1
+388,36.0,Sat,5/11/19,Atalanta,1.3,1.7,Genoa,12000.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,serie a,2,1
+389,36.0,Sat,5/11/19,Cagliari,1.0,0.7,Lazio,16179.0,Sardegna Arena,Michael Fabbri,serie a,1,2
+390,36.0,Sat,5/11/19,Fiorentina,0.6,0.6,Milan,33250.0,Stadio Artemio Franchi,Maurizio Mariani,serie a,0,1
+391,36.0,Sun,5/12/19,Torino,3.4,0.6,Sassuolo,25360.0,Stadio Olimpico di Torino,Piero Giacomelli,serie a,3,2
+392,36.0,Sun,5/12/19,Sampdoria,1.9,2.1,Empoli,19034.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,serie a,1,2
+393,36.0,Sun,5/12/19,Frosinone,2.0,2.1,Udinese,12261.0,Stadio Benito Stirpe,Fabrizio Pasqua,serie a,1,3
+394,36.0,Sun,5/12/19,SPAL,1.8,1.4,Napoli,14175.0,Stadio Paolo Mazza,Eugenio Abbattista,serie a,1,2
+395,36.0,Sun,5/12/19,Roma,1.8,0.6,Juventus,50825.0,Stadio Olimpico,Davide Massa,serie a,2,0
+396,36.0,Mon,5/13/19,Bologna,1.6,0.6,Parma,20656.0,Stadio Renato Dall'Ara,Luca Pairetto,serie a,4,1
+397,36.0,Mon,5/13/19,Inter,1.8,0.2,Chievo,57855.0,Stadio Giuseppe Meazza,Paolo Valeri,serie a,2,0
+399,37.0,Sat,5/18/19,Udinese,1.0,1.0,SPAL,24614.0,Dacia Arena,Michael Fabbri,serie a,3,2
+400,37.0,Sat,5/18/19,Genoa,2.1,0.6,Cagliari,22768.0,Stadio Comunale Luigi Ferraris,Paolo Valeri,serie a,1,1
+401,37.0,Sat,5/18/19,Sassuolo,1.0,1.9,Roma,12914.0,Stadio Città del Tricolore,Fabio Maresca,serie a,0,0
+402,37.0,Sun,5/19/19,Chievo,0.9,0.8,Sampdoria,10000.0,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano,serie a,0,0
+403,37.0,Sun,5/19/19,Empoli,2.0,1.6,Torino,10344.0,Stadio Carlo Castellani,Paolo Mazzoleni,serie a,4,1
+404,37.0,Sun,5/19/19,Parma,0.4,1.2,Fiorentina,17333.0,Stadio Ennio Tardini,Piero Giacomelli,serie a,1,0
+405,37.0,Sun,5/19/19,Milan,1.5,1.5,Frosinone,61765.0,Stadio Giuseppe Meazza,Gianluca Manganiello,serie a,2,0
+406,37.0,Sun,5/19/19,Juventus,0.9,1.9,Atalanta,39531.0,Allianz Stadium,Gianluca Rocchi,serie a,1,1
+407,37.0,Sun,5/19/19,Napoli,1.6,2.4,Inter,25445.0,Stadio San Paolo,Daniele Doveri,serie a,4,1
+408,37.0,Mon,5/20/19,Lazio,1.5,2.4,Bologna,25000.0,Stadio Olimpico,Fabrizio Pasqua,serie a,3,3
+410,38.0,Sat,5/25/19,Frosinone,0.9,0.0,Chievo,12167.0,Stadio Benito Stirpe,Antonio Di Martino,serie a,0,0
+411,38.0,Sat,5/25/19,Bologna,1.1,1.9,Napoli,19351.0,Stadio Renato Dall'Ara,Aleandro Di Paolo,serie a,3,2
+412,38.0,Sun,5/26/19,Torino,2.3,1.0,Lazio,24428.0,Stadio Olimpico di Torino,Rosario Abisso,serie a,3,1
+413,38.0,Sun,5/26/19,Sampdoria,0.6,0.5,Juventus,22856.0,Stadio Comunale Luigi Ferraris,Luigi Nasca,serie a,2,0
+414,38.0,Sun,5/26/19,SPAL,0.7,1.7,Milan,16146.0,Stadio Paolo Mazza,Paolo Valeri,serie a,2,3
+415,38.0,Sun,5/26/19,Fiorentina,0.4,0.1,Genoa,37527.0,Stadio Artemio Franchi,Daniele Orsato,serie a,0,0
+416,38.0,Sun,5/26/19,Inter,2.8,2.1,Empoli,68051.0,Stadio Giuseppe Meazza,Luca Banti,serie a,2,1
+417,38.0,Sun,5/26/19,Cagliari,1.8,0.8,Udinese,15378.0,Sardegna Arena,Manuel Volpi,serie a,1,2
+418,38.0,Sun,5/26/19,Roma,2.3,1.2,Parma,62304.0,Stadio Olimpico,Paolo Mazzoleni,serie a,2,1
+419,38.0,Sun,5/26/19,Atalanta,2.2,0.4,Sassuolo,14376.0,Stadio Atleti Azzurri d'Italia,Daniele Doveri,serie a,3,1
+0,1.0,Fri,8/17/18,Girona,1.0,0.1,Valladolid,10368.0,Estadi Municipal de Montilivi,Guillermo Cuadra,la liga,0,0
+1,1.0,Fri,8/17/18,Betis,1.2,1.8,Levante,46225.0,Estadio Benito Villamarín,Ignacio Iglesias,la liga,0,3
+2,1.0,Sat,8/18/18,Celta Vigo,0.7,0.9,Espanyol,16215.0,Estadio de Balaídos,Santiago Jaime,la liga,1,1
+3,1.0,Sat,8/18/18,Villarreal,0.9,0.6,Real Sociedad,16250.0,Estadio de la Cerámica,Mario Melero,la liga,1,2
+4,1.0,Sat,8/18/18,Barcelona,3.0,0.3,Alavés,52356.0,Camp Nou,José Sánchez,la liga,3,0
+5,1.0,Sun,8/19/18,Eibar,1.3,1.1,Huesca,4234.0,Estadio Municipal de Ipurúa,Eduardo Prieto,la liga,1,2
+6,1.0,Sun,8/19/18,Rayo Vallecano,1.8,2.0,Sevilla,11626.0,Estadio del Rayo Vallecano,Antonio Matéu Lahoz,la liga,1,4
+7,1.0,Sun,8/19/18,Real Madrid,0.6,0.2,Getafe,48446.0,Estadio Santiago Bernabéu,Javier Estrada,la liga,2,0
+8,1.0,Mon,8/20/18,Valencia,1.0,1.0,Atlético Madrid,46174.0,Estadio de Mestalla,Jesús Gil,la liga,1,1
+9,1.0,Mon,8/20/18,Athletic Bilbao,1.5,1.5,Leganés,38327.0,Estadio San Mamés,Adrián Cordero,la liga,2,1
+11,2.0,Fri,8/24/18,Getafe,1.3,0.6,Eibar,7851.0,Coliseum Alfonso Pérez,David Medié,la liga,2,0
+12,2.0,Fri,8/24/18,Leganés,2.0,1.8,Real Sociedad,9375.0,Estadio Municipal de Butarque,José Luis Munuera,la liga,2,2
+13,2.0,Sat,8/25/18,Alavés,0.7,1.3,Betis,18221.0,Estadio de Mendizorroza,Pablo González,la liga,0,0
+14,2.0,Sat,8/25/18,Atlético Madrid,0.6,1.8,Rayo Vallecano,52693.0,Estadio Vicente Calderón,José González,la liga,1,0
+15,2.0,Sat,8/25/18,Valladolid,0.3,0.9,Barcelona,22651.0,Estadio Municipal José Zorrilla,Ricardo de Burgos,la liga,0,1
+16,2.0,Sun,8/26/18,Espanyol,1.6,1.5,Valencia,18714.0,RCDE Stadium,Carlos del Cerro,la liga,2,0
+17,2.0,Sun,8/26/18,Sevilla,1.6,1.0,Villarreal,35831.0,Estadio Ramón Sánchez Pizjuán,Alberto Undiano,la liga,0,0
+18,2.0,Sun,8/26/18,Girona,0.8,3.1,Real Madrid,13889.0,Estadi Municipal de Montilivi,Juan Martínez,la liga,1,4
+19,2.0,Mon,8/27/18,Levante,1.9,3.2,Celta Vigo,21122.0,Estadio Ciudad de Valencia,Alejandro Hernández,la liga,1,2
+20,2.0,Mon,8/27/18,Athletic Bilbao,0.6,0.4,Huesca,36818.0,San Mamés,Alberola Rojas,la liga,2,2
+22,3.0,Fri,8/31/18,Getafe,1.0,0.6,Valladolid,9817.0,Coliseum Alfonso Pérez,Adrián Cordero,la liga,0,0
+23,3.0,Fri,8/31/18,Eibar,1.1,1.1,Real Sociedad,6144.0,Estadio Municipal de Ipurúa,José Sánchez,la liga,2,1
+24,3.0,Fri,8/31/18,Villarreal,1.1,0.8,Girona,15740.0,Estadio de la Cerámica,Eduardo Prieto,la liga,0,1
+25,3.0,Sat,9/1/18,Celta Vigo,0.8,0.5,Atlético Madrid,19013.0,Estadio de Balaídos,Antonio Matéu Lahoz,la liga,2,0
+26,3.0,Sat,9/1/18,Real Madrid,2.1,1.1,Leganés,59255.0,Estadio Santiago Bernabéu,Santiago Jaime,la liga,4,1
+27,3.0,Sun,9/2/18,Levante,1.4,3.6,Valencia,24073.0,Estadio Ciudad de Valencia,Javier Estrada,la liga,2,2
+28,3.0,Sun,9/2/18,Alavés,1.2,1.5,Espanyol,18052.0,Estadio de Mendizorroza,Ignacio Iglesias,la liga,2,1
+29,3.0,Sun,9/2/18,Barcelona,4.7,1.2,Huesca,72892.0,Camp Nou,Mario Melero,la liga,8,2
+30,3.0,Sun,9/2/18,Betis,0.7,0.4,Sevilla,53451.0,Estadio Benito Villamarín,Jesús Gil,la liga,1,0
+32,4.0,Fri,9/14/18,Huesca,1.5,1.0,Rayo Vallecano,6498.0,Estadio El Alcoraz,David Medié,la liga,0,1
+33,4.0,Sat,9/15/18,Atlético Madrid,1.7,1.2,Eibar,55674.0,Estadio Municipal de Ipurúa,Juan Martínez,la liga,1,1
+34,4.0,Sat,9/15/18,Real Sociedad,1.3,1.3,Barcelona,26756.0,Estadio Municipal de Anoeta,Carlos del Cerro,la liga,1,2
+35,4.0,Sat,9/15/18,Valencia,1.6,1.0,Betis,40050.0,Estadio de Mestalla,Alejandro Hernández,la liga,0,0
+36,4.0,Sat,9/15/18,Athletic Bilbao,1.4,1.9,Real Madrid,46413.0,Estadio San Mamés,José González,la liga,1,1
+37,4.0,Sun,9/16/18,Leganés,1.3,0.7,Villarreal,10432.0,Estadio Municipal de Butarque,Pablo González,la liga,0,1
+38,4.0,Sun,9/16/18,Espanyol,1.1,0.7,Levante,18627.0,RCDE Stadium,Alberto Undiano,la liga,1,0
+39,4.0,Sun,9/16/18,Valladolid,1.6,0.7,Alavés,18873.0,Estadio Municipal José Zorrilla,José Luis Munuera,la liga,0,1
+40,4.0,Sun,9/16/18,Sevilla,1.5,1.9,Getafe,36943.0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos,la liga,0,2
+41,4.0,Mon,9/17/18,Girona,1.1,1.0,Celta Vigo,9849.0,Estadi Municipal de Montilivi,Alberola Rojas,la liga,3,2
+43,5.0,Fri,9/21/18,Huesca,1.1,0.3,Real Sociedad,6948.0,Estadio El Alcoraz,Ignacio Iglesias,la liga,0,1
+44,5.0,Sat,9/22/18,Rayo Vallecano,1.0,0.8,Alavés,12011.0,Estadio del Rayo Vallecano,Adrián Cordero,la liga,1,5
+45,5.0,Sat,9/22/18,Eibar,1.1,0.4,Leganés,4456.0,Estadio Municipal de Ipurúa,Mario Melero,la liga,1,0
+46,5.0,Sat,9/22/18,Celta Vigo,1.3,2.1,Valladolid,16552.0,Estadio de Balaídos,Eduardo Prieto,la liga,3,3
+47,5.0,Sat,9/22/18,Getafe,0.7,0.9,Atlético Madrid,12756.0,Coliseum Alfonso Pérez,José Sánchez,la liga,0,2
+48,5.0,Sat,9/22/18,Real Madrid,1.2,0.7,Espanyol,67658.0,Estadio Santiago Bernabéu,Antonio Matéu Lahoz,la liga,1,0
+49,5.0,Sun,9/23/18,Levante,2.5,2.9,Sevilla,21520.0,Estadio Ciudad de Valencia,Guillermo Cuadra,la liga,2,6
+50,5.0,Sun,9/23/18,Villarreal,1.0,0.4,Valencia,18373.0,Estadio de la Cerámica,Santiago Jaime,la liga,0,0
+51,5.0,Sun,9/23/18,Betis,1.2,0.8,Athletic Bilbao,51093.0,Estadio Benito Villamarín,Javier Estrada,la liga,2,2
+52,5.0,Sun,9/23/18,Barcelona,1.5,1.1,Girona,76055.0,Camp Nou,Jesús Gil,la liga,2,2
+54,6.0,Tue,9/25/18,Espanyol,0.9,0.3,Eibar,13547.0,RCDE Stadium,José Luis Munuera,la liga,1,0
+55,6.0,Tue,9/25/18,Real Sociedad,1.7,1.6,Rayo Vallecano,21510.0,Estadio Municipal de Anoeta,Juan Martínez,la liga,2,2
+56,6.0,Tue,9/25/18,Atlético Madrid,1.2,1.2,Huesca,47023.0,Estadio Wanda Metropolitano,Pablo González,la liga,3,0
+57,6.0,Wed,9/26/18,Athletic Bilbao,0.8,2.8,Villarreal,39672.0,Estadio San Mamés,Carlos del Cerro,la liga,0,3
+58,6.0,Wed,9/26/18,Leganés,1.1,0.5,Barcelona,12231.0,Estadio Municipal de Butarque,Alberto Undiano,la liga,2,1
+59,6.0,Wed,9/26/18,Sevilla,2.5,1.3,Real Madrid,40972.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,la liga,3,0
+60,6.0,Wed,9/26/18,Valencia,2.1,0.3,Celta Vigo,35945.0,Estadio de Mestalla,Ricardo de Burgos,la liga,1,1
+61,6.0,Thu,9/27/18,Alavés,1.7,1.0,Getafe,18373.0,Estadio de Mendizorroza,Eduardo Prieto,la liga,1,1
+62,6.0,Thu,9/27/18,Valladolid,1.2,0.5,Levante,16440.0,Estadio Municipal José Zorrilla,David Medié,la liga,2,1
+63,6.0,Thu,9/27/18,Girona,0.7,1.7,Betis,11358.0,Estadi Municipal de Montilivi,José González,la liga,0,1
+65,7.0,Fri,9/28/18,Rayo Vallecano,1.3,1.9,Espanyol,12100.0,Estadio del Rayo Vallecano,Alberola Rojas,la liga,2,2
+66,7.0,Sat,9/29/18,Real Sociedad,1.2,1.1,Valencia,23577.0,Estadio Municipal de Anoeta,Jesús Gil,la liga,0,1
+67,7.0,Sat,9/29/18,Barcelona,3.1,0.7,Athletic Bilbao,78015.0,Camp Nou,Santiago Jaime,la liga,1,1
+68,7.0,Sat,9/29/18,Eibar,1.0,1.6,Sevilla,5443.0,Estadio Municipal de Ipurúa,Javier Estrada,la liga,1,3
+69,7.0,Sat,9/29/18,Real Madrid,1.1,0.7,Atlético Madrid,78642.0,Estadio Santiago Bernabéu,Juan Martínez,la liga,0,0
+70,7.0,Sun,9/30/18,Huesca,1.4,1.4,Girona,6779.0,Estadio El Alcoraz,Adrián Cordero,la liga,1,1
+71,7.0,Sun,9/30/18,Villarreal,2.4,0.6,Valladolid,15602.0,Estadio de la Cerámica,Ignacio Iglesias,la liga,0,1
+72,7.0,Sun,9/30/18,Levante,1.6,0.8,Alavés,20239.0,Estadio Ciudad de Valencia,Mario Melero,la liga,2,1
+73,7.0,Sun,9/30/18,Betis,1.9,0.5,Leganés,48115.0,Estadio Benito Villamarín,José Sánchez,la liga,1,0
+74,7.0,Mon,10/1/18,Celta Vigo,0.4,1.0,Getafe,14330.0,Estadio de Balaídos,Guillermo Cuadra,la liga,1,1
+76,8.0,Fri,10/5/18,Athletic Bilbao,1.7,2.0,Real Sociedad,46884.0,San Mamés,Alejandro Hernández,la liga,1,3
+77,8.0,Sat,10/6/18,Girona,1.2,1.9,Eibar,10569.0,Estadi Municipal de Montilivi,Eduardo Prieto,la liga,2,3
+78,8.0,Sat,10/6/18,Getafe,1.2,1.0,Levante,9557.0,Coliseum Alfonso Pérez,José Luis Munuera,la liga,0,1
+79,8.0,Sat,10/6/18,Alavés,0.8,0.8,Real Madrid,19461.0,Estadio de Mendizorroza,Santiago Jaime,la liga,1,0
+80,8.0,Sat,10/6/18,Leganés,1.0,0.3,Rayo Vallecano,11539.0,Estadio Municipal de Butarque,David Medié,la liga,1,0
+81,8.0,Sun,10/7/18,Valladolid,1.1,0.5,Huesca,17300.0,Estadio Municipal José Zorrilla,Antonio Matéu Lahoz,la liga,1,0
+82,8.0,Sun,10/7/18,Atlético Madrid,0.7,0.4,Betis,63786.0,Estadio Wanda Metropolitano,Alberto Undiano,la liga,1,0
+83,8.0,Sun,10/7/18,Sevilla,2.6,0.8,Celta Vigo,38068.0,Estadio Ramón Sánchez Pizjuán,Pablo González,la liga,2,1
+84,8.0,Sun,10/7/18,Espanyol,3.8,1.7,Villarreal,20032.0,RCDE Stadium,Ricardo de Burgos,la liga,3,1
+85,8.0,Sun,10/7/18,Valencia,1.5,0.4,Barcelona,46249.0,Estadio de Mestalla,José González,la liga,1,1
+87,9.0,Fri,10/19/18,Celta Vigo,1.0,1.0,Alavés,15627.0,Estadio de Balaídos,Carlos del Cerro,la liga,0,1
+88,9.0,Sat,10/20/18,Real Madrid,3.5,2.0,Levante,63423.0,Estadio Santiago Bernabéu,Guillermo Cuadra,la liga,1,2
+89,9.0,Sat,10/20/18,Valencia,1.3,1.0,Leganés,35597.0,Estadio de Mestalla,Ignacio Iglesias,la liga,1,1
+90,9.0,Sat,10/20/18,Villarreal,1.3,1.0,Atlético Madrid,17518.0,Estadio de la Cerámica,Javier Estrada,la liga,1,1
+91,9.0,Sat,10/20/18,Barcelona,2.6,1.9,Sevilla,88712.0,Camp Nou,Juan Martínez,la liga,4,2
+92,9.0,Sun,10/21/18,Rayo Vallecano,0.4,0.5,Getafe,12040.0,Estadio del Rayo Vallecano,Mario Melero,la liga,1,2
+93,9.0,Sun,10/21/18,Eibar,1.7,0.9,Athletic Bilbao,6475.0,Estadio Municipal de Ipurúa,Jesús Gil,la liga,1,1
+94,9.0,Sun,10/21/18,Huesca,0.3,1.7,Espanyol,6943.0,Estadio El Alcoraz,Eduardo Prieto,la liga,0,2
+95,9.0,Sun,10/21/18,Betis,1.1,0.6,Valladolid,42581.0,Estadio Benito Villamarín,Alberola Rojas,la liga,0,1
+96,9.0,Mon,10/22/18,Real Sociedad,0.8,0.7,Girona,20997.0,Estadio Municipal de Anoeta,Pablo González,la liga,0,0
+98,3.0,Wed,10/24/18,Rayo Vallecano,0.9,1.1,Athletic Bilbao,11850.0,Estadio del Rayo Vallecano,Guillermo Cuadra,la liga,1,1
+100,10.0,Fri,10/26/18,Valladolid,1.7,0.5,Espanyol,18231.0,Estadio Municipal José Zorrilla,Adrián Cordero,la liga,1,1
+101,10.0,Sat,10/27/18,Girona,2.2,1.3,Rayo Vallecano,6618.0,Estadi Municipal de Montilivi,José Luis Munuera,la liga,2,1
+102,10.0,Sat,10/27/18,Athletic Bilbao,0.7,0.7,Valencia,39261.0,San Mamés,Alberto Undiano,la liga,0,0
+103,10.0,Sat,10/27/18,Levante,1.2,1.0,Leganés,19754.0,Estadio Ciudad de Valencia,Ricardo de Burgos,la liga,2,0
+104,10.0,Sat,10/27/18,Celta Vigo,1.5,2.1,Eibar,15509.0,Estadio de Balaídos,José González,la liga,4,0
+105,10.0,Sat,10/27/18,Atlético Madrid,1.5,0.3,Real Sociedad,57514.0,Estadio Wanda Metropolitano,Antonio Matéu Lahoz,la liga,2,0
+106,10.0,Sun,10/28/18,Getafe,1.8,0.6,Betis,12086.0,Coliseum Alfonso Pérez,Santiago Jaime,la liga,2,0
+107,10.0,Sun,10/28/18,Barcelona,3.0,1.7,Real Madrid,93265.0,Camp Nou,José Sánchez,la liga,5,1
+108,10.0,Sun,10/28/18,Alavés,1.8,1.5,Villarreal,16956.0,Estadio de Mendizorroza,Guillermo Cuadra,la liga,2,1
+109,10.0,Sun,10/28/18,Sevilla,2.0,0.6,Huesca,33022.0,Estadio Ramón Sánchez Pizjuán,David Medié,la liga,2,1
+111,11.0,Sat,11/3/18,Leganés,0.8,0.5,Atlético Madrid,12319.0,Estadio Municipal de Butarque,Mario Melero,la liga,1,1
+112,11.0,Sat,11/3/18,Real Madrid,2.1,1.1,Valladolid,68050.0,Estadio Santiago Bernabéu,Jesús Gil,la liga,2,0
+113,11.0,Sat,11/3/18,Valencia,1.8,0.5,Girona,38745.0,Estadio de Mestalla,Alberola Rojas,la liga,0,1
+114,11.0,Sat,11/3/18,Rayo Vallecano,1.3,1.1,Barcelona,13785.0,Estadio del Rayo Vallecano,Alejandro Hernández,la liga,2,3
+115,11.0,Sun,11/4/18,Eibar,1.5,0.7,Alavés,5660.0,Estadio Municipal de Ipurúa,Ignacio Iglesias,la liga,2,1
+116,11.0,Sun,11/4/18,Villarreal,1.3,0.8,Levante,16499.0,Estadio de la Cerámica,Carlos del Cerro,la liga,1,1
+117,11.0,Sun,11/4/18,Real Sociedad,0.6,0.4,Sevilla,24882.0,Estadio Municipal de Anoeta,Eduardo Prieto,la liga,0,0
+118,11.0,Sun,11/4/18,Huesca,1.4,0.9,Getafe,6420.0,Estadio El Alcoraz,Juan Martínez,la liga,1,1
+119,11.0,Sun,11/4/18,Betis,2.1,1.4,Celta Vigo,42130.0,Estadio Benito Villamarín,Javier Estrada,la liga,3,3
+120,11.0,Mon,11/5/18,Espanyol,1.6,0.5,Athletic Bilbao,14328.0,RCDE Stadium,Pablo González,la liga,1,0
+122,12.0,Fri,11/9/18,Levante,0.9,1.3,Real Sociedad,19890.0,Estadio Ciudad de Valencia,David Medié,la liga,1,3
+123,12.0,Sat,11/10/18,Valladolid,0.6,1.2,Eibar,16038.0,Estadio Municipal José Zorrilla,Guillermo Cuadra,la liga,0,0
+124,12.0,Sat,11/10/18,Getafe,1.4,2.0,Valencia,10011.0,Coliseum Alfonso Pérez,Ricardo de Burgos,la liga,0,1
+125,12.0,Sat,11/10/18,Atlético Madrid,1.1,1.4,Athletic Bilbao,59321.0,Estadio Wanda Metropolitano,José Sánchez,la liga,3,2
+126,12.0,Sat,11/10/18,Girona,0.7,1.1,Leganés,9874.0,Estadi Municipal de Montilivi,Adrián Cordero,la liga,0,0
+127,12.0,Sun,11/11/18,Alavés,1.0,0.9,Huesca,18437.0,Estadio de Mendizorroza,José Luis Munuera,la liga,2,1
+128,12.0,Sun,11/11/18,Barcelona,4.1,2.0,Betis,83174.0,Camp Nou,Antonio Matéu Lahoz,la liga,3,4
+129,12.0,Sun,11/11/18,Sevilla,3.3,1.5,Espanyol,38769.0,Estadio Ramón Sánchez Pizjuán,Santiago Jaime,la liga,2,1
+130,12.0,Sun,11/11/18,Rayo Vallecano,2.0,0.7,Villarreal,11840.0,Estadio del Rayo Vallecano,José González,la liga,2,2
+131,12.0,Sun,11/11/18,Celta Vigo,1.6,2.1,Real Madrid,21184.0,Estadio de Balaídos,Alberto Undiano,la liga,2,4
+133,13.0,Fri,11/23/18,Leganés,1.0,0.3,Alavés,9863.0,Estadio Municipal de Butarque,Alberola Rojas,la liga,1,0
+134,13.0,Sat,11/24/18,Eibar,2.8,0.6,Real Madrid,6435.0,Estadio Municipal de Ipurúa,Juan Martínez,la liga,3,0
+135,13.0,Sat,11/24/18,Valencia,1.8,0.7,Rayo Vallecano,37814.0,Estadio de Mestalla,Pablo González,la liga,3,0
+136,13.0,Sat,11/24/18,Huesca,2.0,0.6,Levante,6459.0,Estadio El Alcoraz,Javier Estrada,la liga,2,2
+137,13.0,Sat,11/24/18,Atlético Madrid,0.1,0.4,Barcelona,67204.0,Estadio Wanda Metropolitano,Jesús Gil,la liga,1,1
+138,13.0,Sun,11/25/18,Athletic Bilbao,0.3,2.1,Getafe,39821.0,San Mamés,Ignacio Iglesias,la liga,1,1
+139,13.0,Sun,11/25/18,Sevilla,2.1,0.6,Valladolid,34064.0,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro,la liga,1,0
+140,13.0,Sun,11/25/18,Espanyol,2.2,2.4,Girona,22716.0,RCDE Stadium,Alejandro Hernández,la liga,1,3
+141,13.0,Sun,11/25/18,Villarreal,1.0,1.1,Betis,16028.0,Estadio de la Cerámica,Eduardo Prieto,la liga,2,1
+142,13.0,Mon,11/26/18,Real Sociedad,2.0,0.4,Celta Vigo,17744.0,Estadio Municipal de Anoeta,Mario Melero,la liga,2,1
+144,14.0,Fri,11/30/18,Rayo Vallecano,0.7,0.8,Eibar,11257.0,Estadio del Rayo Vallecano,Alberto Undiano,la liga,1,0
+145,14.0,Sat,12/1/18,Celta Vigo,2.1,0.8,Huesca,13463.0,Estadio de Balaídos,Adrián Cordero,la liga,2,0
+146,14.0,Sat,12/1/18,Valladolid,1.7,1.5,Leganés,16783.0,Estadio Municipal José Zorrilla,David Medié,la liga,2,4
+147,14.0,Sat,12/1/18,Getafe,1.1,1.1,Espanyol,9287.0,Coliseum Alfonso Pérez,Antonio Matéu Lahoz,la liga,3,0
+148,14.0,Sat,12/1/18,Real Madrid,1.1,0.7,Valencia,69653.0,Estadio Santiago Bernabéu,José González,la liga,2,0
+149,14.0,Sun,12/2/18,Betis,0.8,0.9,Real Sociedad,46562.0,Estadio Benito Villamarín,Guillermo Cuadra,la liga,1,0
+150,14.0,Sun,12/2/18,Girona,1.3,2.0,Atlético Madrid,12104.0,Estadi Municipal de Montilivi,Ricardo de Burgos,la liga,1,1
+151,14.0,Sun,12/2/18,Barcelona,1.1,0.8,Villarreal,73003.0,Camp Nou,José Luis Munuera,la liga,2,0
+152,14.0,Sun,12/2/18,Alavés,1.4,1.9,Sevilla,17848.0,Estadio de Mendizorroza,José Sánchez,la liga,1,1
+153,14.0,Mon,12/3/18,Levante,1.7,0.8,Athletic Bilbao,19928.0,Estadio Ciudad de Valencia,Santiago Jaime,la liga,3,0
+155,15.0,Fri,12/7/18,Leganés,1.3,1.3,Getafe,11327.0,Estadio Municipal de Butarque,Pablo González,la liga,1,1
+156,15.0,Sat,12/8/18,Atlético Madrid,2.1,1.3,Alavés,55810.0,Estadio Wanda Metropolitano,Alejandro Hernández,la liga,3,0
+157,15.0,Sat,12/8/18,Valencia,1.2,1.3,Sevilla,40057.0,Estadio de Mestalla,Javier Estrada,la liga,1,1
+158,15.0,Sat,12/8/18,Villarreal,1.5,1.7,Celta Vigo,15720.0,Estadio de la Cerámica,Jesús Gil,la liga,2,3
+159,15.0,Sat,12/8/18,Espanyol,1.0,2.6,Barcelona,24037.0,RCDE Stadium,Carlos del Cerro,la liga,0,4
+160,15.0,Sun,12/9/18,Eibar,3.3,3.0,Levante,5328.0,Estadio Municipal de Ipurúa,Alberola Rojas,la liga,4,4
+161,15.0,Sun,12/9/18,Huesca,0.9,0.3,Real Madrid,7341.0,Estadio El Alcoraz,Mario Melero,la liga,0,1
+162,15.0,Sun,12/9/18,Real Sociedad,2.2,0.9,Valladolid,23260.0,Estadio Municipal de Anoeta,Ignacio Iglesias,la liga,1,2
+163,15.0,Sun,12/9/18,Betis,1.8,1.2,Rayo Vallecano,40218.0,Estadio Benito Villamarín,Juan Martínez,la liga,2,0
+164,15.0,Mon,12/10/18,Athletic Bilbao,2.0,0.1,Girona,34060.0,San Mamés,Eduardo Prieto,la liga,1,0
+166,16.0,Fri,12/14/18,Celta Vigo,0.7,0.6,Leganés,15134.0,Estadio de Balaídos,José Luis Munuera,la liga,0,0
+167,16.0,Sat,12/15/18,Getafe,0.5,0.7,Real Sociedad,9018.0,Coliseum Alfonso Pérez,Santiago Jaime,la liga,1,0
+168,16.0,Sat,12/15/18,Valladolid,0.9,1.7,Atlético Madrid,22585.0,Estadio Municipal José Zorrilla,Alberto Undiano,la liga,2,3
+169,16.0,Sat,12/15/18,Real Madrid,1.0,0.8,Rayo Vallecano,55229.0,Estadio Santiago Bernabéu,Ricardo de Burgos,la liga,1,0
+170,16.0,Sat,12/15/18,Eibar,1.4,2.0,Valencia,4491.0,Estadio Municipal de Ipurúa,Adrián Cordero,la liga,1,1
+171,16.0,Sun,12/16/18,Sevilla,2.6,0.8,Girona,33542.0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra,la liga,2,0
+172,16.0,Sun,12/16/18,Espanyol,0.9,1.7,Betis,20275.0,RCDE Stadium,José Sánchez,la liga,1,3
+173,16.0,Sun,12/16/18,Huesca,3.7,1.5,Villarreal,6455.0,Estadio El Alcoraz,David Medié,la liga,2,2
+174,16.0,Sun,12/16/18,Levante,1.1,3.0,Barcelona,23736.0,Estadio Ciudad de Valencia,José González,la liga,0,5
+175,16.0,Mon,12/17/18,Alavés,0.4,0.3,Athletic Bilbao,19349.0,Estadio de Mendizorroza,Antonio Matéu Lahoz,la liga,0,0
+177,17.0,Fri,12/21/18,Girona,1.4,0.9,Getafe,8450.0,Estadi Municipal de Montilivi,Alberola Rojas,la liga,1,1
+178,17.0,Fri,12/21/18,Real Sociedad,1.1,0.5,Alavés,22431.0,Estadio Municipal de Anoeta,Javier Estrada,la liga,0,1
+179,17.0,Sat,12/22/18,Betis,1.5,2.2,Eibar,49426.0,Estadio Benito Villamarín,Carlos del Cerro,la liga,1,1
+180,17.0,Sat,12/22/18,Atlético Madrid,1.0,1.1,Espanyol,58069.0,Estadio Wanda Metropolitano,Mario Melero,la liga,1,0
+181,17.0,Sat,12/22/18,Barcelona,1.2,0.7,Celta Vigo,78686.0,Camp Nou,Eduardo Prieto,la liga,2,0
+182,17.0,Sat,12/22/18,Athletic Bilbao,1.2,0.5,Valladolid,42633.0,San Mamés,José Sánchez,la liga,1,1
+183,17.0,Sun,12/23/18,Valencia,2.7,1.9,Huesca,36547.0,Estadio de Mestalla,Jesús Gil,la liga,2,1
+184,17.0,Sun,12/23/18,Leganés,1.0,0.7,Sevilla,11321.0,Estadio Municipal de Butarque,Alejandro Hernández,la liga,1,1
+185,17.0,Sun,12/23/18,Rayo Vallecano,2.0,1.0,Levante,11206.0,Estadio del Rayo Vallecano,Ignacio Iglesias,la liga,2,1
+186,17.0,Thu,1/3/19,Villarreal,0.9,1.2,Real Madrid,19903.0,Estadio de la Cerámica,Pablo González,la liga,2,2
+188,18.0,Fri,1/4/19,Levante,1.5,1.3,Girona,19415.0,Estadio Ciudad de Valencia,Alberto Undiano,la liga,2,2
+189,18.0,Fri,1/4/19,Espanyol,1.3,0.4,Leganés,15085.0,RCDE Stadium,José González,la liga,1,0
+190,18.0,Sat,1/5/19,Valladolid,1.6,0.8,Rayo Vallecano,17261.0,Estadio Municipal José Zorrilla,Adrián Cordero,la liga,0,1
+191,18.0,Sat,1/5/19,Alavés,1.9,1.1,Valencia,18304.0,Estadio de Mendizorroza,David Medié,la liga,2,1
+192,18.0,Sat,1/5/19,Huesca,1.5,1.4,Betis,6135.0,Estadio El Alcoraz,Ricardo de Burgos,la liga,2,1
+193,18.0,Sun,1/6/19,Eibar,1.7,0.9,Villarreal,4141.0,Estadio Municipal de Ipurúa,Santiago Jaime,la liga,0,0
+194,18.0,Sun,1/6/19,Sevilla,1.5,0.8,Atlético Madrid,38603.0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz,la liga,1,1
+195,18.0,Sun,1/6/19,Real Madrid,2.4,2.0,Real Sociedad,53412.0,Estadio Santiago Bernabéu,José Luis Munuera,la liga,0,2
+196,18.0,Sun,1/6/19,Getafe,1.5,2.3,Barcelona,14721.0,Coliseum Alfonso Pérez,Guillermo Cuadra,la liga,1,2
+197,18.0,Mon,1/7/19,Celta Vigo,1.1,1.5,Athletic Bilbao,13266.0,Estadio de Balaídos,Juan Martínez,la liga,1,2
+199,19.0,Fri,1/11/19,Rayo Vallecano,1.7,1.2,Celta Vigo,11465.0,Estadio del Rayo Vallecano,Alberola Rojas,la liga,4,2
+200,19.0,Sat,1/12/19,Leganés,1.7,0.5,Huesca,10341.0,Estadio Municipal de Butarque,Mario Melero,la liga,1,0
+201,19.0,Sat,1/12/19,Valencia,2.2,0.1,Valladolid,36912.0,Estadio de Mestalla,Ignacio Iglesias,la liga,1,1
+202,19.0,Sat,1/12/19,Girona,0.4,0.9,Alavés,10303.0,Estadi Municipal de Montilivi,José Sánchez,la liga,1,1
+203,19.0,Sat,1/12/19,Villarreal,1.8,0.9,Getafe,13671.0,Estadio de la Cerámica,Javier Estrada,la liga,1,2
+204,19.0,Sun,1/13/19,Atlético Madrid,2.3,0.6,Levante,57093.0,Estadio Wanda Metropolitano,Eduardo Prieto,la liga,1,0
+205,19.0,Sun,1/13/19,Athletic Bilbao,1.0,0.8,Sevilla,41342.0,San Mamés,Pablo González,la liga,2,0
+206,19.0,Sun,1/13/19,Barcelona,1.6,0.9,Eibar,71039.0,Camp Nou,Jesús Gil,la liga,3,0
+207,19.0,Sun,1/13/19,Betis,0.7,0.8,Real Madrid,54187.0,Estadio Benito Villamarín,Alejandro Hernández,la liga,1,2
+208,19.0,Mon,1/14/19,Real Sociedad,2.1,1.8,Espanyol,17301.0,Estadio Municipal de Anoeta,Carlos del Cerro,la liga,3,2
+210,20.0,Fri,1/18/19,Getafe,2.1,0.3,Alavés,8748.0,Coliseum Alfonso Pérez,José Luis Munuera,la liga,4,0
+211,20.0,Sat,1/19/19,Real Madrid,1.2,0.3,Sevilla,68232.0,Estadio Santiago Bernabéu,Antonio Matéu Lahoz,la liga,2,0
+212,20.0,Sat,1/19/19,Huesca,1.1,1.7,Atlético Madrid,7106.0,Estadio El Alcoraz,Guillermo Cuadra,la liga,0,3
+213,20.0,Sat,1/19/19,Celta Vigo,0.7,1.4,Valencia,15668.0,Estadio de Balaídos,José González,la liga,1,2
+214,20.0,Sun,1/20/19,Betis,1.6,0.9,Girona,47218.0,Estadio Benito Villamarín,Adrián Cordero,la liga,3,2
+215,20.0,Sun,1/20/19,Villarreal,1.0,0.5,Athletic Bilbao,17054.0,Estadio de la Cerámica,Alberto Undiano,la liga,1,1
+216,20.0,Sun,1/20/19,Rayo Vallecano,0.9,1.5,Real Sociedad,12562.0,Estadio del Rayo Vallecano,David Medié,la liga,2,2
+217,20.0,Sun,1/20/19,Levante,1.2,1.0,Valladolid,19107.0,Estadio Ciudad de Valencia,Santiago Jaime,la liga,2,0
+218,20.0,Sun,1/20/19,Barcelona,1.7,0.6,Leganés,50670.0,Camp Nou,Ricardo de Burgos,la liga,3,1
+219,20.0,Mon,1/21/19,Eibar,1.8,0.8,Espanyol,3592.0,Estadio Municipal de Ipurúa,Juan Martínez,la liga,3,0
+221,21.0,Sat,1/26/19,Sevilla,4.5,0.7,Levante,34220.0,Estadio Ramón Sánchez Pizjuán,Alberola Rojas,la liga,5,0
+222,21.0,Sat,1/26/19,Atlético Madrid,1.2,0.2,Getafe,55709.0,Estadio Wanda Metropolitano,Ignacio Iglesias,la liga,2,0
+223,21.0,Sat,1/26/19,Leganés,0.8,0.3,Eibar,9341.0,Estadio Municipal de Butarque,Alejandro Hernández,la liga,2,2
+224,21.0,Sat,1/26/19,Valencia,1.8,0.8,Villarreal,37685.0,Estadio de Mestalla,Carlos del Cerro,la liga,3,0
+225,21.0,Sun,1/27/19,Valladolid,2.3,0.8,Celta Vigo,18416.0,Estadio Municipal José Zorrilla,José Sánchez,la liga,2,1
+226,21.0,Sun,1/27/19,Girona,1.3,2.2,Barcelona,14021.0,Estadi Municipal de Montilivi,Pablo González,la liga,0,2
+227,21.0,Sun,1/27/19,Real Sociedad,0.6,0.6,Huesca,21252.0,Estadio Municipal de Anoeta,Eduardo Prieto,la liga,0,0
+228,21.0,Sun,1/27/19,Athletic Bilbao,0.7,0.3,Betis,40282.0,San Mamés,Javier Estrada,la liga,1,0
+229,21.0,Sun,1/27/19,Espanyol,0.9,1.9,Real Madrid,21215.0,RCDE Stadium,Jesús Gil,la liga,2,4
+230,21.0,Mon,1/28/19,Alavés,1.0,0.8,Rayo Vallecano,13982.0,Estadio de Mendizorroza,Mario Melero,la liga,0,1
+232,22.0,Fri,2/1/19,Huesca,1.3,0.4,Valladolid,6052.0,Estadio El Alcoraz,José Luis Munuera,la liga,4,0
+233,22.0,Sat,2/2/19,Levante,0.7,0.3,Getafe,18437.0,Estadio Ciudad de Valencia,Adrián Cordero,la liga,0,0
+234,22.0,Sat,2/2/19,Real Sociedad,1.5,1.1,Athletic Bilbao,27073.0,Estadio Municipal de Anoeta,Antonio Matéu Lahoz,la liga,2,1
+235,22.0,Sat,2/2/19,Barcelona,1.8,2.8,Valencia,76789.0,Camp Nou,Alberto Undiano,la liga,2,2
+236,22.0,Sat,2/2/19,Celta Vigo,0.8,0.6,Sevilla,17503.0,Estadio de Balaídos,Ricardo de Burgos,la liga,1,0
+237,22.0,Sun,2/3/19,Villarreal,2.1,1.2,Espanyol,15476.0,Estadio de la Cerámica,Guillermo Cuadra,la liga,2,2
+238,22.0,Sun,2/3/19,Betis,1.0,0.8,Atlético Madrid,50864.0,Estadio Benito Villamarín,David Medié,la liga,1,0
+239,22.0,Sun,2/3/19,Eibar,1.8,0.3,Girona,4419.0,Estadio Municipal de Ipurúa,José González,la liga,3,0
+240,22.0,Sun,2/3/19,Real Madrid,2.4,0.4,Alavés,53132.0,Estadio Santiago Bernabéu,Santiago Jaime,la liga,3,0
+241,22.0,Mon,2/4/19,Rayo Vallecano,1.1,0.7,Leganés,11435.0,Estadio del Rayo Vallecano,Juan Martínez,la liga,1,2
+243,23.0,Fri,2/8/19,Valladolid,0.7,1.0,Villarreal,16842.0,Estadio Municipal José Zorrilla,Alejandro Hernández,la liga,0,0
+244,23.0,Sat,2/9/19,Getafe,3.0,0.7,Celta Vigo,9918.0,Coliseum Alfonso Pérez,Pablo González,la liga,3,1
+245,23.0,Sat,2/9/19,Atlético Madrid,0.9,1.6,Real Madrid,67752.0,Estadio Wanda Metropolitano,Javier Estrada,la liga,1,3
+246,23.0,Sat,2/9/19,Espanyol,2.0,0.7,Rayo Vallecano,22104.0,RCDE Stadium,Eduardo Prieto,la liga,2,1
+247,23.0,Sat,2/9/19,Girona,1.0,0.4,Huesca,10662.0,Estadi Municipal de Montilivi,Adrián Cordero,la liga,0,2
+248,23.0,Sun,2/10/19,Leganés,1.7,0.1,Betis,11381.0,Estadio Municipal de Butarque,Alberola Rojas,la liga,3,0
+249,23.0,Sun,2/10/19,Valencia,0.9,0.6,Real Sociedad,38885.0,Estadio de Mestalla,Mario Melero,la liga,0,0
+250,23.0,Sun,2/10/19,Sevilla,1.2,1.0,Eibar,36343.0,Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias,la liga,2,2
+251,23.0,Sun,2/10/19,Athletic Bilbao,1.5,0.9,Barcelona,47557.0,San Mamés,Carlos del Cerro,la liga,0,0
+252,23.0,Mon,2/11/19,Alavés,1.5,0.3,Levante,13691.0,Estadio de Mendizorroza,Alberto Undiano,la liga,2,0
+254,24.0,Fri,2/15/19,Eibar,1.6,1.1,Getafe,4449.0,Estadio Municipal de Ipurúa,David Medié,la liga,2,2
+255,24.0,Sat,2/16/19,Celta Vigo,1.5,2.5,Levante,15479.0,Estadio de Balaídos,Santiago Jaime,la liga,1,4
+256,24.0,Sat,2/16/19,Rayo Vallecano,0.6,0.2,Atlético Madrid,13880.0,Estadio del Rayo Vallecano,Jesús Gil,la liga,0,1
+257,24.0,Sat,2/16/19,Real Sociedad,1.2,0.4,Leganés,22997.0,Estadio Municipal de Anoeta,José Luis Munuera,la liga,3,0
+258,24.0,Sat,2/16/19,Barcelona,3.6,0.4,Valladolid,67435.0,Camp Nou,Juan Martínez,la liga,1,0
+259,24.0,Sun,2/17/19,Real Madrid,1.3,2.1,Girona,68099.0,Estadio Santiago Bernabéu,Guillermo Cuadra,la liga,1,2
+260,24.0,Sun,2/17/19,Valencia,1.6,0.4,Espanyol,39564.0,Estadio de Mestalla,Ricardo de Burgos,la liga,0,0
+261,24.0,Sun,2/17/19,Villarreal,1.5,1.5,Sevilla,17402.0,Estadio de la Cerámica,José González,la liga,3,0
+262,24.0,Sun,2/17/19,Betis,2.5,0.6,Alavés,43455.0,Estadio Benito Villamarín,Antonio Matéu Lahoz,la liga,1,1
+263,24.0,Mon,2/18/19,Huesca,1.0,1.3,Athletic Bilbao,6729.0,Estadio El Alcoraz,José Sánchez,la liga,0,1
+265,25.0,Fri,2/22/19,Espanyol,0.6,0.9,Huesca,20078.0,RCDE Stadium,Alejandro Hernández,la liga,1,1
+266,25.0,Sat,2/23/19,Getafe,1.4,0.3,Rayo Vallecano,11207.0,Coliseum Alfonso Pérez,Alberola Rojas,la liga,2,1
+267,25.0,Sat,2/23/19,Sevilla,1.2,1.7,Barcelona,40661.0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz,la liga,2,4
+268,25.0,Sat,2/23/19,Alavés,1.3,0.6,Celta Vigo,18882.0,Estadio de Mendizorroza,Carlos del Cerro,la liga,0,0
+269,25.0,Sat,2/23/19,Athletic Bilbao,1.4,0.8,Eibar,43363.0,San Mamés,Mario Melero,la liga,1,0
+270,25.0,Sun,2/24/19,Leganés,1.5,0.6,Valencia,11425.0,Estadio Municipal de Butarque,Javier Estrada,la liga,1,1
+271,25.0,Sun,2/24/19,Atlético Madrid,1.3,0.8,Villarreal,59114.0,Estadio Wanda Metropolitano,Alberto Undiano,la liga,2,0
+272,25.0,Sun,2/24/19,Valladolid,0.6,0.7,Betis,20125.0,Estadio Municipal José Zorrilla,Pablo González,la liga,0,2
+273,25.0,Sun,2/24/19,Levante,1.5,2.5,Real Madrid,23018.0,Estadio Ciudad de Valencia,Ignacio Iglesias,la liga,1,2
+274,25.0,Mon,2/25/19,Girona,0.7,0.7,Real Sociedad,10170.0,Estadi Municipal de Montilivi,Eduardo Prieto,la liga,0,0
+276,26.0,Fri,3/1/19,Rayo Vallecano,0.8,1.2,Girona,12087.0,Estadio del Rayo Vallecano,Santiago Jaime,la liga,0,2
+277,26.0,Sat,3/2/19,Espanyol,2.9,1.6,Valladolid,20467.0,RCDE Stadium,Adrián Cordero,la liga,3,1
+278,26.0,Sat,3/2/19,Villarreal,1.3,1.3,Alavés,15488.0,Estadio de la Cerámica,José Luis Munuera,la liga,1,2
+279,26.0,Sat,3/2/19,Huesca,0.5,2.0,Sevilla,6818.0,Estadio El Alcoraz,Ricardo de Burgos,la liga,2,1
+280,26.0,Sat,3/2/19,Real Madrid,1.1,1.5,Barcelona,78921.0,Estadio Santiago Bernabéu,Alberto Undiano,la liga,0,1
+281,26.0,Sun,3/3/19,Eibar,2.2,1.0,Celta Vigo,4682.0,Estadio Municipal de Ipurúa,Guillermo Cuadra,la liga,1,0
+282,26.0,Sun,3/3/19,Betis,0.6,1.4,Getafe,46657.0,Estadio Benito Villamarín,Juan Martínez,la liga,1,2
+283,26.0,Sun,3/3/19,Real Sociedad,0.9,2.1,Atlético Madrid,26004.0,Estadio Municipal de Anoeta,José González,la liga,0,2
+284,26.0,Sun,3/3/19,Valencia,1.2,0.3,Athletic Bilbao,39041.0,Estadio de Mestalla,David Medié,la liga,2,0
+285,26.0,Mon,3/4/19,Leganés,1.3,1.4,Levante,9758.0,Estadio Municipal de Butarque,Jesús Gil,la liga,1,0
+287,27.0,Fri,3/8/19,Athletic Bilbao,0.7,0.4,Espanyol,38453.0,San Mamés,Pablo González,la liga,1,1
+288,27.0,Sat,3/9/19,Alavés,1.8,1.9,Eibar,18793.0,Estadio de Mendizorroza,Alberola Rojas,la liga,1,1
+289,27.0,Sat,3/9/19,Atlético Madrid,1.3,0.1,Leganés,58321.0,Estadio Wanda Metropolitano,Antonio Matéu Lahoz,la liga,1,0
+290,27.0,Sat,3/9/19,Barcelona,2.7,0.3,Rayo Vallecano,74158.0,Camp Nou,Mario Melero,la liga,3,1
+291,27.0,Sat,3/9/19,Getafe,1.6,0.8,Huesca,10882.0,Coliseum Alfonso Pérez,Eduardo Prieto,la liga,2,1
+292,27.0,Sun,3/10/19,Celta Vigo,0.4,1.2,Betis,18005.0,Estadio de Balaídos,Javier Estrada,la liga,0,1
+293,27.0,Sun,3/10/19,Girona,1.9,0.9,Valencia,11502.0,Estadi Municipal de Montilivi,Carlos del Cerro,la liga,2,3
+294,27.0,Sun,3/10/19,Sevilla,2.2,1.1,Real Sociedad,35813.0,Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias,la liga,5,2
+295,27.0,Sun,3/10/19,Levante,1.0,0.8,Villarreal,20149.0,Estadio Ciudad de Valencia,José Sánchez,la liga,0,2
+296,27.0,Sun,3/10/19,Valladolid,2.2,2.8,Real Madrid,21914.0,Estadio Municipal José Zorrilla,Jesús Gil,la liga,1,4
+298,28.0,Fri,3/15/19,Real Sociedad,2.0,0.7,Levante,20605.0,Estadio Municipal de Anoeta,Adrián Cordero,la liga,1,1
+299,28.0,Sat,3/16/19,Huesca,1.4,2.0,Alavés,6811.0,Estadio El Alcoraz,Alberto Undiano,la liga,1,3
+300,28.0,Sat,3/16/19,Real Madrid,2.3,0.4,Celta Vigo,65054.0,Estadio Santiago Bernabéu,Juan Martínez,la liga,2,0
+301,28.0,Sat,3/16/19,Athletic Bilbao,1.1,0.5,Atlético Madrid,39659.0,San Mamés,Santiago Jaime,la liga,2,0
+302,28.0,Sat,3/16/19,Leganés,0.5,1.3,Girona,9873.0,Estadio Municipal de Butarque,José Luis Munuera,la liga,0,2
+303,28.0,Sun,3/17/19,Eibar,1.4,1.9,Valladolid,4508.0,Estadio Municipal de Ipurúa,David Medié,la liga,1,2
+304,28.0,Sun,3/17/19,Espanyol,0.7,1.2,Sevilla,20219.0,RCDE Stadium,Guillermo Cuadra,la liga,0,1
+305,28.0,Sun,3/17/19,Villarreal,2.4,0.2,Rayo Vallecano,17117.0,Estadio de la Cerámica,José González,la liga,3,1
+306,28.0,Sun,3/17/19,Valencia,0.5,0.3,Getafe,41778.0,Estadio de Mestalla,José Sánchez,la liga,0,0
+307,28.0,Sun,3/17/19,Betis,1.0,3.0,Barcelona,54172.0,Estadio Benito Villamarín,Ricardo de Burgos,la liga,1,4
+309,29.0,Fri,3/29/19,Girona,0.3,0.6,Athletic Bilbao,10652.0,Estadi Municipal de Montilivi,José Sánchez,la liga,1,2
+310,29.0,Sat,3/30/19,Getafe,0.6,1.1,Leganés,12705.0,Coliseum Alfonso Pérez,Pablo González,la liga,0,2
+311,29.0,Sat,3/30/19,Barcelona,1.1,0.2,Espanyol,92795.0,Camp Nou,Carlos del Cerro,la liga,2,0
+312,29.0,Sat,3/30/19,Celta Vigo,1.5,2.1,Villarreal,22315.0,Estadio de Balaídos,Jesús Gil,la liga,3,2
+313,29.0,Sat,3/30/19,Alavés,0.8,1.5,Atlético Madrid,19117.0,Estadio de Mendizorroza,Mario Melero,la liga,0,4
+314,29.0,Sun,3/31/19,Levante,0.7,1.9,Eibar,16179.0,Estadio Ciudad de Valencia,Eduardo Prieto,la liga,2,2
+315,29.0,Sun,3/31/19,Rayo Vallecano,2.0,0.6,Betis,12310.0,Estadio del Rayo Vallecano,Antonio Matéu Lahoz,la liga,1,1
+316,29.0,Sun,3/31/19,Sevilla,1.0,0.9,Valencia,38450.0,Estadio Ramón Sánchez Pizjuán,José González,la liga,0,1
+317,29.0,Sun,3/31/19,Valladolid,1.2,0.5,Real Sociedad,18775.0,Estadio Municipal José Zorrilla,Alberola Rojas,la liga,1,1
+318,29.0,Sun,3/31/19,Real Madrid,3.7,1.5,Huesca,49269.0,Estadio Santiago Bernabéu,Javier Estrada,la liga,3,2
+320,30.0,Tue,4/2/19,Atlético Madrid,2.5,0.3,Girona,40863.0,Estadio Wanda Metropolitano,Ignacio Iglesias,la liga,2,0
+321,30.0,Tue,4/2/19,Espanyol,1.5,1.1,Getafe,16322.0,RCDE Stadium,Ricardo de Burgos,la liga,1,1
+322,30.0,Tue,4/2/19,Villarreal,2.7,2.4,Barcelona,19515.0,Estadio de la Cerámica,Alejandro Hernández,la liga,4,4
+323,30.0,Wed,4/3/19,Athletic Bilbao,1.5,1.2,Levante,36450.0,San Mamés,José Luis Munuera,la liga,3,2
+324,30.0,Wed,4/3/19,Eibar,1.3,0.8,Rayo Vallecano,3940.0,Estadio Municipal de Ipurúa,Alberto Undiano,la liga,2,1
+325,30.0,Wed,4/3/19,Huesca,2.6,1.4,Celta Vigo,6552.0,Estadio El Alcoraz,Adrián Cordero,la liga,3,3
+326,30.0,Wed,4/3/19,Valencia,1.2,0.7,Real Madrid,44274.0,Estadio de Mestalla,Santiago Jaime,la liga,2,1
+327,30.0,Thu,4/4/19,Sevilla,1.5,0.4,Alavés,33212.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,la liga,2,0
+328,30.0,Thu,4/4/19,Leganés,1.7,0.9,Valladolid,10185.0,Estadio Municipal de Butarque,Guillermo Cuadra,la liga,1,0
+329,30.0,Thu,4/4/19,Real Sociedad,2.1,1.1,Betis,16417.0,Estadio Municipal de Anoeta,David Medié,la liga,2,1
+331,31.0,Sat,4/6/19,Girona,1.7,0.4,Espanyol,11463.0,Estadi Municipal de Montilivi,Eduardo Prieto,la liga,1,2
+332,31.0,Sat,4/6/19,Real Madrid,1.4,0.5,Eibar,50284.0,Estadio Santiago Bernabéu,Pablo González,la liga,2,1
+333,31.0,Sat,4/6/19,Rayo Vallecano,1.8,2.2,Valencia,11320.0,Estadio del Rayo Vallecano,Alberola Rojas,la liga,2,0
+334,31.0,Sat,4/6/19,Barcelona,2.2,0.5,Atlético Madrid,92453.0,Camp Nou,Jesús Gil,la liga,2,0
+335,31.0,Sun,4/7/19,Alavés,1.0,0.7,Leganés,16783.0,Estadio de Mendizorroza,Antonio Matéu Lahoz,la liga,1,1
+336,31.0,Sun,4/7/19,Getafe,0.8,0.6,Athletic Bilbao,11617.0,Coliseum Alfonso Pérez,José González,la liga,1,0
+337,31.0,Sun,4/7/19,Valladolid,0.8,1.6,Sevilla,17989.0,Estadio Municipal José Zorrilla,José Sánchez,la liga,0,2
+338,31.0,Sun,4/7/19,Levante,2.6,1.0,Huesca,19824.0,Estadio Ciudad de Valencia,Carlos del Cerro,la liga,2,2
+339,31.0,Sun,4/7/19,Celta Vigo,2.7,1.3,Real Sociedad,20519.0,Estadio de Balaídos,Mario Melero,la liga,3,1
+340,31.0,Sun,4/7/19,Betis,2.5,1.4,Villarreal,28475.0,Estadio Benito Villamarín,Javier Estrada,la liga,2,1
+342,32.0,Sat,4/13/19,Espanyol,0.4,0.9,Alavés,18143.0,RCDE Stadium,Ignacio Iglesias,la liga,2,1
+343,32.0,Sat,4/13/19,Huesca,0.3,1.0,Barcelona,7332.0,Estadio El Alcoraz,Guillermo Cuadra,la liga,0,0
+344,32.0,Sat,4/13/19,Atlético Madrid,1.3,0.7,Celta Vigo,55269.0,Estadio Wanda Metropolitano,Ricardo de Burgos,la liga,2,0
+345,32.0,Sat,4/13/19,Sevilla,1.7,1.1,Betis,42855.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,la liga,3,2
+346,32.0,Sun,4/14/19,Valladolid,1.2,1.2,Getafe,16909.0,Estadio Municipal José Zorrilla,José Luis Munuera,la liga,2,2
+347,32.0,Sun,4/14/19,Athletic Bilbao,2.2,0.9,Rayo Vallecano,38732.0,San Mamés,Juan Martínez,la liga,3,2
+348,32.0,Sun,4/14/19,Real Sociedad,0.7,1.1,Eibar,24308.0,Estadio Municipal de Anoeta,Santiago Jaime,la liga,1,1
+349,32.0,Sun,4/14/19,Girona,0.7,1.3,Villarreal,11535.0,Estadi Municipal de Montilivi,Adrián Cordero,la liga,0,1
+350,32.0,Sun,4/14/19,Valencia,2.6,0.2,Levante,42120.0,Estadio de Mestalla,Alberto Undiano,la liga,3,1
+351,32.0,Mon,4/15/19,Leganés,0.4,1.1,Real Madrid,12118.0,Estadio Municipal de Butarque,David Medié,la liga,1,1
+353,33.0,Fri,4/19/19,Alavés,1.5,1.4,Valladolid,13568.0,Estadio de Mendizorroza,Javier Estrada,la liga,2,2
+354,33.0,Sat,4/20/19,Celta Vigo,1.2,0.6,Girona,20546.0,Estadio de Balaídos,Carlos del Cerro,la liga,2,1
+355,33.0,Sat,4/20/19,Eibar,0.5,1.4,Atlético Madrid,4750.0,Estadio Municipal de Ipurúa,Alberola Rojas,la liga,0,1
+356,33.0,Sat,4/20/19,Rayo Vallecano,1.1,0.5,Huesca,10542.0,Estadio del Rayo Vallecano,José González,la liga,0,0
+357,33.0,Sat,4/20/19,Barcelona,1.1,1.0,Real Sociedad,75470.0,Camp Nou,Pablo González,la liga,2,1
+358,33.0,Sun,4/21/19,Levante,1.8,1.3,Espanyol,16876.0,Estadio Ciudad de Valencia,Jesús Gil,la liga,2,2
+359,33.0,Sun,4/21/19,Getafe,2.4,0.5,Sevilla,11495.0,Coliseum Alfonso Pérez,Antonio Matéu Lahoz,la liga,3,0
+360,33.0,Sun,4/21/19,Real Madrid,1.3,0.4,Athletic Bilbao,59815.0,Estadio Santiago Bernabéu,Mario Melero,la liga,3,0
+361,33.0,Sun,4/21/19,Villarreal,1.2,1.1,Leganés,14753.0,Estadio de la Cerámica,Eduardo Prieto,la liga,2,1
+362,33.0,Sun,4/21/19,Betis,1.8,0.4,Valencia,42508.0,Estadio Benito Villamarín,José Sánchez,la liga,1,2
+364,34.0,Tue,4/23/19,Huesca,1.3,0.6,Eibar,6157.0,Estadio El Alcoraz,David Medié,la liga,2,0
+365,34.0,Tue,4/23/19,Valladolid,0.8,0.4,Girona,19106.0,Estadio Municipal José Zorrilla,Juan Martínez,la liga,1,0
+366,34.0,Tue,4/23/19,Alavés,0.3,2.6,Barcelona,18735.0,Estadio de Mendizorroza,Adrián Cordero,la liga,0,2
+367,34.0,Wed,4/24/19,Atlético Madrid,1.2,1.6,Valencia,43531.0,Estadio Wanda Metropolitano,Alejandro Hernández,la liga,3,2
+368,34.0,Wed,4/24/19,Espanyol,1.5,2.3,Celta Vigo,15680.0,RCDE Stadium,Alberto Undiano,la liga,1,1
+369,34.0,Wed,4/24/19,Leganés,0.4,0.4,Athletic Bilbao,4155.0,Estadio Municipal de Butarque,Ignacio Iglesias,la liga,0,1
+370,34.0,Wed,4/24/19,Levante,1.5,0.2,Betis,20394.0,Estadio Ciudad de Valencia,Santiago Jaime,la liga,4,0
+371,34.0,Thu,4/25/19,Sevilla,3.5,0.6,Rayo Vallecano,31636.0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra,la liga,5,0
+372,34.0,Thu,4/25/19,Real Sociedad,0.8,0.7,Villarreal,20060.0,Estadio Municipal de Anoeta,José Luis Munuera,la liga,0,1
+373,34.0,Thu,4/25/19,Getafe,0.6,1.4,Real Madrid,13135.0,Coliseum Alfonso Pérez,Ricardo de Burgos,la liga,0,0
+375,35.0,Sat,4/27/19,Athletic Bilbao,1.0,1.6,Alavés,40402.0,San Mamés,Jesús Gil,la liga,1,1
+376,35.0,Sat,4/27/19,Atlético Madrid,0.8,0.7,Valladolid,53123.0,Estadio Wanda Metropolitano,Mario Melero,la liga,1,0
+377,35.0,Sat,4/27/19,Leganés,0.4,0.5,Celta Vigo,10324.0,Estadio Municipal de Butarque,Juan Martínez,la liga,0,0
+378,35.0,Sat,4/27/19,Barcelona,2.0,0.9,Levante,91917.0,Camp Nou,Ricardo de Burgos,la liga,1,0
+379,35.0,Sun,4/28/19,Valencia,0.5,1.0,Eibar,35393.0,Estadio de Mestalla,Javier Estrada,la liga,0,1
+380,35.0,Sun,4/28/19,Girona,1.6,0.5,Sevilla,11281.0,Estadi Municipal de Montilivi,José González,la liga,1,0
+381,35.0,Sun,4/28/19,Real Sociedad,2.1,0.8,Getafe,19386.0,Estadio Municipal de Anoeta,Eduardo Prieto,la liga,2,1
+382,35.0,Sun,4/28/19,Villarreal,0.8,1.7,Huesca,17901.0,Estadio de la Cerámica,José Sánchez,la liga,1,1
+383,35.0,Sun,4/28/19,Rayo Vallecano,1.4,0.5,Real Madrid,13273.0,Estadio del Rayo Vallecano,Pablo González,la liga,1,0
+384,35.0,Mon,4/29/19,Betis,1.3,1.2,Espanyol,30561.0,Estadio Benito Villamarín,Carlos del Cerro,la liga,1,1
+386,36.0,Fri,5/3/19,Sevilla,0.3,1.4,Leganés,32797.0,Estadio Ramón Sánchez Pizjuán,Alberto Undiano,la liga,0,3
+387,36.0,Sat,5/4/19,Levante,1.8,1.4,Rayo Vallecano,19868.0,Estadio Ciudad de Valencia,Javier Estrada,la liga,4,1
+388,36.0,Sat,5/4/19,Espanyol,1.3,1.1,Atlético Madrid,20207.0,RCDE Stadium,José Luis Munuera,la liga,3,0
+389,36.0,Sat,5/4/19,Alavés,0.8,0.7,Real Sociedad,18509.0,Estadio de Mendizorroza,Alberola Rojas,la liga,0,1
+390,36.0,Sat,5/4/19,Celta Vigo,1.9,0.5,Barcelona,22519.0,Estadio de Balaídos,José Sánchez,la liga,2,0
+391,36.0,Sun,5/5/19,Getafe,1.8,0.6,Girona,10615.0,Coliseum Alfonso Pérez,Alejandro Hernández,la liga,2,0
+392,36.0,Sun,5/5/19,Eibar,1.1,2.2,Betis,4725.0,Estadio Municipal de Ipurúa,Ignacio Iglesias,la liga,1,0
+393,36.0,Sun,5/5/19,Real Madrid,2.7,0.9,Villarreal,46294.0,Estadio Santiago Bernabéu,Jesús Gil,la liga,3,2
+394,36.0,Sun,5/5/19,Valladolid,0.5,1.2,Athletic Bilbao,21151.0,Estadio Municipal José Zorrilla,Antonio Matéu Lahoz,la liga,1,0
+395,36.0,Sun,5/5/19,Huesca,2.5,2.4,Valencia,6378.0,Estadio El Alcoraz,Carlos del Cerro,la liga,2,6
+397,37.0,Sun,5/12/19,Girona,1.7,0.6,Levante,13342.0,Estadi Municipal de Montilivi,Carlos del Cerro,la liga,1,2
+398,37.0,Sun,5/12/19,Betis,2.4,1.3,Huesca,28078.0,Estadio Benito Villamarín,Adrián Cordero,la liga,2,1
+399,37.0,Sun,5/12/19,Atlético Madrid,1.3,0.8,Sevilla,60234.0,Estadio Wanda Metropolitano,Ricardo de Burgos,la liga,1,1
+400,37.0,Sun,5/12/19,Athletic Bilbao,2.4,1.0,Celta Vigo,42494.0,San Mamés,Javier Estrada,la liga,3,1
+401,37.0,Sun,5/12/19,Valencia,1.2,0.8,Alavés,37744.0,Estadio de Mestalla,Guillermo Cuadra,la liga,3,1
+402,37.0,Sun,5/12/19,Leganés,0.9,2.6,Espanyol,10597.0,Estadio Municipal de Butarque,Mario Melero,la liga,0,2
+403,37.0,Sun,5/12/19,Rayo Vallecano,0.9,1.3,Valladolid,10040.0,Estadio del Rayo Vallecano,José Sánchez,la liga,1,2
+404,37.0,Sun,5/12/19,Real Sociedad,2.1,0.6,Real Madrid,27322.0,Estadio Municipal de Anoeta,Juan Martínez,la liga,3,1
+405,37.0,Sun,5/12/19,Villarreal,1.4,0.3,Eibar,17901.0,Estadio de la Cerámica,Pablo González,la liga,1,0
+406,37.0,Sun,5/12/19,Barcelona,2.4,1.1,Getafe,57088.0,Camp Nou,José González,la liga,2,0
+408,38.0,Sat,5/18/19,Levante,2.4,1.5,Atlético Madrid,20575.0,Estadio Ciudad de Valencia,Ignacio Iglesias,la liga,2,2
+409,38.0,Sat,5/18/19,Getafe,1.3,0.9,Villarreal,13579.0,Coliseum Alfonso Pérez,Javier Estrada,la liga,2,2
+410,38.0,Sat,5/18/19,Valladolid,0.9,1.8,Valencia,23455.0,Estadio Municipal José Zorrilla,Ricardo de Burgos,la liga,0,2
+411,38.0,Sat,5/18/19,Espanyol,1.1,0.5,Real Sociedad,26568.0,RCDE Stadium,Santiago Jaime,la liga,2,0
+412,38.0,Sat,5/18/19,Sevilla,1.8,0.7,Athletic Bilbao,28060.0,Estadio Ramón Sánchez Pizjuán,José Sánchez,la liga,2,0
+413,38.0,Sat,5/18/19,Alavés,1.2,0.9,Girona,11549.0,Estadio de Mendizorroza,Mario Melero,la liga,2,1
+414,38.0,Sat,5/18/19,Celta Vigo,2.0,1.1,Rayo Vallecano,21607.0,Estadio de Balaídos,Antonio Matéu Lahoz,la liga,2,2
+415,38.0,Sat,5/18/19,Huesca,0.9,0.6,Leganés,5575.0,Estadio El Alcoraz,Alberola Rojas,la liga,2,1
+416,38.0,Sun,5/19/19,Real Madrid,0.5,1.4,Betis,56900.0,Estadio Santiago Bernabéu,Alberto Undiano,la liga,0,2
+417,38.0,Sun,5/19/19,Eibar,1.4,1.0,Barcelona,5145.0,Estadio Municipal de Ipurúa,José Luis Munuera,la liga,2,2

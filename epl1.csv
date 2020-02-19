@@ -1,0 +1,415 @@
+﻿Wk,Day,Date,Home,xG,Score,xG,Away,Attendance,Venue,Referee
+1,Fri,8/10/18,Manchester Utd,1.6,2–1,1.1,Leicester City,74439,Old Trafford,Andre Marriner
+1,Sat,8/11/18,Newcastle Utd,0.9,1–2,1.9,Tottenham,51749,St. James' Park,Martin Atkinson
+1,Sat,8/11/18,Huddersfield,0.5,0–3,1.9,Chelsea,24121,The John Smith's Stadium,Chris Kavanagh
+1,Sat,8/11/18,Fulham,0.6,0–2,0.9,Crystal Palace,24821,Craven Cottage,Mike Dean
+1,Sat,8/11/18,Watford,1.6,2–0,0.3,Brighton,20051,Vicarage Road Stadium,Jonathan Moss
+1,Sat,8/11/18,Bournemouth,2.3,2–0,1.5,Cardiff City,10353,Vitality Stadium,Kevin Friend
+1,Sat,8/11/18,Wolves,0.7,2–2,0.8,Everton,31231,Molineux Stadium,Craig Pawson
+1,Sun,8/12/18,Southampton,1,0–0,1.2,Burnley,30784,St. Mary's Stadium,Graham Scott
+1,Sun,8/12/18,Liverpool,3.7,4–0,0.8,West Ham,53235,Anfield,Anthony Taylor
+1,Sun,8/12/18,Arsenal,0.4,0–2,1.8,Manchester City,59934,Emirates Stadium,Michael Oliver
+2,Sat,8/18/18,Cardiff City,1,0–0,1.5,Newcastle Utd,30720,Cardiff City Stadium,Craig Pawson
+2,Sat,8/18/18,West Ham,1.2,1–2,1.6,Bournemouth,56888,London Stadium,Stuart Attwell
+2,Sat,8/18/18,Everton,1.5,2–1,1.8,Southampton,38601,Goodison Park,Lee Mason
+2,Sat,8/18/18,Leicester City,0.2,2–0,1.2,Wolves,32043,King Power Stadium,Mike Dean
+2,Sat,8/18/18,Tottenham,2.9,3–1,1.3,Fulham,58297,Wembley Stadium,Anthony Taylor
+2,Sat,8/18/18,Chelsea,2.3,3–2,2,Arsenal,40491,Stamford Bridge,Martin Atkinson
+2,Sun,8/19/18,Burnley,0.4,1–3,1.6,Watford,18822,Turf Moor,Paul Tierney
+2,Sun,8/19/18,Manchester City,3.3,6–1,0.8,Huddersfield,54021,Etihad Stadium,Andre Marriner
+2,Sun,8/19/18,Brighton,1.8,3–2,1.4,Manchester Utd,30592,The American Express Community Stadium,Kevin Friend
+2,Mon,8/20/18,Crystal Palace,0.5,0–2,2.5,Liverpool,25750,Selhurst Park,Michael Oliver
+3,Sat,8/25/18,Wolves,1,1–1,1.9,Manchester City,31322,Molineux Stadium,Martin Atkinson
+3,Sat,8/25/18,Arsenal,1.7,3–1,1.5,West Ham,59830,Emirates Stadium,Graham Scott
+3,Sat,8/25/18,Huddersfield,0.3,0–0,1.3,Cardiff City,21193,The John Smith's Stadium,Michael Oliver
+3,Sat,8/25/18,Southampton,0.6,1–2,0.6,Leicester City,29925,St. Mary's Stadium,Jonathan Moss
+3,Sat,8/25/18,Bournemouth,2.7,2–2,0.5,Everton,10654,Vitality Stadium,Lee Probert
+3,Sat,8/25/18,Liverpool,1.5,1–0,0.4,Brighton,53294,Anfield,Chris Kavanagh
+3,Sun,8/26/18,Watford,1,2–1,1.4,Crystal Palace,20014,Vicarage Road Stadium,Anthony Taylor
+3,Sun,8/26/18,Newcastle Utd,0.3,1–2,1.5,Chelsea,51791,St. James' Park,Paul Tierney
+3,Sun,8/26/18,Fulham,2,4–2,1.5,Burnley,23438,Craven Cottage,David Coote
+3,Mon,8/27/18,Manchester Utd,2.9,0–3,1.3,Tottenham,74400,Old Trafford,Craig Pawson
+4,Sat,9/1/18,Leicester City,1,1–2,1,Liverpool,32149,King Power Stadium,Paul Tierney
+4,Sat,9/1/18,West Ham,1.2,0–1,1.5,Wolves,56947,London Stadium,Chris Kavanagh
+4,Sat,9/1/18,Everton,0.8,1–1,0.7,Huddersfield,38767,Goodison Park,Stuart Attwell
+4,Sat,9/1/18,Chelsea,1.4,2–0,0.9,Bournemouth,40178,Stamford Bridge,Lee Mason
+4,Sat,9/1/18,Brighton,3.2,2–2,1.4,Fulham,30526,The American Express Community Stadium,Lee Probert
+4,Sat,9/1/18,Crystal Palace,1.9,0–2,2.5,Southampton,25495,Selhurst Park,Martin Atkinson
+4,Sat,9/1/18,Manchester City,2.4,2–1,0.5,Newcastle Utd,53946,Etihad Stadium,Kevin Friend
+4,Sun,9/2/18,Cardiff City,1.6,2–3,1.8,Arsenal,32316,Cardiff City Stadium,Anthony Taylor
+4,Sun,9/2/18,Watford,0.6,2–1,0.6,Tottenham,20141,Vicarage Road Stadium,Andre Marriner
+4,Sun,9/2/18,Burnley,0.8,0–2,3.7,Manchester Utd,21525,Turf Moor,Jonathan Moss
+5,Sat,9/15/18,Tottenham,0.7,1–2,2.4,Liverpool,80188,Wembley Stadium,Michael Oliver
+5,Sat,9/15/18,Bournemouth,1.7,4–2,2.1,Leicester City,10543,Vitality Stadium,Craig Pawson
+5,Sat,9/15/18,Newcastle Utd,0.3,1–2,0.7,Arsenal,52165,St. James' Park,Lee Probert
+5,Sat,9/15/18,Huddersfield,0.9,0–1,1.1,Crystal Palace,23696,The John Smith's Stadium,Lee Mason
+5,Sat,9/15/18,Manchester City,4.5,3–0,0.4,Fulham,53307,Etihad Stadium,Stuart Attwell
+5,Sat,9/15/18,Chelsea,2.5,4–1,0.8,Cardiff City,40499,Stamford Bridge,Jonathan Moss
+5,Sat,9/15/18,Watford,1.1,1–2,1.3,Manchester Utd,20537,Vicarage Road Stadium,Mike Dean
+5,Sun,9/16/18,Wolves,3.1,1–0,0.3,Burnley,30406,Molineux Stadium,Andre Marriner
+5,Sun,9/16/18,Everton,1.4,1–3,1.5,West Ham,39161,Goodison Park,Martin Atkinson
+5,Mon,9/17/18,Southampton,1.7,2–2,2,Brighton,28811,St. Mary's Stadium,Anthony Taylor
+6,Sat,9/22/18,Fulham,1.6,1–1,1.7,Watford,23418,Craven Cottage,Martin Atkinson
+6,Sat,9/22/18,Cardiff City,0.1,0–5,2.4,Manchester City,32321,Cardiff City Stadium,Michael Oliver
+6,Sat,9/22/18,Leicester City,1.4,3–1,0.7,Huddersfield,31676,King Power Stadium,David Coote
+6,Sat,9/22/18,Crystal Palace,1.5,0–0,0.5,Newcastle Utd,25679,Selhurst Park,Andre Marriner
+6,Sat,9/22/18,Burnley,1.8,4–0,1.2,Bournemouth,18636,Turf Moor,Anthony Taylor
+6,Sat,9/22/18,Liverpool,2.4,3–0,0.3,Southampton,50965,Anfield,Paul Tierney
+6,Sat,9/22/18,Manchester Utd,0.8,1–1,0.8,Wolves,74489,Old Trafford,Kevin Friend
+6,Sat,9/22/18,Brighton,0.8,1–2,2.1,Tottenham,30531,The American Express Community Stadium,Chris Kavanagh
+6,Sun,9/23/18,West Ham,0.8,0–0,1.6,Chelsea,56875,London Stadium,Mike Dean
+6,Sun,9/23/18,Arsenal,0.9,2–0,1,Everton,59964,Emirates Stadium,Jonathan Moss
+7,Sat,9/29/18,West Ham,1.1,3–1,0.5,Manchester Utd,56938,London Stadium,Michael Oliver
+7,Sat,9/29/18,Wolves,1.2,2–0,1.1,Southampton,31147,Molineux Stadium,Stuart Attwell
+7,Sat,9/29/18,Newcastle Utd,0.3,0–2,1.4,Leicester City,51523,St. James' Park,Simon Hooper
+7,Sat,9/29/18,Arsenal,1.4,2–0,1.9,Watford,60019,Emirates Stadium,Anthony Taylor
+7,Sat,9/29/18,Huddersfield,0.4,0–2,2,Tottenham,23885,The John Smith's Stadium,Craig Pawson
+7,Sat,9/29/18,Everton,2.2,3–0,0.7,Fulham,38788,Goodison Park,Roger East
+7,Sat,9/29/18,Manchester City,2.7,2–0,0.4,Brighton,54152,Etihad Stadium,Lee Mason
+7,Sat,9/29/18,Chelsea,1.5,1–1,1.3,Liverpool,40625,Stamford Bridge,Andre Marriner
+7,Sun,9/30/18,Cardiff City,1.3,1–2,0.3,Burnley,30411,Cardiff City Stadium,Martin Atkinson
+7,Mon,10/1/18,Bournemouth,1.8,2–1,0.5,Crystal Palace,10199,Vitality Stadium,Mike Dean
+8,Fri,10/5/18,Brighton,1.1,1–0,1.2,West Ham,30544,The American Express Community Stadium,Kevin Friend
+8,Sat,10/6/18,Watford,0.8,0–4,2.2,Bournemouth,20139,Vicarage Road Stadium,Jonathan Moss
+8,Sat,10/6/18,Burnley,0.5,1–1,1.4,Huddersfield,20533,Turf Moor,Chris Kavanagh
+8,Sat,10/6/18,Tottenham,1.9,1–0,1,Cardiff City,43268,Tottenham Hotspur Stadium,Mike Dean
+8,Sat,10/6/18,Crystal Palace,0.9,0–1,0.9,Wolves,25715,Selhurst Park,Michael Oliver
+8,Sat,10/6/18,Leicester City,0.9,1–2,1.1,Everton,32007,King Power Stadium,Andre Marriner
+8,Sat,10/6/18,Manchester Utd,2,3–2,1.8,Newcastle Utd,74519,Old Trafford,Anthony Taylor
+8,Sun,10/7/18,Fulham,1.3,1–5,1.1,Arsenal,25401,Craven Cottage,Paul Tierney
+8,Sun,10/7/18,Southampton,1.1,0–3,2.9,Chelsea,27077,St. Mary's Stadium,Craig Pawson
+8,Sun,10/7/18,Liverpool,0.6,0–0,1,Manchester City,52117,Anfield,Martin Atkinson
+9,Sat,10/20/18,Chelsea,1.8,2–2,0.8,Manchester Utd,40721,Stamford Bridge,Mike Dean
+9,Sat,10/20/18,Newcastle Utd,1.7,0–1,0.6,Brighton,50329,St. James' Park,Andre Marriner
+9,Sat,10/20/18,Wolves,0.7,0–2,0.9,Watford,31144,Molineux Stadium,Lee Mason
+9,Sat,10/20/18,West Ham,1.2,0–1,1.1,Tottenham,56921,London Stadium,Martin Atkinson
+9,Sat,10/20/18,Manchester City,3.6,5–0,0.4,Burnley,54094,Etihad Stadium,Jonathan Moss
+9,Sat,10/20/18,Bournemouth,0.4,0–0,0.4,Southampton,10986,Vitality Stadium,Lee Probert
+9,Sat,10/20/18,Cardiff City,2,4–2,0.7,Fulham,29681,Cardiff City Stadium,Kevin Friend
+9,Sat,10/20/18,Huddersfield,0.8,0–1,0.7,Liverpool,24263,The John Smith's Stadium,Michael Oliver
+9,Sun,10/21/18,Everton,1.7,2–0,1.2,Crystal Palace,38668,Goodison Park,Anthony Taylor
+9,Mon,10/22/18,Arsenal,2.9,3–1,0.7,Leicester City,59886,Emirates Stadium,Chris Kavanagh
+10,Sat,10/27/18,Southampton,1.3,0–0,0.4,Newcastle Utd,30736,St. Mary's Stadium,Chris Kavanagh
+10,Sat,10/27/18,Fulham,0.5,0–3,2,Bournemouth,25071,Craven Cottage,Andre Marriner
+10,Sat,10/27/18,Brighton,0.5,1–0,1.3,Wolves,30654,The American Express Community Stadium,Anthony Taylor
+10,Sat,10/27/18,Watford,1.8,3–0,0.6,Huddersfield,20457,Vicarage Road Stadium,Mike Dean
+10,Sat,10/27/18,Liverpool,2,4–1,0.5,Cardiff City,53373,Anfield,Stuart Attwell
+10,Sat,10/27/18,Leicester City,1.7,1–1,1.4,West Ham,31848,King Power Stadium,Michael Oliver
+10,Sun,10/28/18,Crystal Palace,2.2,2–2,0.6,Arsenal,25718,Selhurst Park,Martin Atkinson
+10,Sun,10/28/18,Burnley,0.6,0–4,2.9,Chelsea,21430,Turf Moor,Craig Pawson
+10,Sun,10/28/18,Manchester Utd,1.9,2–1,1.8,Everton,74525,Old Trafford,Jonathan Moss
+10,Mon,10/29/18,Tottenham,0.6,0–1,1.1,Manchester City,56854,Tottenham Hotspur Stadium,Kevin Friend
+11,Sat,11/3/18,Bournemouth,3.1,1–2,3,Manchester Utd,10792,Vitality Stadium,Paul Tierney
+11,Sat,11/3/18,Newcastle Utd,0.8,1–0,1.9,Watford,49157,St. James' Park,Craig Pawson
+11,Sat,11/3/18,Cardiff City,0.8,0–1,1.6,Leicester City,30877,Cardiff City Stadium,Lee Probert
+11,Sat,11/3/18,Everton,2.3,3–1,0.3,Brighton,38966,Goodison Park,David Coote
+11,Sat,11/3/18,West Ham,2.6,4–2,0.6,Burnley,56862,London Stadium,Roger East
+11,Sat,11/3/18,Arsenal,1.5,1–1,1.6,Liverpool,59993,Emirates Stadium,Andre Marriner
+11,Sat,11/3/18,Wolves,2.5,2–3,1.2,Tottenham,31185,Molineux Stadium,Mike Dean
+11,Sun,11/4/18,Manchester City,2.3,6–1,1.9,Southampton,53916,Etihad Stadium,Lee Mason
+11,Sun,11/4/18,Chelsea,1.7,3–1,0.6,Crystal Palace,40407,Stamford Bridge,Michael Oliver
+11,Mon,11/5/18,Huddersfield,0.7,1–0,0.6,Fulham,17082,The John Smith's Stadium,Anthony Taylor
+12,Sat,11/10/18,Cardiff City,1.8,2–1,0.6,Brighton,29402,Cardiff City Stadium,Martin Atkinson
+12,Sat,11/10/18,Southampton,1,1–1,1.2,Watford,28153,St. Mary's Stadium,Simon Hooper
+12,Sat,11/10/18,Leicester City,1.5,0–0,0.5,Burnley,32184,King Power Stadium,Mike Dean
+12,Sat,11/10/18,Huddersfield,1.3,1–1,2,West Ham,24069,The John Smith's Stadium,Chris Kavanagh
+12,Sat,11/10/18,Newcastle Utd,1.8,2–1,1.5,Bournemouth,49266,St. James' Park,Lee Probert
+12,Sat,11/10/18,Crystal Palace,0.7,0–1,0.9,Tottenham,25685,Selhurst Park,Jonathan Moss
+12,Sun,11/11/18,Liverpool,2.2,2–0,0.6,Fulham,53128,Anfield,Paul Tierney
+12,Sun,11/11/18,Chelsea,1,0–0,0.3,Everton,40345,Stamford Bridge,Kevin Friend
+12,Sun,11/11/18,Manchester City,1.6,3–1,1,Manchester Utd,54316,Etihad Stadium,Anthony Taylor
+12,Sun,11/11/18,Arsenal,1.2,1–1,1.9,Wolves,60030,Emirates Stadium,Stuart Attwell
+,,,,,,,,,,
+13,Sat,11/24/18,West Ham,0.9,0–4,2.4,Manchester City,56886,London Stadium,Andre Marriner
+13,Sat,11/24/18,Manchester Utd,1.2,0–0,1.3,Crystal Palace,74516,Old Trafford,Lee Mason
+13,Sat,11/24/18,Fulham,1.4,3–2,1.8,Southampton,24603,Craven Cottage,Michael Oliver
+13,Sat,11/24/18,Everton,1.9,1–0,0.5,Cardiff City,39139,Goodison Park,Paul Tierney
+13,Sat,11/24/18,Brighton,1.1,1–1,1,Leicester City,30553,The American Express Community Stadium,Chris Kavanagh
+13,Sat,11/24/18,Watford,0.3,0–3,1,Liverpool,20540,Vicarage Road Stadium,Jonathan Moss
+13,Sat,11/24/18,Tottenham,2.6,3–1,1.1,Chelsea,55465,Tottenham Hotspur Stadium,Martin Atkinson
+13,Sun,11/25/18,Bournemouth,0.8,1–2,1.7,Arsenal,10792,Vitality Stadium,Craig Pawson
+13,Sun,11/25/18,Wolves,0.8,0–2,0.7,Huddersfield,30130,Molineux Stadium,Kevin Friend
+13,Mon,11/26/18,Burnley,1.4,1–2,1.7,Newcastle Utd,20628,Turf Moor,Anthony Taylor
+,,,,,,,,,,
+14,Fri,11/30/18,Cardiff City,0.6,2–1,1.1,Wolves,30213,Cardiff City Stadium,Andre Marriner
+14,Sat,12/1/18,Leicester City,1.1,2–0,1,Watford,31353,King Power Stadium,Graham Scott
+14,Sat,12/1/18,Huddersfield,0.5,1–2,1,Brighton,22973,The John Smith's Stadium,Michael Oliver
+14,Sat,12/1/18,Crystal Palace,2.1,2–0,0.6,Burnley,25098,Selhurst Park,Lee Probert
+14,Sat,12/1/18,Manchester City,1.8,3–1,0.5,Bournemouth,54409,Etihad Stadium,Stuart Attwell
+14,Sat,12/1/18,Newcastle Utd,1.1,0–3,1.6,West Ham,51853,St. James' Park,Paul Tierney
+14,Sat,12/1/18,Southampton,0.5,2–2,1.2,Manchester Utd,30187,St. Mary's Stadium,Kevin Friend
+14,Sun,12/2/18,Chelsea,1.4,2–0,0.3,Fulham,40551,Stamford Bridge,Craig Pawson
+14,Sun,12/2/18,Arsenal,2.4,4–2,1.2,Tottenham,59973,Emirates Stadium,Mike Dean
+14,Sun,12/2/18,Liverpool,2.7,1–0,1.2,Everton,51756,Anfield,Chris Kavanagh
+,,,,,,,,,,
+15,Tue,12/4/18,West Ham,1.7,3–1,1.8,Cardiff City,56811,London Stadium,Graham Scott
+15,Tue,12/4/18,Brighton,1.1,3–1,1.6,Crystal Palace,29663,The American Express Community Stadium,Kevin Friend
+15,Tue,12/4/18,Bournemouth,0.8,2–1,2,Huddersfield,9980,Vitality Stadium,Roger East
+15,Tue,12/4/18,Watford,1.4,1–2,2.3,Manchester City,20389,Vicarage Road Stadium,Paul Tierney
+15,Wed,12/5/18,Everton,1.8,1–1,1,Newcastle Utd,39350,Goodison Park,Lee Mason
+15,Wed,12/5/18,Fulham,1.7,1–1,1.8,Leicester City,22881,Craven Cottage,David Coote
+15,Wed,12/5/18,Wolves,1.1,2–1,1.3,Chelsea,31300,Molineux Stadium,Jonathan Moss
+15,Wed,12/5/18,Burnley,1.2,1–3,2.5,Liverpool,21741,Turf Moor,Stuart Attwell
+15,Wed,12/5/18,Manchester Utd,1,2–2,1,Arsenal,74507,Old Trafford,Andre Marriner
+15,Wed,12/5/18,Tottenham,1.7,3–1,2.1,Southampton,33012,Tottenham Hotspur Stadium,Anthony Taylor
+,,,,,,,,,,
+16,Sat,12/8/18,Bournemouth,0.6,0–4,1.6,Liverpool,10752,Vitality Stadium,Lee Mason
+16,Sat,12/8/18,Cardiff City,1.6,1–0,0.7,Southampton,30067,Cardiff City Stadium,Jonathan Moss
+16,Sat,12/8/18,Manchester Utd,2.3,4–1,1.1,Fulham,74523,Old Trafford,Lee Probert
+16,Sat,12/8/18,Arsenal,1.5,1–0,0.4,Huddersfield,59893,Emirates Stadium,Paul Tierney
+16,Sat,12/8/18,West Ham,1.6,3–2,1.1,Crystal Palace,56995,London Stadium,Anthony Taylor
+16,Sat,12/8/18,Burnley,1.6,1–0,0.8,Brighton,18497,Turf Moor,Martin Atkinson
+16,Sat,12/8/18,Chelsea,0.6,2–0,1.3,Manchester City,40571,Stamford Bridge,Michael Oliver
+16,Sat,12/8/18,Leicester City,0.3,0–2,0.5,Tottenham,31957,King Power Stadium,Craig Pawson
+16,Sun,12/9/18,Newcastle Utd,0.4,1–2,1.9,Wolves,50223,St. James' Park,Mike Dean
+16,Mon,12/10/18,Everton,1.5,2–2,1.3,Watford,38400,Goodison Park,Kevin Friend
+,,,,,,,,,,
+17,Sat,12/15/18,Manchester City,1.1,3–1,0.9,Everton,54173,Etihad Stadium,Craig Pawson
+17,Sat,12/15/18,Wolves,2,2–0,0.6,Bournemouth,30997,Molineux Stadium,Simon Hooper
+17,Sat,12/15/18,Tottenham,1.6,1–0,0.3,Burnley,41645,Tottenham Hotspur Stadium,Graham Scott
+17,Sat,12/15/18,Huddersfield,0.8,0–1,1.3,Newcastle Utd,24036,The John Smith's Stadium,Anthony Taylor
+17,Sat,12/15/18,Crystal Palace,0.4,1–0,1,Leicester City,24738,Selhurst Park,Michael Oliver
+17,Sat,12/15/18,Watford,2.2,3–2,0.9,Cardiff City,20032,Vicarage Road Stadium,Andy Madley
+17,Sat,12/15/18,Fulham,1.1,0–2,0.8,West Ham,24081,Craven Cottage,Mike Dean
+17,Sun,12/16/18,Southampton,0.7,3–2,1.5,Arsenal,29497,St. Mary's Stadium,Chris Kavanagh
+17,Sun,12/16/18,Brighton,0.4,1–2,1.5,Chelsea,30645,The American Express Community Stadium,Stuart Attwell
+17,Sun,12/16/18,Liverpool,2.5,3–1,0.5,Manchester Utd,52908,Anfield,Martin Atkinson
+,,,,,,,,,,
+18,Fri,12/21/18,Wolves,1,0–2,1.6,Liverpool,31358,Molineux Stadium,Craig Pawson
+18,Sat,12/22/18,Arsenal,1.2,3–1,0.9,Burnley,59493,Emirates Stadium,Kevin Friend
+18,Sat,12/22/18,Newcastle Utd,0.4,0–0,0.5,Fulham,51237,St. James' Park,Martin Atkinson
+18,Sat,12/22/18,Chelsea,1.5,0–1,0.7,Leicester City,40558,Stamford Bridge,Lee Probert
+18,Sat,12/22/18,Bournemouth,0.9,2–0,0.7,Brighton,10491,Vitality Stadium,Mike Dean
+18,Sat,12/22/18,West Ham,2.2,0–2,2.4,Watford,56833,London Stadium,Lee Mason
+18,Sat,12/22/18,Manchester City,1.2,2–3,1,Crystal Palace,54340,Etihad Stadium,Andre Marriner
+18,Sat,12/22/18,Huddersfield,0.9,1–3,2.5,Southampton,22384,The John Smith's Stadium,Stuart Attwell
+18,Sat,12/22/18,Cardiff City,1.2,1–5,2.3,Manchester Utd,33028,Cardiff City Stadium,Michael Oliver
+18,Sun,12/23/18,Everton,0.8,2–6,2.9,Tottenham,39319,Goodison Park,Paul Tierney
+,,,,,,,,,,
+19,Wed,12/26/18,Fulham,1,1–1,1.4,Wolves,24382,Craven Cottage,Andre Marriner
+19,Wed,12/26/18,Tottenham,1.7,5–0,1.5,Bournemouth,45154,Tottenham Hotspur Stadium,Chris Kavanagh
+19,Wed,12/26/18,Manchester Utd,1.5,3–1,1.3,Huddersfield,74523,Old Trafford,Jonathan Moss
+19,Wed,12/26/18,Burnley,1.5,1–5,2,Everton,21484,Turf Moor,Michael Oliver
+19,Wed,12/26/18,Crystal Palace,2.6,0–0,0.8,Cardiff City,25206,Selhurst Park,Lee Probert
+19,Wed,12/26/18,Liverpool,3,4–0,0.6,Newcastle Utd,53318,Anfield,Graham Scott
+19,Wed,12/26/18,Leicester City,1.6,2–1,1.7,Manchester City,32090,King Power Stadium,Mike Dean
+19,Wed,12/26/18,Brighton,1.7,1–1,0.5,Arsenal,30608,The American Express Community Stadium,Anthony Taylor
+19,Wed,12/26/18,Watford,0.8,1–2,2.5,Chelsea,20415,Vicarage Road Stadium,Martin Atkinson
+19,Thu,12/27/18,Southampton,1.3,1–2,1.4,West Ham,31654,St. Mary's Stadium,Craig Pawson
+,,,,,,,,,,
+20,Sat,12/29/18,Brighton,1.2,1–0,0.7,Everton,30597,The American Express Community Stadium,Andy Madley
+20,Sat,12/29/18,Watford,1.2,1–1,0.5,Newcastle Utd,20336,Vicarage Road Stadium,Roger East
+20,Sat,12/29/18,Leicester City,1.5,0–1,0.7,Cardiff City,32047,King Power Stadium,Simon Hooper
+20,Sat,12/29/18,Tottenham,0.3,1–3,0.8,Wolves,46356,Tottenham Hotspur Stadium,Stuart Attwell
+20,Sat,12/29/18,Fulham,2.2,1–0,0.4,Huddersfield,24423,Craven Cottage,Kevin Friend
+20,Sat,12/29/18,Liverpool,3.9,5–1,1.2,Arsenal,53326,Anfield,Michael Oliver
+20,Sun,12/30/18,Crystal Palace,0.2,0–1,0.6,Chelsea,25781,Selhurst Park,Craig Pawson
+20,Sun,12/30/18,Southampton,0.4,1–3,2.4,Manchester City,31381,St. Mary's Stadium,Paul Tierney
+20,Sun,12/30/18,Burnley,2.3,2–0,0.5,West Ham,20933,Turf Moor,David Coote
+20,Sun,12/30/18,Manchester Utd,1.9,4–1,0.6,Bournemouth,74556,Old Trafford,Lee Mason
+,,,,,,,,,,
+21,Tue,1/1/19,Everton,0.9,0–1,0.6,Leicester City,39052,Goodison Park,Martin Atkinson
+21,Tue,1/1/19,Arsenal,3.2,4–1,1.4,Fulham,59887,Emirates Stadium,Graham Scott
+21,Tue,1/1/19,Cardiff City,0.6,0–3,1.5,Tottenham,32485,Cardiff City Stadium,Kevin Friend
+21,Wed,1/2/19,Huddersfield,0.8,1–2,2.5,Burnley,23715,The John Smith's Stadium,Mike Dean
+21,Wed,1/2/19,Wolves,0.7,0–2,1.8,Crystal Palace,30666,Molineux Stadium,Roger East
+21,Wed,1/2/19,Bournemouth,2.3,3–3,0.6,Watford,10261,Vitality Stadium,David Coote
+21,Wed,1/2/19,West Ham,1.1,2–2,0.6,Brighton,59870,London Stadium,Chris Kavanagh
+21,Wed,1/2/19,Chelsea,1,0–0,0.2,Southampton,40668,Stamford Bridge,Jonathan Moss
+21,Wed,1/2/19,Newcastle Utd,0.8,0–2,2.3,Manchester Utd,52217,St. James' Park,Andre Marriner
+21,Thu,1/3/19,Manchester City,0.8,2–1,1.8,Liverpool,54511,Etihad Stadium,Anthony Taylor
+,,,,,,,,,,
+22,Sat,1/12/19,West Ham,0.8,1–0,1,Arsenal,59946,London Stadium,Jonathan Moss
+22,Sat,1/12/19,Burnley,0.5,2–1,0.7,Fulham,19316,Turf Moor,Martin Atkinson
+22,Sat,1/12/19,Cardiff City,0.1,0–0,0.6,Huddersfield,30725,Cardiff City Stadium,Lee Mason
+22,Sat,1/12/19,Crystal Palace,1.3,1–2,1.4,Watford,25010,Selhurst Park,Paul Tierney
+22,Sat,1/12/19,Brighton,0.4,0–1,2,Liverpool,30682,The American Express Community Stadium,Kevin Friend
+22,Sat,1/12/19,Leicester City,1.5,1–2,1.2,Southampton,31491,King Power Stadium,Michael Oliver
+22,Sat,1/12/19,Chelsea,1.6,2–1,0.5,Newcastle Utd,40491,Stamford Bridge,Chris Kavanagh
+22,Sun,1/13/19,Everton,1.3,2–0,1.4,Bournemouth,38113,Goodison Park,Anthony Taylor
+22,Sun,1/13/19,Tottenham,2,0–1,1.1,Manchester Utd,80062,Tottenham Hotspur Stadium,Mike Dean
+22,Mon,1/14/19,Manchester City,2.7,3–0,0.1,Wolves,54171,Etihad Stadium,Craig Pawson
+,,,,,,,,,,
+23,Sat,1/19/19,Wolves,1.5,4–3,1.3,Leicester City,31278,Molineux Stadium,Chris Kavanagh
+23,Sat,1/19/19,Newcastle Utd,2.1,3–0,0.3,Cardiff City,49864,St. James' Park,Stuart Attwell
+23,Sat,1/19/19,Liverpool,2.4,4–3,0.9,Crystal Palace,53171,Anfield,Jonathan Moss
+23,Sat,1/19/19,Manchester Utd,2.2,2–1,0.7,Brighton,74532,Old Trafford,Paul Tierney
+23,Sat,1/19/19,Watford,0.9,0–0,1.4,Burnley,19510,Vicarage Road Stadium,Michael Oliver
+23,Sat,1/19/19,Bournemouth,1.1,2–0,1,West Ham,10495,Vitality Stadium,Simon Hooper
+23,Sat,1/19/19,Southampton,1.1,2–1,0.8,Everton,29989,St. Mary's Stadium,Graham Scott
+23,Sat,1/19/19,Arsenal,1.7,2–0,1,Chelsea,59979,Emirates Stadium,Anthony Taylor
+23,Sun,1/20/19,Huddersfield,0.5,0–3,2.1,Manchester City,24190,The John Smith's Stadium,Andre Marriner
+23,Sun,1/20/19,Fulham,1,1–2,1.1,Tottenham,24807,Craven Cottage,Craig Pawson
+,,,,,,,,,,
+24,Tue,1/29/19,Arsenal,2,2–1,1,Cardiff City,59933,Emirates Stadium,Mike Dean
+24,Tue,1/29/19,Fulham,2,4–2,1.5,Brighton,22008,Craven Cottage,Lee Probert
+24,Tue,1/29/19,Wolves,2.3,3–0,0.2,West Ham,31122,Molineux Stadium,David Coote
+24,Tue,1/29/19,Huddersfield,0.6,0–1,0.9,Everton,23699,The John Smith's Stadium,Stuart Attwell
+24,Tue,1/29/19,Newcastle Utd,1,2–1,1.5,Manchester City,50861,St. James' Park,Paul Tierney
+24,Tue,1/29/19,Manchester Utd,3.2,2–2,0.7,Burnley,74529,Old Trafford,Jonathan Moss
+24,Wed,1/30/19,Bournemouth,1.6,4–0,0.7,Chelsea,10227,Vitality Stadium,Roger East
+24,Wed,1/30/19,Southampton,1,1–1,1.2,Crystal Palace,28339,St. Mary's Stadium,Andre Marriner
+24,Wed,1/30/19,Liverpool,0.5,1–1,0.8,Leicester City,53092,Anfield,Martin Atkinson
+24,Wed,1/30/19,Tottenham,1.5,2–1,0.6,Watford,29164,Tottenham Hotspur Stadium,Graham Scott
+,,,,,,,,,,
+25,Sat,2/2/19,Tottenham,2.3,1–0,0.6,Newcastle Utd,41219,Wembley Stadium,Andre Marriner
+25,Sat,2/2/19,Everton,0.8,1–3,1.5,Wolves,39380,Goodison Park,Lee Mason
+25,Sat,2/2/19,Chelsea,2.7,5–0,0.3,Huddersfield,40626,Stamford Bridge,Paul Tierney
+25,Sat,2/2/19,Brighton,1.5,0–0,0.3,Watford,30414,The American Express Community Stadium,Simon Hooper
+25,Sat,2/2/19,Crystal Palace,2.1,2–0,0.6,Fulham,25355,Selhurst Park,Michael Oliver
+25,Sat,2/2/19,Burnley,2.2,1–1,0.9,Southampton,19787,Turf Moor,Anthony Taylor
+25,Sat,2/2/19,Cardiff City,2.1,2–0,0.5,Bournemouth,31939,Cardiff City Stadium,Jonathan Moss
+25,Sun,2/3/19,Leicester City,1.5,0–1,1.2,Manchester Utd,32148,King Power Stadium,Mike Dean
+25,Sun,2/3/19,Manchester City,3.3,3–1,0.9,Arsenal,54483,Etihad Stadium,Martin Atkinson
+25,Mon,2/4/19,West Ham,1,1–1,1.4,Liverpool,59903,London Stadium,Kevin Friend
+,,,,,,,,,,
+27,Wed,2/6/19,Everton,0.1,0–2,2.3,Manchester City,39322,Goodison Park,Craig Pawson
+,,,,,,,,,,
+26,Sat,2/9/19,Fulham,1.2,0–3,1.9,Manchester Utd,25001,Craven Cottage,Paul Tierney
+26,Sat,2/9/19,Huddersfield,1.1,1–2,1.8,Arsenal,24182,The John Smith's Stadium,Jonathan Moss
+26,Sat,2/9/19,Southampton,1.7,1–2,0.7,Cardiff City,31438,St. Mary's Stadium,Martin Atkinson
+26,Sat,2/9/19,Watford,1.5,1–0,0.7,Everton,20333,Vicarage Road Stadium,Lee Probert
+26,Sat,2/9/19,Crystal Palace,2.5,1–1,1.4,West Ham,25552,Selhurst Park,Craig Pawson
+26,Sat,2/9/19,Liverpool,1.9,3–0,0.4,Bournemouth,53178,Anfield,Anthony Taylor
+26,Sat,2/9/19,Brighton,1.1,1–3,2.1,Burnley,29323,The American Express Community Stadium,Stuart Attwell
+26,Sun,2/10/19,Tottenham,1.1,3–1,2.5,Leicester City,44154,Tottenham Hotspur Stadium,Michael Oliver
+26,Sun,2/10/19,Manchester City,3.1,6–0,0.8,Chelsea,54452,Etihad Stadium,Mike Dean
+26,Mon,2/11/19,Wolves,2,1–1,0.7,Newcastle Utd,30687,Molineux Stadium,Graham Scott
+,,,,,,,,,,
+27,Fri,2/22/19,Cardiff City,1.4,1–5,2.5,Watford,30387,Cardiff City Stadium,Simon Hooper
+27,Fri,2/22/19,West Ham,1.5,3–1,1.2,Fulham,59950,London Stadium,Lee Mason
+27,Sat,2/23/19,Burnley,1.3,2–1,0.9,Tottenham,21338,Turf Moor,Mike Dean
+27,Sat,2/23/19,Bournemouth,2.1,1–1,1.5,Wolves,10671,Vitality Stadium,Roger East
+27,Sat,2/23/19,Newcastle Utd,3.2,2–0,0.2,Huddersfield,52174,St. James' Park,Kevin Friend
+27,Sat,2/23/19,Leicester City,1,1–4,1.4,Crystal Palace,31778,King Power Stadium,Anthony Taylor
+27,Sun,2/24/19,Arsenal,1.8,2–0,1,Southampton,59877,Emirates Stadium,Graham Scott
+27,Sun,2/24/19,Manchester Utd,0.2,0–0,0.4,Liverpool,74519,Old Trafford,Michael Oliver
+,,,,,,,,,,
+28,Tue,2/26/19,Leicester City,1.8,2–1,1.3,Brighton,30558,King Power Stadium,Lee Probert
+28,Tue,2/26/19,Huddersfield,1.6,1–0,0.5,Wolves,22714,The John Smith's Stadium,David Coote
+28,Tue,2/26/19,Cardiff City,0.3,0–3,0.8,Everton,31849,Cardiff City Stadium,Kevin Friend
+28,Tue,2/26/19,Newcastle Utd,0.7,2–0,1.4,Burnley,48323,St. James' Park,Craig Pawson
+28,Wed,2/27/19,Arsenal,3.1,5–1,1.3,Bournemouth,59618,Emirates Stadium,Chris Kavanagh
+28,Wed,2/27/19,Southampton,1.3,2–0,0.7,Fulham,27597,St. Mary's Stadium,Anthony Taylor
+28,Wed,2/27/19,Manchester City,3.1,1–0,0.4,West Ham,53528,Etihad Stadium,Stuart Attwell
+28,Wed,2/27/19,Chelsea,0.6,2–0,0.5,Tottenham,40542,Stamford Bridge,Andre Marriner
+28,Wed,2/27/19,Liverpool,1.8,5–0,1,Watford,53316,Anfield,Graham Scott
+28,Wed,2/27/19,Crystal Palace,1.5,1–3,1.2,Manchester Utd,25754,Selhurst Park,Martin Atkinson
+,,,,,,,,,,
+29,Sat,3/2/19,Tottenham,1.4,1–1,2.2,Arsenal,81332,Tottenham Hotspur Stadium,Anthony Taylor
+29,Sat,3/2/19,Bournemouth,0,0–1,1.7,Manchester City,10699,Vitality Stadium,Kevin Friend
+29,Sat,3/2/19,Wolves,2.5,2–0,0.5,Cardiff City,31309,Molineux Stadium,Andre Marriner
+29,Sat,3/2/19,Manchester Utd,2.2,3–2,0.5,Southampton,74459,Old Trafford,Stuart Attwell
+29,Sat,3/2/19,Burnley,1.7,1–3,0.7,Crystal Palace,19223,Turf Moor,Lee Probert
+29,Sat,3/2/19,Brighton,1.1,1–0,0.2,Huddersfield,30182,The American Express Community Stadium,Mike Dean
+29,Sat,3/2/19,West Ham,1.8,2–0,1.1,Newcastle Utd,59910,London Stadium,Chris Kavanagh
+29,Sun,3/3/19,Watford,0.8,2–1,1,Leicester City,20062,Vicarage Road Stadium,Jonathan Moss
+29,Sun,3/3/19,Fulham,0.8,1–2,1.6,Chelsea,24900,Craven Cottage,Graham Scott
+29,Sun,3/3/19,Everton,0.4,0–0,1.1,Liverpool,39335,Goodison Park,Martin Atkinson
+,,,,,,,,,,
+30,Sat,3/9/19,Crystal Palace,1.6,1–2,0.1,Brighton,24972,Selhurst Park,Craig Pawson
+30,Sat,3/9/19,Leicester City,1.9,3–1,0.2,Fulham,32017,King Power Stadium,David Coote
+30,Sat,3/9/19,Cardiff City,2.9,2–0,0.3,West Ham,32458,Cardiff City Stadium,Graham Scott
+30,Sat,3/9/19,Newcastle Utd,2.2,3–2,1,Everton,52242,St. James' Park,Lee Mason
+30,Sat,3/9/19,Southampton,1.1,2–1,1.2,Tottenham,31890,St. Mary's Stadium,Kevin Friend
+30,Sat,3/9/19,Huddersfield,0.5,0–2,2.2,Bournemouth,22304,The John Smith's Stadium,Anthony Taylor
+30,Sat,3/9/19,Manchester City,3.2,3–1,0.5,Watford,54104,Etihad Stadium,Paul Tierney
+30,Sun,3/10/19,Liverpool,4.5,4–2,0.5,Burnley,53310,Anfield,Andre Marriner
+30,Sun,3/10/19,Chelsea,1.3,1–1,0.3,Wolves,40692,Stamford Bridge,Michael Oliver
+30,Sun,3/10/19,Arsenal,1.6,2–0,1.5,Manchester Utd,60000,Emirates Stadium,Jonathan Moss
+,,,,,,,,,,
+31,Sat,3/16/19,Bournemouth,1.5,2–2,1.2,Newcastle Utd,10625,Vitality Stadium,Mike Dean
+31,Sat,3/16/19,Burnley,1.6,1–2,0.7,Leicester City,20719,Turf Moor,Michael Oliver
+31,Sat,3/16/19,West Ham,2.2,4–3,1.5,Huddersfield,59931,London Stadium,Jonathan Moss
+31,Sun,3/17/19,Fulham,1.1,1–2,2.4,Liverpool,25043,Craven Cottage,Craig Pawson
+31,Sun,3/17/19,Everton,2,2–0,1.3,Chelsea,39356,Goodison Park,Anthony Taylor
+,,,,,,,,,,
+32,Sat,3/30/19,Fulham,0.3,0–2,2.5,Manchester City,25001,Craven Cottage,Kevin Friend
+32,Sat,3/30/19,Burnley,0.3,2–0,0.5,Wolves,20990,Turf Moor,Chris Kavanagh
+32,Sat,3/30/19,Brighton,1,0–1,0.6,Southampton,30636,The American Express Community Stadium,Michael Oliver
+32,Sat,3/30/19,Crystal Palace,3.1,2–0,0.6,Huddersfield,25193,Selhurst Park,Lee Probert
+32,Sat,3/30/19,Manchester Utd,1.2,2–1,1.2,Watford,74543,Old Trafford,Stuart Attwell
+32,Sat,3/30/19,Leicester City,1.5,2–0,0.7,Bournemouth,31530,King Power Stadium,Lee Mason
+32,Sat,3/30/19,West Ham,0.1,0–2,2.1,Everton,59988,London Stadium,Paul Tierney
+32,Sun,3/31/19,Cardiff City,0.4,1–2,1.5,Chelsea,32657,Cardiff City Stadium,Craig Pawson
+32,Sun,3/31/19,Liverpool,0.9,2–1,1.2,Tottenham,53322,Anfield,Martin Atkinson
+32,Mon,4/1/19,Arsenal,0.7,2–0,0.1,Newcastle Utd,59869,Emirates Stadium,Anthony Taylor
+,,,,,,,,,,
+33,Tue,4/2/19,Watford,1.5,4–1,2.1,Fulham,17301,Vicarage Road Stadium,Roger East
+33,Tue,4/2/19,Wolves,1.5,2–1,1.5,Manchester Utd,31302,Molineux Stadium,Mike Dean
+,,,,,,,,,,
+27,Wed,4/3/19,Chelsea,1.9,3–0,0.7,Brighton,38593,Stamford Bridge,Graham Scott
+,,,,,,,,,,
+31,Wed,4/3/19,Tottenham,2.5,2–0,0.6,Crystal Palace,59215,Tottenham Hotspur Stadium,Andre Marriner
+,,,,,,,,,,
+33,Wed,4/3/19,Manchester City,3.1,2–0,0.1,Cardiff City,53559,Etihad Stadium,Jonathan Moss
+33,Fri,4/5/19,Southampton,0.9,1–3,1.7,Liverpool,31797,St. Mary's Stadium,Paul Tierney
+33,Sat,4/6/19,Bournemouth,1.1,1–3,1,Burnley,10446,Vitality Stadium,Martin Atkinson
+33,Sat,4/6/19,Newcastle Utd,1.3,0–1,1.4,Crystal Palace,51926,St. James' Park,Stuart Attwell
+33,Sat,4/6/19,Huddersfield,1.7,1–4,3,Leicester City,24126,The John Smith's Stadium,David Coote
+33,Sun,4/7/19,Everton,2.5,1–0,0.4,Arsenal,39400,Goodison Park,Kevin Friend
+33,Mon,4/8/19,Chelsea,1.8,2–0,0.6,West Ham,40537,Stamford Bridge,Chris Kavanagh
+,,,,,,,,,,
+34,Fri,4/12/19,Leicester City,1.2,0–1,0.8,Newcastle Utd,32108,King Power Stadium,Chris Kavanagh
+34,Sat,4/13/19,Tottenham,2.2,4–0,0.6,Huddersfield,58308,Tottenham Hotspur Stadium,Lee Mason
+34,Sat,4/13/19,Southampton,2.7,3–1,0.8,Wolves,31708,St. Mary's Stadium,Jonathan Moss
+34,Sat,4/13/19,Fulham,1.1,2–0,0.8,Everton,24971,Craven Cottage,Lee Probert
+34,Sat,4/13/19,Brighton,0.4,0–5,2,Bournemouth,30460,The American Express Community Stadium,Kevin Friend
+34,Sat,4/13/19,Burnley,2.5,2–0,0.8,Cardiff City,21480,Turf Moor,Mike Dean
+34,Sat,4/13/19,Manchester Utd,2.4,2–1,1.1,West Ham,74478,Old Trafford,Graham Scott
+34,Sun,4/14/19,Crystal Palace,0.3,1–3,1.9,Manchester City,25721,Selhurst Park,Martin Atkinson
+34,Sun,4/14/19,Liverpool,1.2,2–0,0.9,Chelsea,53279,Anfield,Michael Oliver
+34,Mon,4/15/19,Watford,0.5,0–1,2.1,Arsenal,20480,Vicarage Road Stadium,Craig Pawson
+,,,,,,,,,,
+31,Tue,4/16/19,Brighton,0.7,0–2,0.7,Cardiff City,30226,The American Express Community Stadium,Andre Marriner
+,,,,,,,,,,
+35,Sat,4/20/19,Manchester City,1.9,1–0,1.1,Tottenham,54489,Etihad Stadium,Michael Oliver
+35,Sat,4/20/19,Wolves,1.7,0–0,0.1,Brighton,31096,Molineux Stadium,Craig Pawson
+35,Sat,4/20/19,West Ham,1.5,2–2,1.1,Leicester City,59960,London Stadium,Lee Probert
+35,Sat,4/20/19,Huddersfield,0.9,1–2,1.3,Watford,23957,The John Smith's Stadium,Roger East
+35,Sat,4/20/19,Bournemouth,2.1,0–1,1.9,Fulham,10511,Vitality Stadium,David Coote
+35,Sat,4/20/19,Newcastle Utd,1.5,3–1,0.9,Southampton,52191,St. James' Park,Anthony Taylor
+35,Sun,4/21/19,Everton,1.3,4–0,0.3,Manchester Utd,39395,Goodison Park,Paul Tierney
+35,Sun,4/21/19,Arsenal,1.3,2–3,2.3,Crystal Palace,59929,Emirates Stadium,Jonathan Moss
+35,Sun,4/21/19,Cardiff City,1.2,0–2,3.2,Liverpool,33082,Cardiff City Stadium,Martin Atkinson
+35,Mon,4/22/19,Chelsea,1.2,2–2,0.8,Burnley,40642,Stamford Bridge,Kevin Friend
+,,,,,,,,,,
+31,Tue,4/23/19,Watford,1.6,1–1,1.5,Southampton,19170,Vicarage Road Stadium,Mike Dean
+,,,,,,,,,,
+33,Tue,4/23/19,Tottenham,1.5,1–0,0.2,Brighton,56251,Tottenham Hotspur Stadium,Chris Kavanagh
+,,,,,,,,,,
+31,Wed,4/24/19,Wolves,1,3–1,0.7,Arsenal,31436,Molineux Stadium,Stuart Attwell
+31,Wed,4/24/19,Manchester Utd,0.6,0–2,0.5,Manchester City,74431,Old Trafford,Andre Marriner
+,,,,,,,,,,
+36,Fri,4/26/19,Liverpool,2.4,5–0,0.2,Huddersfield,53249,Anfield,Kevin Friend
+36,Sat,4/27/19,Tottenham,1.2,0–1,1.2,West Ham,60043,Tottenham Hotspur Stadium,Anthony Taylor
+36,Sat,4/27/19,Southampton,2.8,3–3,2.1,Bournemouth,31310,St. Mary's Stadium,Graham Scott
+36,Sat,4/27/19,Crystal Palace,0.3,0–0,1.4,Everton,25789,Selhurst Park,Lee Mason
+36,Sat,4/27/19,Fulham,0.9,1–0,1,Cardiff City,23822,Craven Cottage,Chris Kavanagh
+36,Sat,4/27/19,Watford,1.2,1–2,1.6,Wolves,20323,Vicarage Road Stadium,Simon Hooper
+36,Sat,4/27/19,Brighton,1.3,1–1,0.4,Newcastle Utd,30587,The American Express Community Stadium,Mike Dean
+36,Sun,4/28/19,Leicester City,3.2,3–0,0.5,Arsenal,32037,King Power Stadium,Michael Oliver
+36,Sun,4/28/19,Burnley,0.1,0–1,2.3,Manchester City,21605,Turf Moor,Paul Tierney
+36,Sun,4/28/19,Manchester Utd,0.6,1–1,1.2,Chelsea,74526,Old Trafford,Martin Atkinson
+,,,,,,,,,,
+37,Fri,5/3/19,Everton,1.7,2–0,0.7,Burnley,39303,Goodison Park,Chris Kavanagh
+37,Sat,5/4/19,Bournemouth,1.7,1–0,0.6,Tottenham,10630,Vitality Stadium,Craig Pawson
+37,Sat,5/4/19,Wolves,1.9,1–0,0.3,Fulham,30456,Molineux Stadium,Jonathan Moss
+37,Sat,5/4/19,West Ham,1.9,3–0,0.5,Southampton,59961,London Stadium,Stuart Attwell
+37,Sat,5/4/19,Cardiff City,1.6,2–3,1.9,Crystal Palace,32133,Cardiff City Stadium,Michael Oliver
+37,Sat,5/4/19,Newcastle Utd,1.3,2–3,1.2,Liverpool,52206,St. James' Park,Andre Marriner
+37,Sun,5/5/19,Huddersfield,1.1,1–1,1.4,Manchester Utd,24263,The John Smith's Stadium,Lee Mason
+37,Sun,5/5/19,Chelsea,1.8,3–0,1.5,Watford,40560,Stamford Bridge,Paul Tierney
+37,Sun,5/5/19,Arsenal,2.2,1–1,1.8,Brighton,59965,Emirates Stadium,Anthony Taylor
+37,Mon,5/6/19,Manchester City,1.3,1–0,0.7,Leicester City,54506,Etihad Stadium,Mike Dean
+,,,,,,,,,,
+38,Sun,5/12/19,Burnley,1.8,1–3,2,Arsenal,21461,Turf Moor,Mike Dean
+38,Sun,5/12/19,Fulham,0.9,0–4,1.5,Newcastle Utd,24979,Craven Cottage,Kevin Friend
+38,Sun,5/12/19,Leicester City,0.4,0–0,1.6,Chelsea,32140,King Power Stadium,Anthony Taylor
+38,Sun,5/12/19,Liverpool,1.5,2–0,0.7,Wolves,53331,Anfield,Martin Atkinson
+38,Sun,5/12/19,Crystal Palace,2.1,5–3,1.9,Bournemouth,25433,Selhurst Park,Roger East
+38,Sun,5/12/19,Tottenham,1.2,2–2,1.8,Everton,60124,Tottenham Hotspur Stadium,Andre Marriner
+38,Sun,5/12/19,Watford,2.3,1–4,3.5,West Ham,20067,Vicarage Road Stadium,Chris Kavanagh
+38,Sun,5/12/19,Manchester Utd,1.7,0–2,1.9,Cardiff City,74457,Old Trafford,Jonathan Moss
+38,Sun,5/12/19,Southampton,0.6,1–1,1,Huddersfield,30367,St. Mary's Stadium,Lee Probert
+38,Sun,5/12/19,Brighton,0.4,1–4,1.6,Manchester City,30662,The American Express Community Stadium,Michael Oliver
