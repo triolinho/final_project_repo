@@ -1,6 +1,6 @@
 # Soccer Recommender and Simulator
 
-slideshow - https://docs.google.com/presentation/d/1ZF9b5ImsS19IaxzGQsibQVaTjdoJkYbP_f699EQW1us/edit?usp=sharing
+[Slideshow](https://docs.google.com/presentation/d/1ZF9b5ImsS19IaxzGQsibQVaTjdoJkYbP_f699EQW1us/edit?usp=sharing)
 
 # Project Goals
 
